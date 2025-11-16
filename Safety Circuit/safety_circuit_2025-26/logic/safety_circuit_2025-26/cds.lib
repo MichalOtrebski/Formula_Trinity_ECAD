@@ -1,6 +1,0 @@
-DEFINE worklib ./worklib
-INCLUDE "$CONCEPT_INST_DIR/share/cdssetup/cds.lib"
-DEFINE ultralibrarian $HOME/downloaded_parts/ultralibrarian/dehdl
-DEFINE snapeda $HOME/downloaded_parts/snapeda/dehdl
-DEFINE library C:/Cadence/SPB_25.1/tools/capture/library
-DEFINE capture C:/Cadence/SPB_25.1/tools/capture

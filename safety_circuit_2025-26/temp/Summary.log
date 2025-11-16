@@ -1,0 +1,12 @@
+Audit Summary
+
+Graphical connectivity audit summary-
+                   Net segment cleanup : 0 detected
+
+Power symbol audit summary-
+                  Power Symbol cleanup : 0 detected
+
+Database compaction cleanup summary-
+               Net database compaction : 0 detected
+         Component database compaction : 0 detected
+        Constraint database compaction : 0 detected

@@ -1,0 +1,614 @@
+\t (00:03:43) allegro 25.1 P001 (4349869) [9/14/2025] Windows SPB 64-bit Edition
+\t (00:03:43)     Journal start - Wed Nov 12 00:39:13 2025
+\t (00:03:43)         Host=COMPUTER User=motre Pid=24960 CPUs=12
+\t (00:03:43) CmdLine= C:\Cadence\SPB_25.1\tools\bin\allegro.exe
+\t (00:03:43) 
+\t (00:03:43) Starting new design...
+\i (00:03:44) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged
+\i (00:03:44) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Electrical
+\t (00:03:44) Grids are drawn 1300.4800, 1300.4800 apart for enhanced viewing.
+\i (00:03:44) trapsize 27573
+\i (00:03:44) trapsize 27573
+\i (00:03:44) updateport SearchPane
+\i (00:03:44) generaledit 
+\i (00:03:55) new 
+\i (00:04:02) newdrawfillin "menu_cancel"
+\i (00:04:02) generaledit 
+\i (00:04:05) new 
+\i (00:04:08) newdrawfillin "V1.brd" "Board"
+\t (00:04:08) Starting new design...
+\i (00:04:08) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged
+\i (00:04:08) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Electrical
+\i (00:04:09) trapsize 27573
+\i (00:04:09) trapsize 27573
+\i (00:04:09) updateport SearchPane
+\i (00:04:09) generaledit 
+\i (00:04:18) prepopup -148.1342 102.2974
+\i (00:04:19) pick grid -180.1194 110.5695
+\t (00:04:19) last pick:  -180.3400 111.7600
+\i (00:04:19) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Setup  (0/3)" "Design Parameters"
+\i (00:04:19) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Setup  (0/3)" "Design Parameters"
+\i (00:04:19) prmed 
+\i (00:04:20) setwindow form.prmedit
+\i (00:04:20) FORM prmedit done  
+\i (00:04:20) setwindow pcb
+\i (00:04:20) generaledit 
+\i (00:04:21) QtSignal CWorkFlowWidget CWorkFlowWidget_tree customContextMenuRequest "Setup  (0/3)" +
+\i (00:04:21) QtSignal "Design Parameters"
+\i (00:04:22) QtSignal CWorkFlowWidget_tree Mark_Complete triggered
+\i (00:04:22) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Setup  (1/3)" Grids
+\i (00:04:22) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Setup  (1/3)" Grids
+\i (00:04:22) define grid 
+\t (00:04:22) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (00:04:26) setwindow form.grid
+\i (00:04:26) FORM grid non_etch non_etch_x_grids 2.5 
+\i (00:04:26) FORM grid done  
+\i (00:04:27) setwindow pcb
+\i (00:04:27) QtSignal CWorkFlowWidget CWorkFlowWidget_tree customContextMenuRequest "Setup  (1/3)" +
+\i (00:04:27) QtSignal Grids
+\i (00:04:27) QtSignal CWorkFlowWidget_tree Mark_Complete triggered
+\i (00:04:28) QtSignal CWorkFlowWidget CWorkFlowWidget_tree customContextMenuRequest "Setup  (2/3)" +
+\i (00:04:28) QtSignal Grids
+\i (00:04:28) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Setup  (2/3)" Grids
+\i (00:04:28) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Setup  (2/3)" Grids
+\i (00:04:28) define grid 
+\t (00:04:28) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (00:04:31) setwindow form.grid
+\i (00:04:31) FORM grid non_etch non_etch_y_grids 2.5 
+\i (00:04:34) FORM grid top subclass_x_grids 0.5 
+\i (00:04:37) FORM grid top subclass_y_grids 0.5 
+\i (00:04:37) FORM grid top subclass_y_grids 0.5000 
+\i (00:04:37) FORM grid done  
+\i (00:04:38) setwindow pcb
+\i (00:04:38) QtSignal CWorkFlowWidget CWorkFlowWidget_tree customContextMenuRequest "Setup  (2/3)" +
+\i (00:04:38) QtSignal Grids
+\i (00:04:39) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Setup  (2/3)" Grids
+\i (00:04:39) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Setup  (2/3)" Grids
+\i (00:04:39) define grid 
+\t (00:04:39) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (00:04:40) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Setup  (2/3)" Grids
+\i (00:04:40) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Setup  (2/3)" Grids
+\i (00:04:40) define grid 
+\i (00:04:44) setwindow form.grid
+\i (00:04:44) FORM grid bottom subclass_x_grids 0.5 
+\i (00:04:46) FORM grid bottom subclass_y_grids 0.5 
+\i (00:04:46) FORM grid bottom subclass_y_grids 0.5000 
+\i (00:04:46) FORM grid done  
+\i (00:04:47) setwindow pcb
+\i (00:04:47) QtSignal CWorkFlowWidget CWorkFlowWidget_tree customContextMenuRequest "Setup  (2/3)" +
+\i (00:04:47) QtSignal Colors
+\i (00:04:47) QtSignal CWorkFlowWidget_tree Mark_Complete triggered
+\i (00:04:48) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Setup (Complete)"
+\i (00:04:48) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Setup (Complete)"
+\i (00:04:49) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Database Preparation  (0/8)"
+\i (00:04:49) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Database Preparation  (0/8)"
+\i (00:04:50) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Database Preparation  (0/8)" +
+\i (00:04:50) QtSignal "Board Outline  (0/5)"
+\i (00:04:50) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Database Preparation  (0/8)" +
+\i (00:04:50) QtSignal "Board Outline  (0/5)"
+\i (00:04:51) pick grid -58.7963 52.1138
+\t (00:04:51) last pick:  -60.0000 52.5000
+\i (00:04:51) prepopup -61.0022 52.1138
+\i (00:04:52) pick grid -102.3623 71.4152
+\t (00:04:52) last pick:  -102.5000 72.5000
+\i (00:04:59) roam start
+\i (00:05:00) roam end
+\i (00:05:00) zoom in 1 
+\t (00:05:00) [00:40:30.431312] Periodic Lic check successful
+[00:40:30.955723] Feature usage summary:
+[00:40:30.955723] Allegro_X_Platinum_Layout  
+[00:40:30.955723] SiP_Layout_Bundle_1  
+[00:40:30.955723] Allegro_PCB_Productivity_TB  
+[00:40:30.955723] Allegro_PCB_Harmony_Option  
+[00:40:30.955723] Allegro_Venture_PCB_Designer  
+[00:40:30.955723] PCB_design_studio  
+[00:40:30.955723] Venture_PCB_Schematic  
+[00:40:30.955728] Allegro_Venture_PCB_Designer2  
+\i (00:05:00) setwindow pcb
+\i (00:05:00) zoom in -3.0980 33.9153
+\i (00:05:00) trapsize 13787
+\i (00:05:01) zoom out 1 
+\i (00:05:01) setwindow pcb
+\i (00:05:01) zoom out -6.4068 81.8931
+\i (00:05:01) trapsize 27573
+\i (00:05:01) zoom out 1 
+\i (00:05:01) setwindow pcb
+\i (00:05:01) zoom out -8.6126 128.2165
+\i (00:05:01) trapsize 27573
+\i (00:05:01) zoom out 1 
+\i (00:05:01) setwindow pcb
+\i (00:05:01) zoom out -0.8921 114.9812
+\i (00:05:01) trapsize 27573
+\i (00:05:01) zoom in 1 
+\i (00:05:01) setwindow pcb
+\i (00:05:01) zoom in -0.8921 114.9812
+\i (00:05:01) trapsize 13787
+\i (00:05:01) zoom in 1 
+\i (00:05:01) setwindow pcb
+\i (00:05:01) zoom in -0.8920 114.9812
+\i (00:05:01) trapsize 6893
+\i (00:05:01) zoom in 1 
+\i (00:05:01) setwindow pcb
+\i (00:05:01) zoom in -0.8920 115.1191
+\i (00:05:01) trapsize 3447
+\i (00:05:01) zoom in 1 
+\i (00:05:01) setwindow pcb
+\i (00:05:01) zoom in -0.8920 115.1880
+\i (00:05:01) trapsize 1723
+\i (00:05:01) zoom out 1 
+\i (00:05:01) setwindow pcb
+\i (00:05:01) zoom out -0.7886 115.2225
+\i (00:05:01) trapsize 3447
+\i (00:05:02) zoom out 1 
+\i (00:05:02) setwindow pcb
+\i (00:05:02) zoom out -0.7197 115.4293
+\i (00:05:02) trapsize 6893
+\i (00:05:02) zoom out 1 
+\i (00:05:02) setwindow pcb
+\i (00:05:02) zoom out -0.7196 116.1186
+\i (00:05:02) trapsize 13787
+\i (00:05:02) zoom out 1 
+\i (00:05:02) setwindow pcb
+\i (00:05:02) zoom out -0.4440 116.1186
+\i (00:05:02) trapsize 27573
+\i (00:05:02) zoom out 1 
+\i (00:05:02) setwindow pcb
+\i (00:05:02) zoom out 2.4167 121.0474
+\i (00:05:02) trapsize 27573
+\i (00:05:02) zoom out 1 
+\i (00:05:02) setwindow pcb
+\i (00:05:02) zoom out 2.9682 121.0474
+\i (00:05:02) trapsize 27573
+\i (00:05:02) zoom out 1 
+\i (00:05:02) setwindow pcb
+\i (00:05:02) zoom out 3.5197 121.0474
+\i (00:05:02) trapsize 27573
+\i (00:05:02) zoom in 1 
+\i (00:05:02) setwindow pcb
+\i (00:05:02) zoom in 3.5197 121.0474
+\i (00:05:02) trapsize 13787
+\i (00:05:02) zoom out 1 
+\i (00:05:02) setwindow pcb
+\i (00:05:02) zoom out 3.7955 121.0474
+\i (00:05:02) trapsize 27573
+\i (00:05:02) zoom out 1 
+\i (00:05:02) setwindow pcb
+\i (00:05:02) zoom out 4.0711 121.0474
+\i (00:05:02) trapsize 27573
+\i (00:05:02) zoom out 1 
+\i (00:05:02) setwindow pcb
+\i (00:05:02) zoom out 4.0711 117.1871
+\i (00:05:02) trapsize 27573
+\i (00:05:03) zoom in 1 
+\i (00:05:03) setwindow pcb
+\i (00:05:03) zoom in -43.9066 44.3932
+\i (00:05:03) trapsize 13787
+\i (00:05:03) zoom in 1 
+\i (00:05:03) setwindow pcb
+\i (00:05:03) zoom in -43.9066 44.3932
+\i (00:05:03) trapsize 6893
+\i (00:05:04) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Database Preparation  (0/8)" +
+\i (00:05:04) QtSignal "Board Outline  (0/5)" "Create  (0/1)"
+\i (00:05:04) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Database Preparation  (0/8)" +
+\i (00:05:04) QtSignal "Board Outline  (0/5)" "Create  (0/1)"
+\i (00:05:06) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Database Preparation  (0/8)" +
+\i (00:05:06) QtSignal "Board Outline  (0/5)" "Create  (0/1)"
+\i (00:05:06) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Database Preparation  (0/8)" +
+\i (00:05:06) QtSignal "Board Outline  (0/5)" "Create  (0/1)" Manual
+\i (00:05:06) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Database Preparation  (0/8)" +
+\i (00:05:06) QtSignal "Board Outline  (0/5)" "Create  (0/1)"
+\i (00:05:06) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Database Preparation  (0/8)" +
+\i (00:05:06) QtSignal "Board Outline  (0/5)" "Create  (0/1)" Manual
+\i (00:05:07) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Database Preparation  (0/8)" +
+\i (00:05:07) QtSignal "Board Outline  (0/5)" "Create  (0/1)" Automatically
+\i (00:05:07) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Database Preparation  (0/8)" +
+\i (00:05:07) QtSignal "Board Outline  (0/5)" "Create  (0/1)" Automatically
+\i (00:05:07) board outline 
+\t (00:05:07) Loading floor.cxt 
+\t (00:05:07) Loading fputil.cxt 
+\i (00:05:08) pick grid -46.9396 62.0402
+\t (00:05:08) last pick:  -47.5000 62.5000
+\i (00:05:10) prepopup -15.5059 11.3051
+\i (00:05:12) pick grid -16.1952 29.5036
+\t (00:05:12) last pick:  -15.0000 30.0000
+\i (00:05:14) pick grid -25.4323 29.6414
+\t (00:05:14) last pick:  -25.0000 30.0000
+\i (00:05:15) pick grid -22.6750 29.7793
+\t (00:05:15) last pick:  -22.5000 30.0000
+\i (00:05:15) toggle 
+\i (00:05:16) prepopup -16.4710 18.4742
+\i (00:05:18) undo 
+\i (00:05:18) trapsize 6893
+\i (00:05:18) updateport SearchPane
+\i (00:05:18) generaledit 
+\i (00:05:20) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Database Preparation  (0/8)" +
+\i (00:05:20) QtSignal "Board Outline  (0/5)" "Create  (0/1)" Automatically
+\i (00:05:20) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Database Preparation  (0/8)" +
+\i (00:05:20) QtSignal "Board Outline  (0/5)" "Create  (0/1)" Automatically
+\i (00:05:20) board outline 
+\i (00:05:22) pick grid -0.0648 -0.1379
+\t (00:05:22) last pick:  0.0000 0.0000
+\i (00:05:28) pick grid 49.8432 51.1487
+\t (00:05:28) last pick:  50.0000 50.0000
+\i (00:05:30) setwindow form.fpbdoutline
+\i (00:05:30) FORM fpbdoutline done  
+\i (00:05:30) setwindow pcb
+\i (00:05:30) updateport SearchPane
+\i (00:05:30) generaledit 
+\i (00:05:31) pick grid 64.1813 34.7425
+\t (00:05:31) last pick:  65.0000 35.0000
+\i (00:05:31) roam start
+\i (00:05:31) roam x -16
+\i (00:05:31) roam x -16
+\i (00:05:31) roam x -16
+\i (00:05:31) roam x -16
+\i (00:05:31) roam x -16
+\i (00:05:31) roam x -16
+\i (00:05:31) roam x -16
+\i (00:05:31) roam x -16
+\i (00:05:31) roam y -16
+\i (00:05:31) roam x -16
+\i (00:05:31) roam x -16
+\i (00:05:31) roam x -32
+\i (00:05:31) roam x -16
+\i (00:05:31) roam x -16
+\i (00:05:31) roam x -16
+\i (00:05:31) roam x -32
+\i (00:05:31) roam x -16
+\i (00:05:31) roam y -16
+\i (00:05:31) roam x -16
+\i (00:05:31) roam x -16
+\i (00:05:31) roam x -16
+\i (00:05:31) roam x -16
+\i (00:05:31) roam x -16
+\i (00:05:31) roam x -16
+\i (00:05:31) roam x -16
+\i (00:05:31) roam x -16
+\i (00:05:31) roam x -16
+\i (00:05:31) roam x -16
+\i (00:05:31) roam y -16
+\i (00:05:31) roam x -32
+\i (00:05:31) roam x -16
+\i (00:05:31) roam x -32
+\i (00:05:31) roam x -16
+\i (00:05:31) roam x -16
+\i (00:05:31) roam y -16
+\i (00:05:31) roam x -16
+\i (00:05:31) roam x -16
+\i (00:05:31) roam x -16
+\i (00:05:31) roam x -16
+\i (00:05:31) roam x -16
+\i (00:05:31) roam y -16
+\i (00:05:31) roam x -16
+\i (00:05:31) roam x -32
+\i (00:05:31) roam x -16
+\i (00:05:31) roam x -16
+\i (00:05:31) roam x -32
+\i (00:05:31) roam y -16
+\i (00:05:31) roam x -16
+\i (00:05:31) roam x -16
+\i (00:05:31) roam x -16
+\i (00:05:31) roam x -16
+\i (00:05:31) roam x -16
+\i (00:05:31) roam y -16
+\i (00:05:31) roam x -16
+\i (00:05:31) roam x -16
+\i (00:05:31) roam x -16
+\i (00:05:31) roam x -16
+\i (00:05:31) roam x -16
+\i (00:05:31) roam x -32
+\i (00:05:31) roam y -16
+\i (00:05:31) roam x -16
+\i (00:05:31) roam x -32
+\i (00:05:31) roam x -16
+\i (00:05:32) roam x -16
+\i (00:05:32) roam x -16
+\i (00:05:32) roam x -16
+\i (00:05:32) roam x -16
+\i (00:05:32) roam x -16
+\i (00:05:32) roam y -16
+\i (00:05:32) roam x -16
+\i (00:05:32) roam x -16
+\i (00:05:32) roam x -16
+\i (00:05:32) roam x -16
+\i (00:05:32) roam x -16
+\i (00:05:32) roam x -16
+\i (00:05:32) roam x -16
+\i (00:05:32) roam y -16
+\i (00:05:32) roam y -16
+\i (00:05:32) roam y -16
+\i (00:05:32) roam y -16
+\i (00:05:32) roam x 16
+\i (00:05:32) roam x 16
+\i (00:05:32) roam x 16
+\i (00:05:32) roam x 16
+\i (00:05:32) roam x 16
+\i (00:05:32) roam x 16
+\i (00:05:32) roam x 16
+\i (00:05:32) roam x 16
+\i (00:05:32) roam x 16
+\i (00:05:32) roam x 16
+\i (00:05:32) roam x 16
+\i (00:05:32) roam x 16
+\i (00:05:32) roam x 16
+\i (00:05:32) roam x 16
+\i (00:05:32) roam x 16
+\i (00:05:32) roam x 16
+\i (00:05:32) roam x 16
+\i (00:05:32) roam x 16
+\i (00:05:32) roam x 16
+\i (00:05:32) roam x 16
+\i (00:05:32) roam x 16
+\i (00:05:32) roam x 16
+\i (00:05:32) roam x 16
+\i (00:05:32) roam x 16
+\i (00:05:32) roam x 16
+\i (00:05:32) roam x 16
+\i (00:05:32) roam x 16
+\i (00:05:32) roam x 16
+\i (00:05:32) roam x 16
+\i (00:05:32) roam x 16
+\i (00:05:32) roam x 16
+\i (00:05:32) roam x 16
+\i (00:05:32) roam x 16
+\i (00:05:32) roam x 16
+\i (00:05:32) roam x 16
+\i (00:05:32) roam y 16
+\i (00:05:32) roam x 16
+\i (00:05:32) roam x 16
+\i (00:05:32) roam x 16
+\i (00:05:32) roam x 16
+\i (00:05:32) roam x 16
+\i (00:05:32) roam x 16
+\i (00:05:32) roam x 16
+\i (00:05:32) roam y 16
+\i (00:05:32) roam x 16
+\i (00:05:32) roam x 16
+\i (00:05:32) roam x 16
+\i (00:05:32) roam x 16
+\i (00:05:32) roam x 16
+\i (00:05:32) roam y 16
+\i (00:05:32) roam x 16
+\i (00:05:32) roam x 16
+\i (00:05:32) roam x 16
+\i (00:05:32) roam x 16
+\i (00:05:32) roam x 16
+\i (00:05:32) roam y 16
+\i (00:05:32) roam x 16
+\i (00:05:32) roam x 16
+\i (00:05:32) roam x 16
+\i (00:05:32) roam x 16
+\i (00:05:32) roam x 16
+\i (00:05:32) roam y 16
+\i (00:05:32) roam x 16
+\i (00:05:32) roam x 16
+\i (00:05:32) roam x 16
+\i (00:05:32) roam x 16
+\i (00:05:32) roam x 16
+\i (00:05:32) roam x 16
+\i (00:05:32) roam x 16
+\i (00:05:32) roam y 16
+\i (00:05:32) roam x 16
+\i (00:05:32) roam x 16
+\i (00:05:32) roam x 16
+\i (00:05:32) roam x 16
+\i (00:05:32) roam x 16
+\i (00:05:32) roam x 16
+\i (00:05:32) roam x 16
+\i (00:05:32) roam x 16
+\i (00:05:32) roam x 16
+\i (00:05:32) roam x 16
+\i (00:05:32) roam y 16
+\i (00:05:32) roam x 16
+\i (00:05:32) roam y 16
+\i (00:05:32) roam x 16
+\i (00:05:33) roam y 16
+\i (00:05:33) roam x 16
+\i (00:05:33) roam x 16
+\i (00:05:33) roam x 16
+\i (00:05:33) roam y 16
+\i (00:05:33) roam x 16
+\i (00:05:33) roam x 16
+\i (00:05:33) roam x 16
+\i (00:05:33) roam x 16
+\i (00:05:33) roam x 16
+\i (00:05:33) roam y 16
+\i (00:05:33) roam x 16
+\i (00:05:33) roam x 16
+\i (00:05:33) roam x 16
+\i (00:05:33) roam y 16
+\i (00:05:33) roam x 16
+\i (00:05:33) roam x 16
+\i (00:05:33) roam y 16
+\i (00:05:33) roam x 16
+\i (00:05:33) roam x 16
+\i (00:05:33) roam y 16
+\i (00:05:33) roam x 16
+\i (00:05:33) roam x 16
+\i (00:05:33) roam x 16
+\i (00:05:33) roam y 16
+\i (00:05:33) roam x 16
+\i (00:05:33) roam x 16
+\i (00:05:33) roam x 16
+\i (00:05:33) roam x 16
+\i (00:05:33) roam x 16
+\i (00:05:33) roam x 16
+\i (00:05:33) roam end
+\i (00:05:34) pick grid 13.5840 39.8437
+\t (00:05:34) last pick:  12.5000 40.0000
+\i (00:05:36) drag_start grid 9.9994 33.2261
+\i (00:05:36) move 
+\t (00:05:36) last pick:  10.0000 32.5000
+\t (00:05:36) Element has no origin, using pick.
+\t (00:05:36) Pick new location for the element(s).
+\i (00:05:38) drag_stop grid 9.5858 33.0882
+\i (00:05:38) updateport SearchPane
+\i (00:05:38) generaledit 
+\i (00:05:38) pick grid -17.1604 38.1893
+\t (00:05:38) last pick:  -17.5000 37.5000
+\i (00:05:39) pick grid 45.2935 49.6323
+\t (00:05:39) last pick:  45.0000 50.0000
+\i (00:05:40) pick grid 71.7640 44.6691
+\t (00:05:40) last pick:  72.5000 45.0000
+\i (00:05:40) zoom out 1 
+\i (00:05:40) setwindow pcb
+\i (00:05:40) zoom out 72.1776 44.8069
+\i (00:05:40) trapsize 13787
+\i (00:05:40) zoom out 1 
+\i (00:05:40) setwindow pcb
+\i (00:05:40) zoom out 72.1775 44.8070
+\i (00:05:40) trapsize 27573
+\i (00:05:40) zoom out 1 
+\i (00:05:40) setwindow pcb
+\i (00:05:40) zoom out 199.8425 64.2461
+\i (00:05:40) trapsize 27573
+\i (00:05:41) zoom in 1 
+\i (00:05:41) setwindow pcb
+\i (00:05:41) zoom in 150.7618 80.7902
+\i (00:05:41) trapsize 13787
+\i (00:05:41) zoom in 1 
+\i (00:05:41) setwindow pcb
+\i (00:05:41) zoom in 105.3954 80.7902
+\i (00:05:41) trapsize 6893
+\i (00:05:42) zoom out 1 
+\i (00:05:42) setwindow pcb
+\i (00:05:42) zoom out 105.3955 80.7903
+\i (00:05:42) trapsize 13787
+\i (00:05:43) roam start
+\i (00:05:43) roam y -16
+\i (00:05:43) roam y -16
+\i (00:05:43) roam end
+\i (00:05:44) QtSignal CWorkFlowWidget CWorkFlowWidget_tree customContextMenuRequest "Database Preparation  (0/8)" +
+\i (00:05:44) QtSignal "Board Outline  (0/5)" "Create  (0/1)" Automatically
+\i (00:05:44) QtSignal CWorkFlowWidget_tree Mark_Complete triggered
+\i (00:05:45) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Database Preparation  (1/8)" +
+\i (00:05:45) QtSignal "Board Outline  (1/5)" "Create (Complete)"
+\i (00:05:45) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Database Preparation  (1/8)" +
+\i (00:05:45) QtSignal "Board Outline  (1/5)" "Create (Complete)"
+\i (00:05:46) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Database Preparation  (1/8)" +
+\i (00:05:46) QtSignal "Board Outline  (1/5)" "Import  (0/4)"
+\i (00:05:46) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Database Preparation  (1/8)" +
+\i (00:05:46) QtSignal "Board Outline  (1/5)" "Import  (0/4)"
+\i (00:05:46) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Database Preparation  (1/8)" +
+\i (00:05:46) QtSignal "Board Outline  (1/5)" "Import  (0/4)"
+\i (00:05:46) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Database Preparation  (1/8)" +
+\i (00:05:46) QtSignal "Board Outline  (1/5)" "Import  (0/4)"
+\i (00:05:48) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Database Preparation  (1/8)" +
+\i (00:05:48) QtSignal "Board Outline  (1/5)"
+\i (00:05:48) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Database Preparation  (1/8)" +
+\i (00:05:48) QtSignal "Board Outline  (1/5)"
+\i (00:05:48) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Database Preparation  (1/8)" +
+\i (00:05:48) QtSignal "Cross Section (Stack-up)  (0/1)"
+\i (00:05:48) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Database Preparation  (1/8)" +
+\i (00:05:48) QtSignal "Cross Section (Stack-up)  (0/1)"
+\i (00:05:49) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Database Preparation  (1/8)" +
+\i (00:05:49) QtSignal "Cross Section (Stack-up)  (0/1)"
+\i (00:05:49) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Database Preparation  (1/8)" +
+\i (00:05:49) QtSignal "Cross Section (Stack-up)  (0/1)"
+\i (00:05:49) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Database Preparation  (1/8)" +
+\i (00:05:49) QtSignal "Netlist  (0/2)"
+\i (00:05:49) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Database Preparation  (1/8)" +
+\i (00:05:49) QtSignal "Netlist  (0/2)"
+\i (00:05:50) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Database Preparation  (1/8)" +
+\i (00:05:50) QtSignal "Netlist  (0/2)" Import
+\i (00:05:50) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Database Preparation  (1/8)" +
+\i (00:05:50) QtSignal "Netlist  (0/2)" Import
+\i (00:05:50) netin 
+\i (00:05:52) setwindow form.niparams
+\i (00:05:52) FORM niparams five_dot_x YES 
+\i (00:05:55) FORM niparams cancel  
+\i (00:05:55) setwindow pcb
+\i (00:05:55) generaledit 
+\i (00:05:55) pick grid -23.6484 118.0144
+\t (00:05:55) last pick:  -22.5000 117.5000
+\i (00:05:58) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Placement  (0/4)"
+\i (00:05:58) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Placement  (0/4)"
+\i (00:05:59) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Placement  (0/4)" +
+\i (00:05:59) QtSignal Manual
+\i (00:05:59) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Placement  (0/4)" Manual
+\i (00:05:59) place manual 
+\i (00:05:59) setwindow form.plc_manual
+\i (00:05:59) FORM plc_manual tree  'Components by refdes' 
+\i (00:06:01) FORM plc_manual advanced_settings  
+\i (00:06:01) FORM plc_manual placement_list  
+\i (00:06:04) FORM plc_manual propbtn YES 
+\i (00:06:05) FORM plc_manual prevbtn YES 
+\i (00:06:07) FORM plc_manual cancel  
+\i (00:06:07) setwindow pcb
+\i (00:06:07) updateport SearchPane
+\i (00:06:07) generaledit 
+\i (00:06:07) drag_start grid -22.5455 99.8160
+\i (00:06:07) drag_stop -18.9609 105.8821
+\i (00:06:17) net logic 
+\i (00:06:19) fillin confirm
+\i (00:06:19) updateport SearchPane
+\i (00:06:19) generaledit 
+\i (00:06:29) ecadmcad 
+\i (00:06:29) generaledit 
+\i (00:06:31) setwindow form.ecadmcad
+\i (00:06:31) FORM ecadmcad setup  
+\i (00:06:34) setwindow form.ecadmcad_connector_setup
+\i (00:06:34) FORM ecadmcad_connector_setup csetup_cancel  
+\i (00:06:34) setwindow pcb
+\i (00:06:34) generaledit 
+\i (00:06:57) netin 
+\i (00:06:59) setwindow form.niparams
+\i (00:06:59) FORM niparams five_dot_x YES 
+\i (00:07:00) FORM niparams capture_netlist YES 
+\i (00:07:01) fillin yes 
+\i (00:07:02) FORM niparams five_dot_x YES 
+\i (00:07:03) fillin yes 
+\i (00:07:07) FORM niparams browse  
+\i (00:07:09) fillin "menu_cancel"
+\i (00:07:10) FORM niparams import  
+\e (00:07:10) Library not defined
+\e (00:07:10) Library not defined
+\t (00:07:10) Starting Cadence Logic Import...
+\i (00:07:10) setwindow pcb
+\i (00:07:10) updateport SearchPane
+\t (00:07:12) SpawnProcessExit background process completed status = 2
+
+\e (00:07:12) ERROR(SPMHGE-268): netrev had errors, use Viewlog to review the log file.
+\i (00:07:19) setwindow text
+\i (00:07:19) close
+\i (00:07:20) setwindow form.niparams
+\i (00:07:20) FORM niparams browse  
+\i (00:07:24) fillin "C:/SPB_Data/safety_circuit_2025-26/logic/safety_circuit_2025-26"
+\i (00:07:25) FORM niparams import  
+\e (00:07:25) Library not defined
+\e (00:07:25) Library not defined
+\t (00:07:25) Starting Cadence Logic Import...
+\i (00:07:25) setwindow pcb
+\i (00:07:25) updateport SearchPane
+\t (00:07:26) SpawnProcessExit background process completed status = 2
+
+\e (00:07:26) ERROR(SPMHGE-268): netrev had errors, use Viewlog to review the log file.
+\i (00:07:31) setwindow text
+\i (00:07:31) close
+\i (00:07:33) setwindow pcb
+\i (00:07:33) pick grid 27.3625 81.6175
+\t (00:07:33) last pick:  27.5000 82.5000
+\i (00:07:33) setwindow form.niparams
+\i (00:07:33) FORM niparams other  
+\i (00:07:39) FORM niparams cancel  
+\i (00:07:39) setwindow pcb
+\i (00:07:39) generaledit 
+\i (00:08:44) pick grid -56.1851 133.7313
+\t (00:08:44) last pick:  -55.0000 132.5000
+\i (00:08:44) pick grid -83.4828 156.6173
+\t (00:08:44) last pick:  -82.5000 157.5000
+\i (00:08:46) exit 
+\e (00:08:46) Do you want to save the changes you made to V1.brd?
+\i (00:08:47) fillin no 
+\t (00:08:47) Lic Summary:
+[00:44:17.458016] Cdslmd servers: my-vps
+[00:44:17.982313] Feature usage summary:
+[00:44:17.982314] Allegro_X_Platinum_Layout  
+[00:44:17.982315] SiP_Layout_Bundle_1  
+[00:44:17.982315] Allegro_PCB_Productivity_TB  
+[00:44:17.982315] Allegro_PCB_Harmony_Option  
+[00:44:17.982315] Allegro_Venture_PCB_Designer  
+[00:44:17.982315] PCB_design_studio  
+[00:44:17.982315] Venture_PCB_Schematic  
+[00:44:17.982315] Allegro_Venture_PCB_Designer2  
+\t (00:08:47)     Journal end - Wed Nov 12 00:44:18 2025

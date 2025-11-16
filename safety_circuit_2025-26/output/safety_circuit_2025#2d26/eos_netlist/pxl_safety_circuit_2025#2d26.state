@@ -1,0 +1,327 @@
+FILE_TYPE = PXL_HDL_CENTRIC_STATE_FILE;
+VERSION = PXL_HDL_CENTRIC_VERSION_1;
+TIME = '12-Nov-2025 AT 22:09:06';
+
+{--------------------------------------------------------------------------}
+
+BEGIN_REFDES_LIST:
+R23, C2, R9, R10, C3, R11, R12, R13, R14, R15, U5, U6, C4, R16, R17, R18, R19, ~
+R20, U7, U8, R1, U1, R2, U2, J1, J2, R3, R4, R5, R6, U3, U4, R7, C1, C5, R21, ~
+R22, R24, R25, U9, U10, C6, R26, R27, R28, R29, R30, U11, U12, LED1, LED2, LED3, ~
+LED4, LED5, LED6, R31, R32, R33, R34, R35, R36, R8;
+END_REFDES_LIST; { end of REFDES_LIST }
+
+BEGIN_MODULE: 'safety_circuit_2025-26' = '@worklib.\safety_circuit_2025-26\(tbl_1)';
+REUSE_ID = '171';
+
+BEGIN_PRIM:
+PATH_NAME  = '@worklib.\safety_circuit_2025-26\(tbl_1):\I5\';
+REUSE_ID  = '131';
+END_PRIM;
+
+BEGIN_PRIM:
+PATH_NAME  = '@worklib.\safety_circuit_2025-26\(tbl_1):\I6\';
+REUSE_ID  = '137';
+END_PRIM;
+
+BEGIN_PRIM:
+PATH_NAME  = '@worklib.\safety_circuit_2025-26\(tbl_1):\I7\';
+REUSE_ID  = '141';
+END_PRIM;
+
+BEGIN_PRIM:
+PATH_NAME  = '@worklib.\safety_circuit_2025-26\(tbl_1):\I8\';
+REUSE_ID  = '134';
+END_PRIM;
+
+BEGIN_PRIM:
+PATH_NAME  = '@worklib.\safety_circuit_2025-26\(tbl_1):\I9\';
+REUSE_ID  = '135';
+END_PRIM;
+
+BEGIN_PRIM:
+PATH_NAME  = '@worklib.\safety_circuit_2025-26\(tbl_1):\I10\';
+REUSE_ID  = '115';
+END_PRIM;
+
+BEGIN_PRIM:
+PATH_NAME  = '@worklib.\safety_circuit_2025-26\(tbl_1):\I16\';
+REUSE_ID  = '123';
+END_PRIM;
+
+BEGIN_PRIM:
+PATH_NAME  = '@worklib.\safety_circuit_2025-26\(tbl_1):\I17\';
+REUSE_ID  = '143';
+END_PRIM;
+
+BEGIN_PRIM:
+PATH_NAME  = '@worklib.\safety_circuit_2025-26\(tbl_1):\I18\';
+REUSE_ID  = '142';
+END_PRIM;
+
+BEGIN_PRIM:
+PATH_NAME  = '@worklib.\safety_circuit_2025-26\(tbl_1):\I19\';
+REUSE_ID  = '111';
+END_PRIM;
+
+BEGIN_PRIM:
+PATH_NAME  = '@worklib.\safety_circuit_2025-26\(tbl_1):\I20\';
+REUSE_ID  = '132';
+END_PRIM;
+
+BEGIN_PRIM:
+PATH_NAME  = '@worklib.\safety_circuit_2025-26\(tbl_1):\I21\';
+REUSE_ID  = '138';
+END_PRIM;
+
+BEGIN_PRIM:
+PATH_NAME  = '@worklib.\safety_circuit_2025-26\(tbl_1):\I22\';
+REUSE_ID  = '117';
+END_PRIM;
+
+BEGIN_PRIM:
+PATH_NAME  = '@worklib.\safety_circuit_2025-26\(tbl_1):\I23\';
+REUSE_ID  = '124';
+END_PRIM;
+
+BEGIN_PRIM:
+PATH_NAME  = '@worklib.\safety_circuit_2025-26\(tbl_1):\I24\';
+REUSE_ID  = '171';
+END_PRIM;
+
+BEGIN_PRIM:
+PATH_NAME  = '@worklib.\safety_circuit_2025-26\(tbl_1):\I25\';
+REUSE_ID  = '133';
+END_PRIM;
+
+BEGIN_PRIM:
+PATH_NAME  = '@worklib.\safety_circuit_2025-26\(tbl_1):\I26\';
+REUSE_ID  = '120';
+END_PRIM;
+
+BEGIN_PRIM:
+PATH_NAME  = '@worklib.\safety_circuit_2025-26\(tbl_1):\I27\';
+REUSE_ID  = '114';
+END_PRIM;
+
+BEGIN_PRIM:
+PATH_NAME  = '@worklib.\safety_circuit_2025-26\(tbl_1):\I28\';
+REUSE_ID  = '136';
+END_PRIM;
+
+BEGIN_PRIM:
+PATH_NAME  = '@worklib.\safety_circuit_2025-26\(tbl_1):\I29\';
+REUSE_ID  = '139';
+END_PRIM;
+
+BEGIN_PRIM:
+PATH_NAME  = '@worklib.\safety_circuit_2025-26\(tbl_1):\I30\';
+REUSE_ID  = '119';
+END_PRIM;
+
+BEGIN_PRIM:
+PATH_NAME  = '@worklib.\safety_circuit_2025-26\(tbl_1):\I31\';
+REUSE_ID  = '125';
+END_PRIM;
+
+BEGIN_PRIM:
+PATH_NAME  = '@worklib.\safety_circuit_2025-26\(tbl_1):\I32\';
+REUSE_ID  = '112';
+END_PRIM;
+
+BEGIN_PRIM:
+PATH_NAME  = '@worklib.\safety_circuit_2025-26\(tbl_1):\I33\';
+REUSE_ID  = '140';
+END_PRIM;
+
+BEGIN_PRIM:
+PATH_NAME  = '@worklib.\safety_circuit_2025-26\(tbl_1):\I34\';
+REUSE_ID  = '121';
+END_PRIM;
+
+BEGIN_PRIM:
+PATH_NAME  = '@worklib.\safety_circuit_2025-26\(tbl_1):\I35\';
+REUSE_ID  = '122';
+END_PRIM;
+
+BEGIN_PRIM:
+PATH_NAME  = '@worklib.\safety_circuit_2025-26\(tbl_1):\I36\';
+REUSE_ID  = '126';
+END_PRIM;
+
+BEGIN_PRIM:
+PATH_NAME  = '@worklib.\safety_circuit_2025-26\(tbl_1):\I37\';
+REUSE_ID  = '146';
+END_PRIM;
+
+BEGIN_PRIM:
+PATH_NAME  = '@worklib.\safety_circuit_2025-26\(tbl_1):\I38\';
+REUSE_ID  = '155';
+END_PRIM;
+
+BEGIN_PRIM:
+PATH_NAME  = '@worklib.\safety_circuit_2025-26\(tbl_1):\I39\';
+REUSE_ID  = '168';
+END_PRIM;
+
+BEGIN_PRIM:
+PATH_NAME  = '@worklib.\safety_circuit_2025-26\(tbl_1):\I40\';
+REUSE_ID  = '148';
+END_PRIM;
+
+BEGIN_PRIM:
+PATH_NAME  = '@worklib.\safety_circuit_2025-26\(tbl_1):\I41\';
+REUSE_ID  = '128';
+END_PRIM;
+
+BEGIN_PRIM:
+PATH_NAME  = '@worklib.\safety_circuit_2025-26\(tbl_1):\I42\';
+REUSE_ID  = '150';
+END_PRIM;
+
+BEGIN_PRIM:
+PATH_NAME  = '@worklib.\safety_circuit_2025-26\(tbl_1):\I43\';
+REUSE_ID  = '144';
+END_PRIM;
+
+BEGIN_PRIM:
+PATH_NAME  = '@worklib.\safety_circuit_2025-26\(tbl_1):\I44\';
+REUSE_ID  = '127';
+END_PRIM;
+
+BEGIN_PRIM:
+PATH_NAME  = '@worklib.\safety_circuit_2025-26\(tbl_1):\I45\';
+REUSE_ID  = '110';
+END_PRIM;
+
+BEGIN_PRIM:
+PATH_NAME  = '@worklib.\safety_circuit_2025-26\(tbl_1):\I46\';
+REUSE_ID  = '165';
+END_PRIM;
+
+BEGIN_PRIM:
+PATH_NAME  = '@worklib.\safety_circuit_2025-26\(tbl_1):\I47\';
+REUSE_ID  = '169';
+END_PRIM;
+
+BEGIN_PRIM:
+PATH_NAME  = '@worklib.\safety_circuit_2025-26\(tbl_1):\I48\';
+REUSE_ID  = '152';
+END_PRIM;
+
+BEGIN_PRIM:
+PATH_NAME  = '@worklib.\safety_circuit_2025-26\(tbl_1):\I49\';
+REUSE_ID  = '129';
+END_PRIM;
+
+BEGIN_PRIM:
+PATH_NAME  = '@worklib.\safety_circuit_2025-26\(tbl_1):\I50\';
+REUSE_ID  = '157';
+END_PRIM;
+
+BEGIN_PRIM:
+PATH_NAME  = '@worklib.\safety_circuit_2025-26\(tbl_1):\I51\';
+REUSE_ID  = '151';
+END_PRIM;
+
+BEGIN_PRIM:
+PATH_NAME  = '@worklib.\safety_circuit_2025-26\(tbl_1):\I52\';
+REUSE_ID  = '145';
+END_PRIM;
+
+BEGIN_PRIM:
+PATH_NAME  = '@worklib.\safety_circuit_2025-26\(tbl_1):\I53\';
+REUSE_ID  = '147';
+END_PRIM;
+
+BEGIN_PRIM:
+PATH_NAME  = '@worklib.\safety_circuit_2025-26\(tbl_1):\I54\';
+REUSE_ID  = '167';
+END_PRIM;
+
+BEGIN_PRIM:
+PATH_NAME  = '@worklib.\safety_circuit_2025-26\(tbl_1):\I55\';
+REUSE_ID  = '170';
+END_PRIM;
+
+BEGIN_PRIM:
+PATH_NAME  = '@worklib.\safety_circuit_2025-26\(tbl_1):\I56\';
+REUSE_ID  = '153';
+END_PRIM;
+
+BEGIN_PRIM:
+PATH_NAME  = '@worklib.\safety_circuit_2025-26\(tbl_1):\I57\';
+REUSE_ID  = '149';
+END_PRIM;
+
+BEGIN_PRIM:
+PATH_NAME  = '@worklib.\safety_circuit_2025-26\(tbl_1):\I58\';
+REUSE_ID  = '158';
+END_PRIM;
+
+BEGIN_PRIM:
+PATH_NAME  = '@worklib.\safety_circuit_2025-26\(tbl_1):\I59\';
+REUSE_ID  = '159';
+END_PRIM;
+
+BEGIN_PRIM:
+PATH_NAME  = '@worklib.\safety_circuit_2025-26\(tbl_1):\I60\';
+REUSE_ID  = '162';
+END_PRIM;
+
+BEGIN_PRIM:
+PATH_NAME  = '@worklib.\safety_circuit_2025-26\(tbl_1):\I61\';
+REUSE_ID  = '163';
+END_PRIM;
+
+BEGIN_PRIM:
+PATH_NAME  = '@worklib.\safety_circuit_2025-26\(tbl_1):\I62\';
+REUSE_ID  = '164';
+END_PRIM;
+
+BEGIN_PRIM:
+PATH_NAME  = '@worklib.\safety_circuit_2025-26\(tbl_1):\I63\';
+REUSE_ID  = '160';
+END_PRIM;
+
+BEGIN_PRIM:
+PATH_NAME  = '@worklib.\safety_circuit_2025-26\(tbl_1):\I64\';
+REUSE_ID  = '161';
+END_PRIM;
+
+BEGIN_PRIM:
+PATH_NAME  = '@worklib.\safety_circuit_2025-26\(tbl_1):\I65\';
+REUSE_ID  = '113';
+END_PRIM;
+
+BEGIN_PRIM:
+PATH_NAME  = '@worklib.\safety_circuit_2025-26\(tbl_1):\I66\';
+REUSE_ID  = '154';
+END_PRIM;
+
+BEGIN_PRIM:
+PATH_NAME  = '@worklib.\safety_circuit_2025-26\(tbl_1):\I67\';
+REUSE_ID  = '156';
+END_PRIM;
+
+BEGIN_PRIM:
+PATH_NAME  = '@worklib.\safety_circuit_2025-26\(tbl_1):\I68\';
+REUSE_ID  = '116';
+END_PRIM;
+
+BEGIN_PRIM:
+PATH_NAME  = '@worklib.\safety_circuit_2025-26\(tbl_1):\I69\';
+REUSE_ID  = '118';
+END_PRIM;
+
+BEGIN_PRIM:
+PATH_NAME  = '@worklib.\safety_circuit_2025-26\(tbl_1):\I70\';
+REUSE_ID  = '166';
+END_PRIM;
+
+BEGIN_PRIM:
+PATH_NAME  = '@worklib.\safety_circuit_2025-26\(tbl_1):\I72\';
+REUSE_ID  = '130';
+END_PRIM;
+
+END_MODULE; { end of module '@worklib.\safety_circuit_2025-26\(tbl_1)'}

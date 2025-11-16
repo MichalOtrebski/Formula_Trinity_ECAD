@@ -1,0 +1,1542 @@
+\t (00:00:10) allegro 25.1 P001 (4349869) [9/14/2025] Windows SPB 64-bit Edition
+\t (00:00:10)     Journal start - Wed Nov 12 20:06:47 2025
+\t (00:00:10)         Host=COMPUTER User=motre Pid=23664 CPUs=12
+\t (00:00:10) CmdLine= C:\Cadence\SPB_25.1\tools\bin\allegro.exe
+\t (00:00:10) 
+\t (00:00:10) Loading axlcore.cxt 
+\t (00:00:42) Opening existing design...
+\i (00:00:42) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged V1
+\d (00:00:42) Design opened: C:/SPB_Data/safety_circuit_2025-26/output/safety_circuit_2025#2d26/physical/V1.brd
+\i (00:00:42) trapsize 901
+\i (00:00:42) trapsize 939
+\i (00:00:43) trapsize 951
+\i (00:00:43) trapsize 1132
+\i (00:00:43) trapsize 1132
+\t (00:00:43) Loading NV GPU Plugin
+\i (00:00:43) trapsize 666
+\i (00:00:45) updateport SearchPane
+\i (00:00:59) roam start
+\i (00:00:59) roam x 16
+\i (00:00:59) roam y 16
+\i (00:00:59) roam x 16
+\i (00:00:59) roam y 16
+\i (00:00:59) roam y 16
+\i (00:00:59) roam x 16
+\i (00:00:59) roam y 16
+\i (00:00:59) roam y 16
+\i (00:00:59) roam x 16
+\i (00:00:59) roam y 16
+\i (00:00:59) roam y 16
+\i (00:00:59) roam x 16
+\i (00:00:59) roam y 16
+\i (00:00:59) roam y 16
+\i (00:00:59) roam y 16
+\i (00:00:59) roam x 16
+\i (00:00:59) roam y 16
+\i (00:00:59) roam y 16
+\i (00:00:59) roam y 32
+\i (00:00:59) roam y 16
+\i (00:00:59) roam y 16
+\i (00:00:59) roam y 16
+\i (00:00:59) roam y 16
+\i (00:00:59) roam y 16
+\i (00:00:59) roam y 16
+\i (00:00:59) roam y 32
+\i (00:00:59) roam y 16
+\i (00:00:59) roam x -16
+\i (00:00:59) roam y 16
+\i (00:00:59) roam y 32
+\i (00:00:59) roam x -16
+\i (00:00:59) roam y 16
+\i (00:00:59) roam y 16
+\i (00:00:59) roam x -16
+\i (00:00:59) roam y 32
+\i (00:00:59) roam x -16
+\i (00:00:59) roam x -16
+\i (00:00:59) roam x -16
+\i (00:00:59) roam y 16
+\i (00:00:59) roam x -16
+\i (00:00:59) roam x -16
+\i (00:00:59) roam x -16
+\i (00:00:59) roam x -16
+\i (00:00:59) roam y 16
+\i (00:00:59) roam x -16
+\i (00:00:59) roam x -16
+\i (00:00:59) roam x -32
+\i (00:00:59) roam x -16
+\i (00:00:59) roam y 16
+\i (00:00:59) roam x -16
+\i (00:00:59) roam x -16
+\i (00:00:59) roam x -16
+\i (00:00:59) roam y 16
+\i (00:00:59) roam x -16
+\i (00:00:59) roam x -16
+\i (00:00:59) roam x -16
+\i (00:00:59) roam x -32
+\i (00:00:59) roam x -16
+\i (00:00:59) roam y 16
+\i (00:00:59) roam x -16
+\i (00:00:59) roam x -32
+\i (00:00:59) roam y 16
+\i (00:00:59) roam x -16
+\i (00:00:59) roam x -16
+\i (00:00:59) roam x -16
+\i (00:00:59) roam x -16
+\i (00:00:59) roam x -16
+\i (00:00:59) roam y 16
+\i (00:00:59) roam x -32
+\i (00:00:59) roam x -16
+\i (00:00:59) roam x -16
+\i (00:00:59) roam y 16
+\i (00:00:59) roam x -32
+\i (00:00:59) roam x -16
+\i (00:00:59) roam x -16
+\i (00:00:59) roam x -16
+\i (00:00:59) roam y 16
+\i (00:00:59) roam x -16
+\i (00:00:59) roam x -16
+\i (00:00:59) roam x -16
+\i (00:00:59) roam x -16
+\i (00:00:59) roam x -16
+\i (00:00:59) roam x -16
+\i (00:00:59) roam y 16
+\i (00:00:59) roam x -16
+\i (00:00:59) roam x -32
+\i (00:00:59) roam x -16
+\i (00:00:59) roam x -16
+\i (00:00:59) roam y 16
+\i (00:00:59) roam x -32
+\i (00:00:59) roam x -16
+\i (00:00:59) roam x -32
+\i (00:01:00) roam y 16
+\i (00:01:00) roam x -16
+\i (00:01:00) roam x -16
+\i (00:01:00) roam y 16
+\i (00:01:00) roam x -16
+\i (00:01:00) roam x -16
+\i (00:01:00) roam y 16
+\i (00:01:00) roam x -16
+\i (00:01:00) roam y 16
+\i (00:01:00) roam y 16
+\i (00:01:00) roam x 16
+\i (00:01:00) roam x 16
+\i (00:01:00) roam x 16
+\i (00:01:00) roam x 16
+\i (00:01:00) roam x 16
+\i (00:01:00) roam y -16
+\i (00:01:00) roam x 16
+\i (00:01:00) roam x 16
+\i (00:01:00) roam y -16
+\i (00:01:00) roam x 16
+\i (00:01:00) roam y -16
+\i (00:01:00) roam x 16
+\i (00:01:00) roam x 16
+\i (00:01:00) roam y -16
+\i (00:01:00) roam x 16
+\i (00:01:00) roam y -16
+\i (00:01:00) roam x 16
+\i (00:01:00) roam y -16
+\i (00:01:00) roam x 16
+\i (00:01:00) roam y -16
+\i (00:01:00) roam y -16
+\i (00:01:00) roam x 16
+\i (00:01:00) roam y -16
+\i (00:01:00) roam x 16
+\i (00:01:00) roam y -16
+\i (00:01:00) roam y -16
+\i (00:01:00) roam x 16
+\i (00:01:00) roam y -16
+\i (00:01:00) roam x 16
+\i (00:01:00) roam y -16
+\i (00:01:00) roam x 16
+\i (00:01:00) roam y -16
+\i (00:01:00) roam y -16
+\i (00:01:00) roam x 16
+\i (00:01:00) roam y -16
+\i (00:01:00) roam end
+\i (00:01:00) zoom out 1 
+\i (00:01:00) setwindow pcb
+\i (00:01:00) zoom out 70.1890 27.6559
+\t (00:01:00) Loading consmgr.cxt 
+\t (00:01:00) Loading acns_formula.cxt 
+\i (00:01:00) trapsize 1332
+\i (00:01:00) zoom in 1 
+\i (00:01:00) setwindow pcb
+\i (00:01:00) zoom in 70.4021 27.7358
+\i (00:01:00) trapsize 666
+\i (00:01:00) zoom out 1 
+\i (00:01:00) setwindow pcb
+\i (00:01:00) zoom out 70.7085 27.8824
+\i (00:01:00) trapsize 1332
+\i (00:01:01) zoom out 1 
+\i (00:01:01) setwindow pcb
+\i (00:01:01) zoom out 71.9606 28.3085
+\i (00:01:01) trapsize 2664
+\i (00:01:07) roam start
+\i (00:01:07) roam x -16
+\i (00:01:07) roam x -16
+\i (00:01:07) roam y 16
+\i (00:01:07) roam x -16
+\i (00:01:07) roam x -16
+\i (00:01:07) roam x -16
+\i (00:01:07) roam y 16
+\i (00:01:07) roam x -16
+\i (00:01:07) roam x -16
+\i (00:01:07) roam x -32
+\i (00:01:07) roam y 16
+\i (00:01:07) roam x -16
+\i (00:01:07) roam x -16
+\i (00:01:07) roam x -16
+\i (00:01:07) roam x -32
+\i (00:01:07) roam y 16
+\i (00:01:07) roam x -16
+\i (00:01:07) roam x -32
+\i (00:01:07) roam x -16
+\i (00:01:07) roam x -16
+\i (00:01:07) roam x -16
+\i (00:01:07) roam x -16
+\i (00:01:07) roam x -16
+\i (00:01:07) roam x -32
+\i (00:01:07) roam x -16
+\i (00:01:07) roam x -32
+\i (00:01:07) roam x -16
+\i (00:01:07) roam x -16
+\i (00:01:07) roam x -16
+\i (00:01:07) roam x -32
+\i (00:01:07) roam x -16
+\i (00:01:07) roam x -16
+\i (00:01:07) roam x -16
+\i (00:01:07) roam x -32
+\i (00:01:07) roam x -16
+\i (00:01:07) roam x -16
+\i (00:01:07) roam x -16
+\i (00:01:07) roam x -16
+\i (00:01:07) roam x -16
+\i (00:01:07) roam x -16
+\i (00:01:07) roam x -32
+\i (00:01:07) roam x -16
+\i (00:01:07) roam x -32
+\i (00:01:07) roam end
+\i (00:01:09) roam start
+\i (00:01:09) roam x 16
+\i (00:01:09) roam x 16
+\i (00:01:09) roam y 16
+\i (00:01:09) roam x 16
+\i (00:01:09) roam x 16
+\i (00:01:09) roam x 16
+\i (00:01:09) roam y 16
+\i (00:01:09) roam x 16
+\i (00:01:09) roam x 16
+\i (00:01:09) roam y 16
+\i (00:01:09) roam x 16
+\i (00:01:09) roam x 16
+\i (00:01:09) roam x 16
+\i (00:01:09) roam x 16
+\i (00:01:09) roam y 16
+\i (00:01:09) roam x 16
+\i (00:01:09) roam x 16
+\i (00:01:09) roam y 16
+\i (00:01:09) roam x 16
+\i (00:01:09) roam x 32
+\i (00:01:09) roam x 16
+\i (00:01:09) roam y 16
+\i (00:01:09) roam x 16
+\i (00:01:09) roam x 32
+\i (00:01:09) roam y 16
+\i (00:01:09) roam x 16
+\i (00:01:09) roam x 16
+\i (00:01:09) roam x 16
+\i (00:01:09) roam x 16
+\i (00:01:09) roam x 16
+\i (00:01:10) roam y 16
+\i (00:01:10) roam x 16
+\i (00:01:10) roam x 16
+\i (00:01:10) roam x 16
+\i (00:01:10) roam x 16
+\i (00:01:10) roam x 16
+\i (00:01:10) roam x 16
+\i (00:01:10) roam x 16
+\i (00:01:10) roam x 16
+\i (00:01:10) roam x 16
+\i (00:01:10) roam x 16
+\i (00:01:10) roam x 16
+\i (00:01:10) roam x 16
+\i (00:01:10) roam x 16
+\i (00:01:10) roam x 16
+\i (00:01:10) roam x 16
+\i (00:01:10) roam y -16
+\i (00:01:10) roam x 16
+\i (00:01:10) roam x 16
+\i (00:01:10) roam y -16
+\i (00:01:10) roam y -16
+\i (00:01:10) roam x 16
+\i (00:01:10) roam y -16
+\i (00:01:10) roam x 16
+\i (00:01:10) roam y -16
+\i (00:01:10) roam y -16
+\i (00:01:10) roam x 16
+\i (00:01:10) roam y -16
+\i (00:01:10) roam x 16
+\i (00:01:10) roam y -16
+\i (00:01:10) roam end
+\i (00:01:20) dehilight 
+\i (00:01:21) prepopup 70.9882 26.3106
+\i (00:01:21) pick grid 66.3528 23.5933
+\t (00:01:21) last pick:  66.2500 23.5000
+\i (00:01:22) pick grid 52.0738 26.8434
+\t (00:01:22) last pick:  52.0000 26.7500
+\i (00:01:22) prepopup 52.0738 26.8966
+\i (00:01:23) pick grid 46.5327 25.7245
+\t (00:01:23) last pick:  46.5000 25.7500
+\i (00:01:23) zoom in 1 
+\i (00:01:23) setwindow pcb
+\i (00:01:23) zoom in 67.3651 22.6875
+\i (00:01:23) trapsize 1332
+\i (00:01:23) zoom in 1 
+\i (00:01:23) setwindow pcb
+\i (00:01:23) zoom in 67.3652 22.6875
+\i (00:01:23) trapsize 666
+\i (00:01:23) zoom out 1 
+\i (00:01:23) setwindow pcb
+\i (00:01:23) zoom out 67.3652 22.6876
+\i (00:01:23) trapsize 1332
+\i (00:01:23) zoom out 1 
+\i (00:01:23) setwindow pcb
+\i (00:01:23) zoom out 67.3652 22.6875
+\i (00:01:23) trapsize 2664
+\i (00:01:23) zoom out 1 
+\i (00:01:23) setwindow pcb
+\i (00:01:23) zoom out 67.3651 22.6875
+\i (00:01:23) trapsize 5328
+\i (00:01:23) zoom out 1 
+\i (00:01:23) setwindow pcb
+\i (00:01:23) zoom out 67.3652 22.6876
+\i (00:01:23) trapsize 10656
+\i (00:01:23) zoom out 1 
+\i (00:01:23) setwindow pcb
+\i (00:01:23) zoom out 67.3651 22.6876
+\i (00:01:23) trapsize 21312
+\i (00:01:23) zoom out 1 
+\i (00:01:23) setwindow pcb
+\i (00:01:23) zoom out 67.8984 22.6875
+\i (00:01:23) trapsize 43115
+\i (00:01:24) zoom in 1 
+\i (00:01:24) setwindow pcb
+\i (00:01:24) zoom in 108.4000 38.4782
+\i (00:01:24) trapsize 21557
+\i (00:01:24) zoom in 1 
+\i (00:01:24) setwindow pcb
+\i (00:01:24) zoom in -38.8855 38.4782
+\i (00:01:24) trapsize 10779
+\i (00:01:24) zoom in 1 
+\i (00:01:24) setwindow pcb
+\i (00:01:24) zoom in -38.8855 38.4782
+\i (00:01:24) trapsize 5389
+\i (00:01:25) prepopup 32.0386 33.6278
+\i (00:01:25) cancel 
+\i (00:01:25) updateport SearchPane
+\i (00:01:26) zoom in 1 
+\i (00:01:26) setwindow pcb
+\i (00:01:26) zoom in 22.7689 42.5742
+\i (00:01:26) trapsize 2695
+\i (00:01:27) roam start
+\i (00:01:27) roam x 16
+\i (00:01:27) roam x 16
+\i (00:01:27) roam y 16
+\i (00:01:27) roam x 16
+\i (00:01:27) roam x 16
+\i (00:01:27) roam y 16
+\i (00:01:27) roam x 16
+\i (00:01:27) roam x 16
+\i (00:01:27) roam x 16
+\i (00:01:27) roam y 16
+\i (00:01:27) roam x 16
+\i (00:01:27) roam x 16
+\i (00:01:27) roam x 16
+\i (00:01:27) roam y 16
+\i (00:01:27) roam x 16
+\i (00:01:27) roam x 16
+\i (00:01:27) roam x 16
+\i (00:01:27) roam y 16
+\i (00:01:27) roam x 16
+\i (00:01:27) roam x 16
+\i (00:01:27) roam x 16
+\i (00:01:27) roam y 16
+\i (00:01:27) roam x 16
+\i (00:01:27) roam x 16
+\i (00:01:27) roam y 16
+\i (00:01:27) roam x 16
+\i (00:01:27) roam x 16
+\i (00:01:27) roam x 16
+\i (00:01:27) roam x 16
+\i (00:01:27) roam x 16
+\i (00:01:27) roam y 16
+\i (00:01:27) roam x 16
+\i (00:01:27) roam x 16
+\i (00:01:27) roam x 16
+\i (00:01:27) roam x 16
+\i (00:01:27) roam x 16
+\i (00:01:27) roam x 16
+\i (00:01:27) roam y 16
+\i (00:01:27) roam x 16
+\i (00:01:27) roam x 16
+\i (00:01:27) roam x 16
+\i (00:01:27) roam y 16
+\i (00:01:27) roam x 16
+\i (00:01:27) roam x 16
+\i (00:01:27) roam x 16
+\i (00:01:27) roam x 16
+\i (00:01:27) roam x 16
+\i (00:01:27) roam y 16
+\i (00:01:27) roam x 16
+\i (00:01:27) roam x 16
+\i (00:01:27) roam x 16
+\i (00:01:27) roam x 16
+\i (00:01:27) roam x 16
+\i (00:01:27) roam y 16
+\i (00:01:27) roam x 16
+\i (00:01:27) roam x 16
+\i (00:01:27) roam y 16
+\i (00:01:27) roam x 16
+\i (00:01:27) roam x 16
+\i (00:01:27) roam end
+\i (00:01:32) redraw 
+\i (00:01:45) showhide virgoml 
+\i (00:01:45) QtSignal Docked_Constraints_Panel_Wid PropertySelectionFilterWidget DockedTabWidgetSwitch +
+\i (00:01:45) QtSignal "CP_ALLEGRO_CONSTRAINTS_DOCK"
+\i (00:01:55) ipc spec edit 
+\t (00:01:55) Adjust find filter then select an element.
+\i (00:01:55) QtSignal Docked_Constraints_Panel_Wid PropertySelectionFilterWidget DockedTabWidgetSwitch +
+\i (00:01:55) QtSignal "CP_ALLEGRO_CONSTRAINTS_DOCK"
+\i (00:01:57) prepopup 48.6856 32.9270
+\i (00:01:58) cancel 
+\i (00:01:58) updateport SearchPane
+\i (00:02:12) generaledit 
+\i (00:02:12) prepopup 32.6792 29.8012
+\i (00:02:14) pick grid 43.6196 27.5376
+\t (00:02:14) last pick:  43.5000 27.5000
+\i (00:02:14) prepopup 41.7872 29.5856
+\i (00:02:21) pick grid 40.6555 32.3342
+\t (00:02:21) last pick:  40.7500 32.2500
+\i (00:02:22) pick grid 19.9064 36.4840
+\t (00:02:22) last pick:  20.0000 36.5000
+\i (00:02:22) pick grid 16.5111 42.0350
+\t (00:02:22) last pick:  16.5000 42.0000
+\i (00:02:24) prepopup 36.7212 29.3161
+\i (00:02:25) pop dyn_option_select 'Application Mode@:@Placement Edit' 
+\i (00:02:25) placementedit 
+\i (00:02:25) QtSignal Docked_Constraints_Panel_Wid PropertySelectionFilterWidget DockedTabWidgetSwitch +
+\i (00:02:25) QtSignal "CP_ALLEGRO_CONSTRAINTS_DOCK"
+\i (00:02:25) pick grid 28.6372 31.4719
+\t (00:02:25) last pick:  28.7500 31.5000
+\i (00:02:26) roam start
+\i (00:02:26) roam y 16
+\i (00:02:26) roam y 16
+\i (00:02:26) roam x -16
+\i (00:02:26) roam y 16
+\i (00:02:26) roam y 16
+\i (00:02:26) roam x -16
+\i (00:02:26) roam y 16
+\i (00:02:26) roam y 16
+\i (00:02:26) roam x -16
+\i (00:02:26) roam y 16
+\i (00:02:26) roam y 16
+\i (00:02:26) roam x -16
+\i (00:02:26) roam y 16
+\i (00:02:26) roam x -16
+\i (00:02:26) roam y 16
+\i (00:02:26) roam y 16
+\i (00:02:26) roam x -16
+\i (00:02:26) roam y 16
+\i (00:02:26) roam y 16
+\i (00:02:26) roam x -16
+\i (00:02:26) roam y 16
+\i (00:02:26) roam x -16
+\i (00:02:26) roam y 16
+\i (00:02:26) roam y 16
+\i (00:02:27) roam y 16
+\i (00:02:27) roam x -16
+\i (00:02:27) roam y 16
+\i (00:02:27) roam y 16
+\i (00:02:27) roam x -16
+\i (00:02:27) roam y 16
+\i (00:02:27) roam y 16
+\i (00:02:27) roam x -16
+\i (00:02:27) roam y 16
+\i (00:02:27) roam y 16
+\i (00:02:27) roam x -16
+\i (00:02:27) roam x -16
+\i (00:02:27) roam y -16
+\i (00:02:27) roam x -16
+\i (00:02:27) roam y -16
+\i (00:02:27) roam y -16
+\i (00:02:27) roam y -16
+\i (00:02:27) roam x -16
+\i (00:02:27) roam y -16
+\i (00:02:27) roam y -16
+\i (00:02:27) roam y -16
+\i (00:02:27) roam x -16
+\i (00:02:27) roam y -16
+\i (00:02:27) roam y -16
+\i (00:02:27) roam x -16
+\i (00:02:27) roam x -16
+\i (00:02:27) roam y -16
+\i (00:02:27) roam y -16
+\i (00:02:27) roam x -16
+\i (00:02:27) roam x -16
+\i (00:02:27) roam y -16
+\i (00:02:27) roam x -16
+\i (00:02:27) roam x -16
+\i (00:02:27) roam y -16
+\i (00:02:27) roam x -16
+\i (00:02:27) roam x -16
+\i (00:02:27) roam x -16
+\i (00:02:27) roam x -16
+\i (00:02:27) roam y -16
+\i (00:02:27) roam x -16
+\i (00:02:27) roam x -16
+\i (00:02:27) roam x -16
+\i (00:02:27) roam y -16
+\i (00:02:27) roam x -16
+\i (00:02:27) roam x -16
+\i (00:02:27) roam y -16
+\i (00:02:27) roam x -16
+\i (00:02:27) roam x -16
+\i (00:02:27) roam y -16
+\i (00:02:27) roam x -16
+\i (00:02:27) roam x -16
+\i (00:02:27) roam y -16
+\i (00:02:27) roam x -16
+\i (00:02:27) roam y -16
+\i (00:02:27) roam x -16
+\i (00:02:27) roam x -16
+\i (00:02:27) roam y -16
+\i (00:02:27) roam x -16
+\i (00:02:27) roam y -16
+\i (00:02:27) roam y -16
+\i (00:02:27) roam x -16
+\i (00:02:27) roam y -16
+\i (00:02:27) roam x -16
+\i (00:02:27) roam y -16
+\i (00:02:27) roam y -16
+\i (00:02:27) roam y -16
+\i (00:02:27) roam y -16
+\i (00:02:27) roam y -16
+\i (00:02:27) roam x 16
+\i (00:02:27) roam x 16
+\i (00:02:27) roam x 16
+\i (00:02:27) roam x 16
+\i (00:02:27) roam x 16
+\i (00:02:27) roam x 16
+\i (00:02:27) roam x 16
+\i (00:02:27) roam x 16
+\i (00:02:27) roam x 16
+\i (00:02:27) roam x 16
+\i (00:02:27) roam x 16
+\i (00:02:27) roam x 16
+\i (00:02:27) roam x 16
+\i (00:02:27) roam y 16
+\i (00:02:27) roam x 16
+\i (00:02:27) roam x 16
+\i (00:02:27) roam x 16
+\i (00:02:27) roam x 16
+\i (00:02:27) roam x 16
+\i (00:02:27) roam x 16
+\i (00:02:27) roam x 16
+\i (00:02:27) roam x 16
+\i (00:02:27) roam x 16
+\i (00:02:27) roam x 16
+\i (00:02:27) roam x 16
+\i (00:02:27) roam x 16
+\i (00:02:27) roam x 16
+\i (00:02:27) roam x 16
+\i (00:02:27) roam x 16
+\i (00:02:27) roam x 16
+\i (00:02:27) roam x 16
+\i (00:02:27) roam x 16
+\i (00:02:27) roam x 16
+\i (00:02:27) roam x 16
+\i (00:02:27) roam x 16
+\i (00:02:27) roam x 16
+\i (00:02:27) roam x 16
+\i (00:02:27) roam x 16
+\i (00:02:27) roam y -16
+\i (00:02:28) roam x 16
+\i (00:02:28) roam y -16
+\i (00:02:28) roam x 16
+\i (00:02:28) roam x 16
+\i (00:02:28) roam y -16
+\i (00:02:28) roam x 16
+\i (00:02:28) roam y -16
+\i (00:02:28) roam x 16
+\i (00:02:28) roam y -16
+\i (00:02:28) roam x 16
+\i (00:02:28) roam y -16
+\i (00:02:28) roam x 16
+\i (00:02:28) roam y -16
+\i (00:02:28) roam x 16
+\i (00:02:28) roam y -16
+\i (00:02:28) roam x 16
+\i (00:02:28) roam y -16
+\i (00:02:28) roam x 16
+\i (00:02:28) roam y -16
+\i (00:02:28) roam x 16
+\i (00:02:28) roam y -16
+\i (00:02:28) roam x 16
+\i (00:02:28) roam y -16
+\i (00:02:28) roam y -16
+\i (00:02:28) roam x 16
+\i (00:02:28) roam x -16
+\i (00:02:28) roam x -16
+\i (00:02:28) roam x -16
+\i (00:02:28) roam x -16
+\i (00:02:28) roam y 16
+\i (00:02:28) roam x -16
+\i (00:02:28) roam x -16
+\i (00:02:28) roam x -16
+\i (00:02:28) roam x -16
+\i (00:02:28) roam x -16
+\i (00:02:28) roam y 16
+\i (00:02:28) roam x -16
+\i (00:02:28) roam x -16
+\i (00:02:28) roam x -16
+\i (00:02:28) roam x -16
+\i (00:02:28) roam x -16
+\i (00:02:28) roam x -16
+\i (00:02:28) roam y 16
+\i (00:02:28) roam x -16
+\i (00:02:28) roam y 16
+\i (00:02:28) roam x 16
+\i (00:02:28) roam x 16
+\i (00:02:28) roam y 16
+\i (00:02:28) roam x 16
+\i (00:02:28) roam x 16
+\i (00:02:28) roam x 16
+\i (00:02:28) roam x 16
+\i (00:02:28) roam y 16
+\i (00:02:28) roam x 16
+\i (00:02:28) roam x 16
+\i (00:02:28) roam x 16
+\i (00:02:28) roam y 16
+\i (00:02:28) roam x 16
+\i (00:02:28) roam x 16
+\i (00:02:28) roam x 16
+\i (00:02:28) roam x 16
+\i (00:02:28) roam y 16
+\i (00:02:28) roam x 16
+\i (00:02:28) roam x 16
+\i (00:02:28) roam x 16
+\i (00:02:28) roam x 16
+\i (00:02:28) roam y 16
+\i (00:02:28) roam x 16
+\i (00:02:28) roam x 16
+\i (00:02:28) roam x 32
+\i (00:02:28) roam x 16
+\i (00:02:28) roam x 16
+\i (00:02:28) roam y 16
+\i (00:02:28) roam x 16
+\i (00:02:28) roam x 16
+\i (00:02:28) roam x 16
+\i (00:02:28) roam x 16
+\i (00:02:28) roam x 16
+\i (00:02:28) roam x 16
+\i (00:02:28) roam y 16
+\i (00:02:28) roam x 16
+\i (00:02:28) roam x 16
+\i (00:02:28) roam x 16
+\i (00:02:28) roam x 16
+\i (00:02:28) roam x 16
+\i (00:02:28) roam x 16
+\i (00:02:28) roam x 16
+\i (00:02:28) roam x 16
+\i (00:02:28) roam x 16
+\i (00:02:28) roam x 16
+\i (00:02:28) roam x 16
+\i (00:02:28) roam x 16
+\i (00:02:28) roam x 16
+\i (00:02:28) roam x 16
+\i (00:02:28) roam x 16
+\i (00:02:29) roam x 16
+\i (00:02:29) roam x 16
+\i (00:02:29) roam x 16
+\i (00:02:29) roam x 16
+\i (00:02:29) roam x 16
+\i (00:02:29) roam x 16
+\i (00:02:29) roam x 16
+\i (00:02:29) roam x 16
+\i (00:02:29) roam x 16
+\i (00:02:29) roam x 16
+\i (00:02:29) roam x 16
+\i (00:02:29) roam x 16
+\i (00:02:29) roam end
+\i (00:02:29) zoom in 1 
+\i (00:02:29) setwindow pcb
+\i (00:02:29) zoom in 76.6565 33.9510
+\i (00:02:29) trapsize 1347
+\i (00:02:29) zoom in 1 
+\i (00:02:29) setwindow pcb
+\i (00:02:29) zoom in 76.6565 33.9510
+\i (00:02:29) trapsize 674
+\i (00:02:30) pick grid 74.3660 34.5035
+\t (00:02:30) last pick:  74.2500 34.5000
+\i (00:02:31) pick grid 73.7327 32.8462
+\t (00:02:31) last pick:  73.7500 32.7500
+\i (00:02:40) pick grid 79.4320 37.3868
+\t (00:02:40) last pick:  79.5000 37.5000
+\i (00:02:47) pick grid 79.6341 32.4690
+\t (00:02:47) last pick:  79.7500 32.5000
+\i (00:03:03) roam start
+\i (00:03:03) roam x -16
+\i (00:03:03) roam y -16
+\i (00:03:03) roam x -16
+\i (00:03:03) roam y -16
+\i (00:03:03) roam x -16
+\i (00:03:03) roam x -16
+\i (00:03:03) roam y -16
+\i (00:03:03) roam x -16
+\i (00:03:03) roam y -16
+\i (00:03:03) roam x -16
+\i (00:03:03) roam y -16
+\i (00:03:03) roam x -16
+\i (00:03:03) roam x -16
+\i (00:03:03) roam y -16
+\i (00:03:03) roam x -16
+\i (00:03:03) roam x -16
+\i (00:03:03) roam y -16
+\i (00:03:03) roam x -16
+\i (00:03:03) roam y -16
+\i (00:03:03) roam x -16
+\i (00:03:03) roam x -16
+\i (00:03:03) roam y -16
+\i (00:03:03) roam x -16
+\i (00:03:03) roam y -16
+\i (00:03:03) roam x -32
+\i (00:03:03) roam x -16
+\i (00:03:03) roam y -16
+\i (00:03:03) roam y -16
+\i (00:03:03) roam x -16
+\i (00:03:03) roam x -16
+\i (00:03:03) roam y -16
+\i (00:03:03) roam x -16
+\i (00:03:03) roam x -16
+\i (00:03:03) roam y -16
+\i (00:03:03) roam x -16
+\i (00:03:03) roam x -16
+\i (00:03:03) roam y -16
+\i (00:03:03) roam x -16
+\i (00:03:03) roam y -16
+\i (00:03:03) roam x -16
+\i (00:03:03) roam x -16
+\i (00:03:03) roam y -16
+\i (00:03:03) roam x -16
+\i (00:03:03) roam x -16
+\i (00:03:03) roam y -16
+\i (00:03:03) roam x -32
+\i (00:03:03) roam x -16
+\i (00:03:03) roam y -16
+\i (00:03:03) roam x -16
+\i (00:03:03) roam y -16
+\i (00:03:03) roam x -16
+\i (00:03:03) roam y -16
+\i (00:03:03) roam x -32
+\i (00:03:03) roam y -16
+\i (00:03:03) roam x -16
+\i (00:03:03) roam x -16
+\i (00:03:03) roam y -16
+\i (00:03:03) roam x -16
+\i (00:03:03) roam x -16
+\i (00:03:03) roam y -16
+\i (00:03:03) roam x -16
+\i (00:03:03) roam y -16
+\i (00:03:03) roam x -16
+\i (00:03:03) roam x -16
+\i (00:03:03) roam y -16
+\i (00:03:03) roam x 16
+\i (00:03:03) roam x 16
+\i (00:03:03) roam x 16
+\i (00:03:03) roam x 16
+\i (00:03:03) roam x 16
+\i (00:03:03) roam x 16
+\i (00:03:03) roam y 16
+\i (00:03:03) roam x 16
+\i (00:03:03) roam x 16
+\i (00:03:03) roam x 16
+\i (00:03:03) roam x 16
+\i (00:03:03) roam x 16
+\i (00:03:03) roam x 16
+\i (00:03:03) roam y 16
+\i (00:03:03) roam x 16
+\i (00:03:03) roam x 16
+\i (00:03:03) roam x 16
+\i (00:03:03) roam x 16
+\i (00:03:03) roam x 16
+\i (00:03:03) roam x 16
+\i (00:03:03) roam y 16
+\i (00:03:03) roam x 16
+\i (00:03:03) roam x 16
+\i (00:03:03) roam x 16
+\i (00:03:03) roam x 16
+\i (00:03:03) roam y 16
+\i (00:03:03) roam x 16
+\i (00:03:03) roam x 16
+\i (00:03:03) roam x 16
+\i (00:03:03) roam x 16
+\i (00:03:03) roam y 16
+\i (00:03:03) roam x 16
+\i (00:03:03) roam x 16
+\i (00:03:03) roam x 16
+\i (00:03:03) roam y 16
+\i (00:03:04) roam x 16
+\i (00:03:04) roam y 16
+\i (00:03:04) roam y 16
+\i (00:03:04) roam y 16
+\i (00:03:04) roam x 16
+\i (00:03:04) roam y 16
+\i (00:03:04) roam x 16
+\i (00:03:04) roam y 16
+\i (00:03:04) roam y 16
+\i (00:03:04) roam x 16
+\i (00:03:04) roam y 16
+\i (00:03:04) roam x 16
+\i (00:03:04) roam y 16
+\i (00:03:04) roam x 16
+\i (00:03:04) roam y 16
+\i (00:03:04) roam x 16
+\i (00:03:04) roam y 16
+\i (00:03:04) roam x 16
+\i (00:03:04) roam y 16
+\i (00:03:04) roam x 16
+\i (00:03:04) roam y 16
+\i (00:03:04) roam x 16
+\i (00:03:04) roam y 16
+\i (00:03:04) roam x 16
+\i (00:03:04) roam y 16
+\i (00:03:04) roam x 16
+\i (00:03:04) roam y 16
+\i (00:03:04) roam x 16
+\i (00:03:04) roam x 16
+\i (00:03:04) roam y 16
+\i (00:03:04) roam x 16
+\i (00:03:04) roam y 16
+\i (00:03:04) roam x 16
+\i (00:03:04) roam y 16
+\i (00:03:04) roam x 16
+\i (00:03:04) roam x 16
+\i (00:03:04) roam y 16
+\i (00:03:04) roam y 16
+\i (00:03:04) roam y 16
+\i (00:03:04) roam x -16
+\i (00:03:04) roam y 16
+\i (00:03:04) roam x -16
+\i (00:03:04) roam x -16
+\i (00:03:04) roam x -16
+\i (00:03:04) roam y -16
+\i (00:03:04) roam x -16
+\i (00:03:04) roam x -16
+\i (00:03:04) roam x -16
+\i (00:03:04) roam y -16
+\i (00:03:04) roam x -16
+\i (00:03:04) roam x -16
+\i (00:03:04) roam y -16
+\i (00:03:04) roam x -16
+\i (00:03:04) roam x -16
+\i (00:03:04) roam y -16
+\i (00:03:04) roam x -16
+\i (00:03:04) roam x -16
+\i (00:03:04) roam y -16
+\i (00:03:04) roam x -16
+\i (00:03:04) roam x -16
+\i (00:03:04) roam y -16
+\i (00:03:04) roam x -16
+\i (00:03:04) roam x -16
+\i (00:03:04) roam y -16
+\i (00:03:04) roam y -16
+\i (00:03:04) roam y -16
+\i (00:03:04) roam y -16
+\i (00:03:05) roam y -16
+\i (00:03:05) roam y -16
+\i (00:03:05) roam y -16
+\i (00:03:05) roam y -16
+\i (00:03:05) roam end
+\i (00:03:14) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:03:14) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:03:14) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:03:14) roam start
+\i (00:03:14) roam y 16
+\i (00:03:14) roam y 16
+\i (00:03:14) roam y 16
+\i (00:03:14) roam y 16
+\i (00:03:14) roam y 16
+\i (00:03:14) roam y 16
+\i (00:03:14) roam y 16
+\i (00:03:14) roam x -16
+\i (00:03:14) roam y 16
+\i (00:03:14) roam y 16
+\i (00:03:14) roam y 16
+\i (00:03:14) roam y 16
+\i (00:03:14) roam y 16
+\i (00:03:14) roam y 32
+\i (00:03:14) roam x -16
+\i (00:03:14) roam y 16
+\i (00:03:14) roam y 16
+\i (00:03:14) roam y 16
+\i (00:03:15) roam end
+\i (00:03:15) pick grid 78.8009 34.2490
+\t (00:03:15) last pick:  78.7500 34.2500
+\i (00:03:16) drag_start grid 79.0569 34.2221
+\i (00:03:16) move 
+\t (00:03:16) last pick:  79.2500 34.7500
+\t (00:03:16) Moving R16 / ULTRALIBRARIAN#RC1206FR_0710KL#RC1206FR_0710KL / RC1206N_YAG.
+\t (00:03:16) Pick new location for the element(s).
+\i (00:03:17) drag_stop grid 71.0402 31.1636
+\i (00:03:17) updateport SearchPane
+\i (00:03:17) placementedit 
+\i (00:03:17) drag_start grid 71.0806 34.2355
+\i (00:03:17) move 
+\t (00:03:17) last pick:  70.5000 34.7500
+\t (00:03:17) Moving C1 / ULTRALIBRARIAN#CL21C221JBANNNC#CL21C221JBANNNC / CAP_CL21_SAM.
+\t (00:03:17) Pick new location for the element(s).
+\i (00:03:17) roam y 16
+\i (00:03:17) drag_stop grid 75.1900 28.9674
+\i (00:03:17) updateport SearchPane
+\i (00:03:17) placementedit 
+\i (00:03:18) drag_start grid 71.3770 31.5139
+\i (00:03:18) move 
+\t (00:03:18) last pick:  71.0000 31.2500
+\t (00:03:18) Moving R16 / ULTRALIBRARIAN#RC1206FR_0710KL#RC1206FR_0710KL / RC1206N_YAG.
+\t (00:03:18) Pick new location for the element(s).
+\i (00:03:19) drag_stop grid 70.5551 34.5858
+\i (00:03:19) updateport SearchPane
+\i (00:03:19) placementedit 
+\i (00:03:19) drag_start grid 70.5551 34.5858
+\i (00:03:19) move 
+\t (00:03:19) last pick:  70.5000 34.5000
+\t (00:03:19) Moving R16 / ULTRALIBRARIAN#RC1206FR_0710KL#RC1206FR_0710KL / RC1206N_YAG.
+\t (00:03:19) Pick new location for the element(s).
+\i (00:03:22) drag_stop grid 70.5821 34.8149
+\i (00:03:22) updateport SearchPane
+\i (00:03:22) placementedit 
+\i (00:03:22) pick grid 75.2035 29.3042
+\t (00:03:22) last pick:  75.2500 29.2500
+\i (00:03:23) drag_start grid 75.1900 28.9404
+\i (00:03:23) move 
+\t (00:03:23) last pick:  75.2500 29.0000
+\t (00:03:23) Moving C1 / ULTRALIBRARIAN#CL21C221JBANNNC#CL21C221JBANNNC / CAP_CL21_SAM.
+\t (00:03:23) Pick new location for the element(s).
+\i (00:03:24) drag_stop grid 70.0970 32.4705
+\i (00:03:24) updateport SearchPane
+\i (00:03:24) placementedit 
+\i (00:03:27) roam start
+\i (00:03:27) roam y -16
+\i (00:03:27) roam y -16
+\i (00:03:27) roam y -16
+\i (00:03:27) roam y -16
+\i (00:03:27) roam y -16
+\i (00:03:27) roam y -16
+\i (00:03:27) roam y -16
+\i (00:03:27) roam y -16
+\i (00:03:27) roam y -16
+\i (00:03:27) roam y -16
+\i (00:03:27) roam y -16
+\i (00:03:27) roam y -16
+\i (00:03:27) roam y -16
+\i (00:03:27) roam y -32
+\i (00:03:27) roam y -16
+\i (00:03:27) roam y -16
+\i (00:03:27) roam y -16
+\i (00:03:27) roam y -16
+\i (00:03:27) roam x -16
+\i (00:03:27) roam y -16
+\i (00:03:27) roam y -16
+\i (00:03:27) roam x -16
+\i (00:03:27) roam x -16
+\i (00:03:27) roam x -16
+\i (00:03:27) roam x -16
+\i (00:03:27) roam y 16
+\i (00:03:27) roam x -16
+\i (00:03:27) roam y 16
+\i (00:03:27) roam y 16
+\i (00:03:27) roam y 16
+\i (00:03:27) roam y 16
+\i (00:03:27) roam y 16
+\i (00:03:27) roam x -16
+\i (00:03:27) roam y 16
+\i (00:03:27) roam y 16
+\i (00:03:27) roam y 16
+\i (00:03:28) roam y 16
+\i (00:03:28) roam x 16
+\i (00:03:28) roam end
+\i (00:03:34) drag_start grid 71.0133 37.2401
+\i (00:03:34) move 
+\t (00:03:34) last pick:  70.7500 37.2500
+\t (00:03:34) Moving R7 / ULTRALIBRARIAN#RC0805FR_07100KL#RC0805FR_07100KL / RC0805N_YAG.
+\t (00:03:34) Pick new location for the element(s).
+\i (00:03:34) roam y 16
+\i (00:03:35) roam y 16
+\i (00:03:35) roam y 16
+\i (00:03:35) roam y 16
+\i (00:03:35) roam y 16
+\i (00:03:35) roam y 16
+\i (00:03:35) roam y 16
+\i (00:03:35) roam y 16
+\i (00:03:35) roam y 16
+\i (00:03:35) roam y 16
+\i (00:03:35) roam y 16
+\i (00:03:35) roam y 16
+\i (00:03:35) roam y 16
+\i (00:03:35) roam y 16
+\i (00:03:38) drag_stop grid 69.9085 30.4630
+\i (00:03:38) updateport SearchPane
+\i (00:03:38) placementedit 
+\i (00:03:47) roam start
+\i (00:03:47) roam y -16
+\i (00:03:47) roam y -16
+\i (00:03:47) roam y -16
+\i (00:03:47) roam y -16
+\i (00:03:47) roam y -16
+\i (00:03:47) roam x 16
+\i (00:03:47) roam y -16
+\i (00:03:47) roam y -16
+\i (00:03:47) roam y -16
+\i (00:03:47) roam y -16
+\i (00:03:47) roam y -16
+\i (00:03:47) roam x 16
+\i (00:03:47) roam y -16
+\i (00:03:47) roam y -16
+\i (00:03:47) roam y -32
+\i (00:03:47) roam y -16
+\i (00:03:47) roam y -16
+\i (00:03:47) roam x 16
+\i (00:03:47) roam y -32
+\i (00:03:47) roam y -16
+\i (00:03:47) roam y -32
+\i (00:03:47) roam y -16
+\i (00:03:47) roam x 16
+\i (00:03:47) roam y -16
+\i (00:03:47) roam y -16
+\i (00:03:47) roam y -16
+\i (00:03:47) roam y -16
+\i (00:03:47) roam y -16
+\i (00:03:47) roam y -16
+\i (00:03:47) roam x 16
+\i (00:03:47) roam y -16
+\i (00:03:47) roam y -16
+\i (00:03:47) roam y -16
+\i (00:03:47) roam y -16
+\i (00:03:47) roam y -16
+\i (00:03:47) roam x 16
+\i (00:03:47) roam y -16
+\i (00:03:47) roam y -16
+\i (00:03:47) roam y -32
+\i (00:03:47) roam y -16
+\i (00:03:47) roam y -16
+\i (00:03:47) roam y -32
+\i (00:03:47) roam y 16
+\i (00:03:47) roam y 16
+\i (00:03:47) roam y 16
+\i (00:03:47) roam y 16
+\i (00:03:47) roam y 16
+\i (00:03:47) roam y 16
+\i (00:03:47) roam y 16
+\i (00:03:47) roam y 16
+\i (00:03:47) roam y 16
+\i (00:03:47) roam y 16
+\i (00:03:47) roam y 16
+\i (00:03:47) roam y 16
+\i (00:03:47) roam y 16
+\i (00:03:47) roam y 16
+\i (00:03:47) roam y 16
+\i (00:03:47) roam x 16
+\i (00:03:47) roam y 16
+\i (00:03:47) roam y 16
+\i (00:03:47) roam y 16
+\i (00:03:47) roam y 16
+\i (00:03:47) roam y 16
+\i (00:03:47) roam y 16
+\i (00:03:47) roam y 16
+\i (00:03:47) roam y 16
+\i (00:03:47) roam y 16
+\i (00:03:47) roam y 16
+\i (00:03:47) roam y 16
+\i (00:03:47) roam x 16
+\i (00:03:47) roam y 16
+\i (00:03:47) roam y 16
+\i (00:03:47) roam y 16
+\i (00:03:47) roam x 16
+\i (00:03:47) roam y 16
+\i (00:03:47) roam y 16
+\i (00:03:47) roam y 16
+\i (00:03:47) roam y 16
+\i (00:03:47) roam y 16
+\i (00:03:47) roam x 16
+\i (00:03:47) roam y 16
+\i (00:03:47) roam y 16
+\i (00:03:47) roam x 16
+\i (00:03:47) roam y 16
+\i (00:03:47) roam y 16
+\i (00:03:47) roam x 16
+\i (00:03:47) roam y 16
+\i (00:03:47) roam x 16
+\i (00:03:47) roam y 16
+\i (00:03:47) roam x 16
+\i (00:03:47) roam x 16
+\i (00:03:48) roam y -16
+\i (00:03:48) roam y -16
+\i (00:03:48) roam x -16
+\i (00:03:48) roam x -16
+\i (00:03:48) roam x -16
+\i (00:03:48) roam y -16
+\i (00:03:48) roam x -16
+\i (00:03:48) roam x -16
+\i (00:03:48) roam x -16
+\i (00:03:48) roam x -16
+\i (00:03:48) roam y -16
+\i (00:03:48) roam y -16
+\i (00:03:48) roam y -16
+\i (00:03:48) roam y -16
+\i (00:03:48) roam x -16
+\i (00:03:48) roam y -16
+\i (00:03:48) roam x -16
+\i (00:03:48) roam y -16
+\i (00:03:48) roam x -16
+\i (00:03:49) roam x -16
+\i (00:03:49) roam y -16
+\i (00:03:49) roam x -16
+\i (00:03:49) roam y -16
+\i (00:03:49) roam y -16
+\i (00:03:49) roam end
+\i (00:03:50) drag_start grid 70.1105 32.2415
+\i (00:03:50) move 
+\t (00:03:50) last pick:  70.0000 32.5000
+\t (00:03:50) Moving C1 / ULTRALIBRARIAN#CL21C221JBANNNC#CL21C221JBANNNC / CAP_CL21_SAM.
+\t (00:03:50) Pick new location for the element(s).
+\i (00:03:52) drag_stop grid 69.9758 36.7551
+\i (00:03:52) updateport SearchPane
+\i (00:03:52) placementedit 
+\i (00:03:53) drag_start grid 70.2587 36.7282
+\i (00:03:53) move 
+\t (00:03:53) last pick:  70.0000 36.7500
+\t (00:03:53) Moving C1 / ULTRALIBRARIAN#CL21C221JBANNNC#CL21C221JBANNNC / CAP_CL21_SAM.
+\t (00:03:53) Pick new location for the element(s).
+\i (00:03:54) drag_stop grid 70.1105 37.1593
+\i (00:03:54) updateport SearchPane
+\i (00:03:54) placementedit 
+\i (00:03:55) pick grid 69.9623 31.3118
+\t (00:03:55) last pick:  70.0000 31.2500
+\i (00:03:55) drag_start grid 69.9758 31.2579
+\i (00:03:55) drag_stop 70.5552 38.4528
+\i (00:03:56) pick grid 69.8411 31.3657
+\t (00:03:56) last pick:  69.7500 31.2500
+\i (00:03:57) drag_start grid 70.0566 31.0558
+\i (00:03:57) move 
+\t (00:03:57) last pick:  70.0000 30.5000
+\t (00:03:57) Moving R7 / ULTRALIBRARIAN#RC0805FR_07100KL#RC0805FR_07100KL / RC0805N_YAG.
+\t (00:03:57) Pick new location for the element(s).
+\i (00:03:59) drag_stop grid 70.0701 39.4229
+\i (00:03:59) updateport SearchPane
+\i (00:03:59) placementedit 
+\i (00:03:59) pick grid 67.0251 36.9033
+\t (00:03:59) last pick:  67.0000 37.0000
+\i (00:04:00) roam start
+\i (00:04:00) roam y -16
+\i (00:04:00) roam y -16
+\i (00:04:00) roam y -16
+\i (00:04:00) roam x 16
+\i (00:04:00) roam y -16
+\i (00:04:00) roam y -16
+\i (00:04:00) roam y -16
+\i (00:04:00) roam y -16
+\i (00:04:00) roam y -16
+\i (00:04:00) roam x 16
+\i (00:04:00) roam y -16
+\i (00:04:00) roam y -16
+\i (00:04:00) roam y -16
+\i (00:04:00) roam y -16
+\i (00:04:00) roam y -16
+\i (00:04:00) roam y -16
+\i (00:04:00) roam y -16
+\i (00:04:00) roam y -16
+\i (00:04:00) roam y -16
+\i (00:04:00) roam y -16
+\i (00:04:00) roam x -16
+\i (00:04:00) roam x -16
+\i (00:04:00) roam x -16
+\i (00:04:00) roam x -16
+\i (00:04:00) roam y 16
+\i (00:04:01) roam x -16
+\i (00:04:01) roam y 16
+\i (00:04:01) roam y 16
+\i (00:04:01) roam x -16
+\i (00:04:01) roam y 16
+\i (00:04:01) roam y 16
+\i (00:04:01) roam x -16
+\i (00:04:01) roam y 16
+\i (00:04:01) roam y 16
+\i (00:04:01) roam x -16
+\i (00:04:01) roam y 16
+\i (00:04:01) roam x -16
+\i (00:04:01) roam y 16
+\i (00:04:01) roam y 16
+\i (00:04:01) roam x -16
+\i (00:04:01) roam y 16
+\i (00:04:01) roam y 16
+\i (00:04:01) roam x -16
+\i (00:04:01) roam y 16
+\i (00:04:01) roam x -16
+\i (00:04:01) roam y 16
+\i (00:04:01) roam x -16
+\i (00:04:01) roam y 16
+\i (00:04:01) roam y 16
+\i (00:04:01) roam x -16
+\i (00:04:01) roam y 16
+\i (00:04:01) roam x -16
+\i (00:04:01) roam y 16
+\i (00:04:01) roam y 16
+\i (00:04:01) roam x -16
+\i (00:04:01) roam y 16
+\i (00:04:01) roam y 16
+\i (00:04:01) roam y 16
+\i (00:04:01) roam y 16
+\i (00:04:01) roam y 16
+\i (00:04:01) roam x 16
+\i (00:04:01) roam x 16
+\i (00:04:01) roam x 16
+\i (00:04:01) roam x 16
+\i (00:04:01) roam x 16
+\i (00:04:01) roam x 16
+\i (00:04:01) roam x 16
+\i (00:04:01) roam x 16
+\i (00:04:01) roam x 16
+\i (00:04:01) roam y -16
+\i (00:04:01) roam x 16
+\i (00:04:01) roam x 16
+\i (00:04:01) roam y -16
+\i (00:04:01) roam x 16
+\i (00:04:01) roam y -16
+\i (00:04:01) roam x 16
+\i (00:04:01) roam x 16
+\i (00:04:01) roam y -16
+\i (00:04:01) roam x 16
+\i (00:04:01) roam y -16
+\i (00:04:01) roam x 16
+\i (00:04:01) roam y -16
+\i (00:04:01) roam x 16
+\i (00:04:01) roam y -16
+\i (00:04:01) roam x 16
+\i (00:04:01) roam y -16
+\i (00:04:01) roam x 16
+\i (00:04:01) roam y -16
+\i (00:04:02) roam end
+\i (00:04:17) roam start
+\i (00:04:17) roam y -16
+\i (00:04:17) roam y -16
+\i (00:04:17) roam y -16
+\i (00:04:17) roam y -16
+\i (00:04:17) roam y -16
+\i (00:04:17) roam y -16
+\i (00:04:17) roam y -16
+\i (00:04:17) roam y -16
+\i (00:04:17) roam y -16
+\i (00:04:17) roam y -16
+\i (00:04:17) roam y -16
+\i (00:04:17) roam y -32
+\i (00:04:17) roam y -16
+\i (00:04:17) roam y -16
+\i (00:04:17) roam y -32
+\i (00:04:17) roam y -16
+\i (00:04:17) roam y -32
+\i (00:04:17) roam y -16
+\i (00:04:17) roam x -16
+\i (00:04:17) roam y -16
+\i (00:04:17) roam y -16
+\i (00:04:18) roam y -16
+\i (00:04:18) roam y 16
+\i (00:04:18) roam x 16
+\i (00:04:18) roam y 16
+\i (00:04:18) roam y 16
+\i (00:04:18) roam y 16
+\i (00:04:18) roam x 16
+\i (00:04:18) roam y 16
+\i (00:04:18) roam y 16
+\i (00:04:18) roam x 16
+\i (00:04:18) roam y 16
+\i (00:04:18) roam y 16
+\i (00:04:18) roam x 16
+\i (00:04:18) roam y 16
+\i (00:04:18) roam y 16
+\i (00:04:18) roam x 16
+\i (00:04:18) roam y 16
+\i (00:04:18) roam y 16
+\i (00:04:18) roam y 16
+\i (00:04:18) roam x 16
+\i (00:04:18) roam y 16
+\i (00:04:18) roam x 16
+\i (00:04:18) roam y 16
+\i (00:04:18) roam x 16
+\i (00:04:18) roam y 16
+\i (00:04:18) roam y 16
+\i (00:04:18) roam x 16
+\i (00:04:18) roam y 16
+\i (00:04:18) roam y 16
+\i (00:04:18) roam x 16
+\i (00:04:18) roam y 16
+\i (00:04:18) roam x 16
+\i (00:04:18) roam y 16
+\i (00:04:18) roam y 16
+\i (00:04:18) roam x 16
+\i (00:04:18) roam y 16
+\i (00:04:18) roam y 16
+\i (00:04:18) roam x 16
+\i (00:04:18) roam y -16
+\i (00:04:18) roam x -16
+\i (00:04:18) roam y -16
+\i (00:04:18) roam y -16
+\i (00:04:18) roam x -16
+\i (00:04:18) roam y -16
+\i (00:04:18) roam y -16
+\i (00:04:18) roam x -16
+\i (00:04:18) roam y -16
+\i (00:04:18) roam y -16
+\i (00:04:18) roam x -16
+\i (00:04:18) roam y -16
+\i (00:04:18) roam y -16
+\i (00:04:18) roam x -16
+\i (00:04:18) roam y -16
+\i (00:04:18) roam y -16
+\i (00:04:18) roam x -16
+\i (00:04:18) roam y -16
+\i (00:04:18) roam y -16
+\i (00:04:18) roam x -16
+\i (00:04:18) roam y -16
+\i (00:04:18) roam y -16
+\i (00:04:18) roam x -16
+\i (00:04:18) roam y -16
+\i (00:04:18) roam x -16
+\i (00:04:18) roam y -16
+\i (00:04:18) roam x -16
+\i (00:04:18) roam y -16
+\i (00:04:18) roam x -16
+\i (00:04:18) roam y -16
+\i (00:04:18) roam x -16
+\i (00:04:19) roam y 16
+\i (00:04:19) roam y 16
+\i (00:04:19) roam end
+\i (00:04:24) drag_start grid 78.0869 39.8001
+\i (00:04:24) move 
+\t (00:04:24) last pick:  78.2500 40.0000
+\t (00:04:24) Moving R10 / ULTRALIBRARIAN#ERJ_P06J621V#ERJ_P06J621V / 0805_PAN.
+\t (00:04:24) Pick new location for the element(s).
+\i (00:04:27) drag_stop grid 79.4746 39.6654
+\i (00:04:27) updateport SearchPane
+\i (00:04:27) placementedit 
+\i (00:04:27) pick grid 79.4881 36.8763
+\t (00:04:27) last pick:  79.5000 37.0000
+\i (00:04:28) prepopup 79.6633 36.9841
+\i (00:04:30) pop dyn_option_select @:@Rotate 
+\i (00:04:30) spin 
+\t (00:04:30) Moving R11 / ULTRALIBRARIAN#ERJ_P06J621V#ERJ_P06J621V / 0805_PAN.
+\i (00:04:32) iangle -180.000
+\t (00:04:32) last angle:  180.000 Degrees
+\i (00:04:32) updateport SearchPane
+\i (00:04:32) placementedit 
+\i (00:04:32) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:04:32) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:04:33) pick grid 76.6183 38.6683
+\t (00:04:33) last pick:  76.5000 38.7500
+\i (00:04:33) pick grid 79.4073 40.2043
+\t (00:04:33) last pick:  79.5000 40.2500
+\i (00:04:34) drag_start grid 79.4881 39.6115
+\i (00:04:34) move 
+\t (00:04:34) last pick:  79.5000 39.7500
+\t (00:04:34) Moving R10 / ULTRALIBRARIAN#ERJ_P06J621V#ERJ_P06J621V / 0805_PAN.
+\t (00:04:34) Pick new location for the element(s).
+\i (00:04:34) drag_stop grid 79.0031 39.9214
+\i (00:04:34) updateport SearchPane
+\i (00:04:34) placementedit 
+\i (00:04:34) prepopup 79.0300 39.9348
+\i (00:04:35) pop dyn_option_select @:@Rotate 
+\i (00:04:35) spin 
+\t (00:04:35) Moving R10 / ULTRALIBRARIAN#ERJ_P06J621V#ERJ_P06J621V / 0805_PAN.
+\i (00:04:36) iangle 180.000
+\t (00:04:36) last angle:  180.000 Degrees
+\i (00:04:36) updateport SearchPane
+\i (00:04:37) placementedit 
+\i (00:04:37) drag_start grid 79.0300 39.7866
+\i (00:04:37) move 
+\t (00:04:37) last pick:  79.0000 40.0000
+\t (00:04:37) Moving R10 / ULTRALIBRARIAN#ERJ_P06J621V#ERJ_P06J621V / 0805_PAN.
+\t (00:04:37) Pick new location for the element(s).
+\i (00:04:38) drag_stop grid 79.5420 39.4363
+\i (00:04:38) updateport SearchPane
+\i (00:04:38) placementedit 
+\i (00:04:38) drag_start grid 76.3218 40.5681
+\i (00:04:38) drag_stop 76.7126 40.5546
+\i (00:04:38) pick grid 79.5285 39.4633
+\t (00:04:38) last pick:  79.5000 39.5000
+\i (00:04:39) drag_start grid 79.6498 39.2881
+\i (00:04:39) move 
+\t (00:04:39) last pick:  79.5000 39.5000
+\t (00:04:39) Moving R10 / ULTRALIBRARIAN#ERJ_P06J621V#ERJ_P06J621V / 0805_PAN.
+\t (00:04:39) Pick new location for the element(s).
+\i (00:04:42) drag_stop grid 79.5824 39.6115
+\i (00:04:42) updateport SearchPane
+\i (00:04:42) placementedit 
+\i (00:04:43) pick grid 76.1602 40.4064
+\t (00:04:43) last pick:  76.2500 40.5000
+\i (00:14:27) zoom out 1 
+\i (00:14:27) setwindow pcb
+\t (00:14:27) [20:21:04.507866] Periodic Lic check successful
+[20:21:04.507977] Feature usage summary:
+[20:21:04.507977] Allegro_X_Platinum_Layout  
+[20:21:04.507978] SiP_Layout_Bundle_1  
+[20:21:04.507978] Allegro_PCB_Productivity_TB  
+[20:21:04.507979] Allegro_PCB_Harmony_Option  
+[20:21:04.507979] Allegro_Venture_PCB_Designer  
+[20:21:04.507979] PCB_design_studio  
+[20:21:04.507979] Venture_PCB_Schematic  
+[20:21:04.507979] Allegro_Venture_PCB_Designer2  
+\i (00:14:27) zoom out 73.0478 39.8405
+\i (00:14:27) trapsize 1347
+\i (00:14:28) zoom out 1 
+\i (00:14:28) setwindow pcb
+\i (00:14:28) zoom out 74.4490 37.1997
+\i (00:14:28) trapsize 2695
+\i (00:14:29) zoom in 1 
+\i (00:14:29) setwindow pcb
+\i (00:14:29) zoom in 76.9820 36.8764
+\i (00:14:29) trapsize 1347
+\i (00:14:29) zoom out 1 
+\i (00:14:29) setwindow pcb
+\i (00:14:29) zoom out 76.9820 36.8764
+\i (00:14:29) trapsize 2695
+\i (00:14:30) zoom out 1 
+\i (00:14:30) setwindow pcb
+\i (00:14:30) zoom out 76.9820 36.8765
+\i (00:14:30) trapsize 5389
+\i (00:14:30) pick grid 117.7259 38.0622
+\t (00:14:30) last pick:  117.7500 38.0000
+\i (00:14:31) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:14:31) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:14:32) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:14:33) zoom out 1 
+\i (00:14:33) setwindow pcb
+\i (00:14:33) zoom out 79.0299 29.6547
+\i (00:14:33) trapsize 10779
+\i (00:14:33) zoom out 1 
+\i (00:14:33) setwindow pcb
+\i (00:14:33) zoom out 79.0300 29.6547
+\i (00:14:33) trapsize 21558
+\i (00:14:34) zoom in 1 
+\i (00:14:34) setwindow pcb
+\i (00:14:34) zoom in 58.5527 38.7090
+\i (00:14:34) trapsize 10779
+\i (00:14:34) zoom in 1 
+\i (00:14:34) setwindow pcb
+\i (00:14:34) zoom in 65.0199 33.7508
+\i (00:14:34) trapsize 5389
+\i (00:14:34) zoom out 1 
+\i (00:14:34) setwindow pcb
+\i (00:14:34) zoom out 64.0498 26.5290
+\i (00:14:34) trapsize 10779
+\i (00:14:35) zoom in 1 
+\i (00:14:35) setwindow pcb
+\i (00:14:35) zoom in 70.0860 26.0979
+\i (00:14:35) trapsize 5389
+\i (00:14:36) roam start
+\i (00:14:36) roam y 16
+\i (00:14:36) roam x 16
+\i (00:14:36) roam y 16
+\i (00:14:36) roam y 16
+\i (00:14:36) roam y 16
+\i (00:14:36) roam y 16
+\i (00:14:36) roam x 16
+\i (00:14:36) roam y 16
+\i (00:14:36) roam y 16
+\i (00:14:36) roam y 16
+\i (00:14:36) roam y 16
+\i (00:14:36) roam y 16
+\i (00:14:36) roam y 16
+\i (00:14:36) roam end
+\i (00:14:46) pick grid 45.4546 25.1144
+\t (00:14:46) last pick:  45.5000 25.0000
+\i (00:14:50) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:14:50) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:14:50) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:14:50) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:14:50) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:14:54) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:14:54) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:14:54) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:14:54) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:14:54) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:14:57) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:14:57) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:14:57) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:14:57) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:14:57) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:14:57) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:14:58) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:14:58) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:16:39) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:16:39) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:16:39) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:16:39) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:16:39) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:16:39) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:16:39) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:16:39) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:16:39) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:16:39) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:16:39) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:16:39) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:16:40) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:16:40) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:18:31) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:18:31) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:18:31) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:18:32) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:18:32) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:18:32) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:18:32) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:18:44) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:18:45) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:18:45) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:18:45) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:18:46) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:18:46) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:18:46) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:18:46) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:18:46) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:18:46) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:21:35) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:21:35) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:21:37) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:21:37) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:21:37) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:21:37) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:21:37) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:21:38) exit 
+\t (00:21:38) [20:28:15.301338] Periodic Lic check successful
+[20:28:15.301451] Feature usage summary:
+[20:28:15.301451] Allegro_X_Platinum_Layout  
+[20:28:15.301451] SiP_Layout_Bundle_1  
+[20:28:15.301451] Allegro_PCB_Productivity_TB  
+[20:28:15.301451] Allegro_PCB_Harmony_Option  
+[20:28:15.301451] Allegro_Venture_PCB_Designer  
+[20:28:15.301451] PCB_design_studio  
+[20:28:15.301451] Venture_PCB_Schematic  
+[20:28:15.301451] Allegro_Venture_PCB_Designer2  
+\e (00:21:38) Do you want to save the changes you made to V1.brd?
+\i (00:21:39) fillin yes 
+\t (00:21:39) Lic Summary:
+[20:28:16.064339] Cdslmd servers: my-vps
+[20:28:16.588635] Feature usage summary:
+[20:28:16.588635] Allegro_X_Platinum_Layout  
+[20:28:16.588635] SiP_Layout_Bundle_1  
+[20:28:16.588635] Allegro_PCB_Productivity_TB  
+[20:28:16.588635] Allegro_PCB_Harmony_Option  
+[20:28:16.588635] Allegro_Venture_PCB_Designer  
+[20:28:16.588640] PCB_design_studio  
+[20:28:16.588641] Venture_PCB_Schematic  
+[20:28:16.588641] Allegro_Venture_PCB_Designer2  
+\t (00:21:39)     Journal end - Wed Nov 12 20:28:16 2025

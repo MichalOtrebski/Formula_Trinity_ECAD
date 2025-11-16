@@ -1,0 +1,46 @@
+A!NET_NAME!NET_LOGICAL_PATH!NET_VOLTAGE!
+J!C:/SPB_Data/safety_circuit_2025-26/output/safety_circuit_2025#2d26/physical/V1.brd!Wed Nov 12 19:31:54 2025!-266.7000!-215.9000!276.2848!336.8336!0.0001!millimeters!SAFETY_CIRCUIT_2025-26!10.450000 mil!2!OUT OF DATE!
+S!_N83!@worklib.\safety_circuit_2025-26\(tbl_1):\N41\!!
+S!_N110!@worklib.\safety_circuit_2025-26\(tbl_1):\N56\!!
+S!_N109!@worklib.\safety_circuit_2025-26\(tbl_1):\N55\!!
+S!_N108!@worklib.\safety_circuit_2025-26\(tbl_1):\N54\!!
+S!_N107!@worklib.\safety_circuit_2025-26\(tbl_1):\N53\!!
+S!_N106!@worklib.\safety_circuit_2025-26\(tbl_1):\N52\!!
+S!_N105!@worklib.\safety_circuit_2025-26\(tbl_1):\N51\!!
+S!_N98!@worklib.\safety_circuit_2025-26\(tbl_1):\N48\!!
+S!_N97!@worklib.\safety_circuit_2025-26\(tbl_1):\N47\!!
+S!_N96!@worklib.\safety_circuit_2025-26\(tbl_1):\N46\!!
+S!_N86!@worklib.\safety_circuit_2025-26\(tbl_1):\N44\!!
+S!_N85!@worklib.\safety_circuit_2025-26\(tbl_1):\N43\!!
+S!_N84!@worklib.\safety_circuit_2025-26\(tbl_1):\N42\!!
+S!_N95!@worklib.\safety_circuit_2025-26\(tbl_1):\N45\!!
+S!_N74!@worklib.\safety_circuit_2025-26\(tbl_1):\N40\!!
+S!_N73!@worklib.\safety_circuit_2025-26\(tbl_1):\N39\!!
+S!_N72!@worklib.\safety_circuit_2025-26\(tbl_1):\N38\!!
+S!_N71!@worklib.\safety_circuit_2025-26\(tbl_1):\N37\!!
+S!_N62!@worklib.\safety_circuit_2025-26\(tbl_1):\N36\!!
+S!_N61!@worklib.\safety_circuit_2025-26\(tbl_1):\N35\!!
+S!_N60!@worklib.\safety_circuit_2025-26\(tbl_1):\N34\!!
+S!_N59!@worklib.\safety_circuit_2025-26\(tbl_1):\N33\!!
+S!_N50!@worklib.\safety_circuit_2025-26\(tbl_1):\N32\!!
+S!_N49!@worklib.\safety_circuit_2025-26\(tbl_1):\N31\!!
+S!_N48!@worklib.\safety_circuit_2025-26\(tbl_1):\N30\!!
+S!_N47!@worklib.\safety_circuit_2025-26\(tbl_1):\N29\!!
+S!INERTIA_LED!@worklib.\safety_circuit_2025-26\(tbl_1):\N28\!!
+S!BOTS_LED!@worklib.\safety_circuit_2025-26\(tbl_1):\N27\!!
+S!RIGHT_LED!@worklib.\safety_circuit_2025-26\(tbl_1):\N26\!!
+S!LEFT_LED!@worklib.\safety_circuit_2025-26\(tbl_1):\N25\!!
+S!_N34!@worklib.\safety_circuit_2025-26\(tbl_1):\N23\!!
+S!COCKPIT_LED!@worklib.\safety_circuit_2025-26\(tbl_1):\N22\!!
+S!BSPD_LED!@worklib.\safety_circuit_2025-26\(tbl_1):\N18\!!
+S!_N18!@worklib.\safety_circuit_2025-26\(tbl_1):\N16\!!
+S!INERTIA!@worklib.\safety_circuit_2025-26\(tbl_1):\N11\!!
+S!BOTS!@worklib.\safety_circuit_2025-26\(tbl_1):\N10\!!
+S!RIGHT!@worklib.\safety_circuit_2025-26\(tbl_1):\N9\!!
+S!LEFT!@worklib.\safety_circuit_2025-26\(tbl_1):\N8\!!
+S!COCKPIT!@worklib.\safety_circuit_2025-26\(tbl_1):\N7\!!
+S!BSPD!@worklib.\safety_circuit_2025-26\(tbl_1):\N6\!!
+S!LVMS!@worklib.\safety_circuit_2025-26\(tbl_1):\N5\!12 V!
+S!_N3!@worklib.\safety_circuit_2025-26\(tbl_1):\N4\!!
+S!_N2!@worklib.\safety_circuit_2025-26\(tbl_1):\N3\!!
+S!GND!@worklib.\safety_circuit_2025-26\(tbl_1):\N2\!0 V!

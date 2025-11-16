@@ -1,0 +1,860 @@
+FILE_TYPE = EXPANDEDNETLIST;
+{ Packager-XL run on 12-Nov-2025 AT 22:09:06 }
+NET_NAME
+'GND'
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\N2\':
+ C_SIGNAL='@worklib.\safety_circuit_2025-26\(tbl_1):\N2\',
+ CDS_CELL='gnd',
+ CDS_LIBRARY='standard',
+ CDS_VIEW='sym_1',
+ PHYS_NET_NAME='GND',
+ VOLTAGE='0 V';
+NODE_NAME     U1 3
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I5\':
+ 'e': PN='3',
+ CDS_PINID='\M44\';
+NODE_NAME     U1 2
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I5\':
+ 'c': PN='2',
+ CDS_PINID='\M45\';
+NODE_NAME     U4 2
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I7\':
+ 'e': PN='2',
+ CDS_PINID='\M49\';
+NODE_NAME     J2 7
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I9\':
+ '7': PN='7',
+ CDS_PINID='\M61\';
+NODE_NAME     C1 2
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I17\':
+ '2': PN='2',
+ CDS_PINID='\M86\';
+NODE_NAME     R7 2
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I18\':
+ '2': PN='2',
+ CDS_PINID='\M87\';
+NODE_NAME     C2 2
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I19\':
+ '2': PN='2',
+ CDS_PINID='\M90\';
+NODE_NAME     R8 2
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I24\':
+ '2': PN='2',
+ CDS_PINID='\M99\';
+NODE_NAME     U2 3
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I25\':
+ 'e': PN='3',
+ CDS_PINID='\M102\';
+NODE_NAME     U2 2
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I25\':
+ 'c': PN='2',
+ CDS_PINID='\M103\';
+NODE_NAME     U5 2
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I26\':
+ 'e': PN='2',
+ CDS_PINID='\M105\';
+NODE_NAME     C3 2
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I27\':
+ '2': PN='2',
+ CDS_PINID='\M109\';
+NODE_NAME     R9 2
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I32\':
+ '2': PN='2',
+ CDS_PINID='\M118\';
+NODE_NAME     U3 3
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I33\':
+ 'e': PN='3',
+ CDS_PINID='\M121\';
+NODE_NAME     U3 2
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I33\':
+ 'c': PN='2',
+ CDS_PINID='\M122\';
+NODE_NAME     U6 2
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I34\':
+ 'e': PN='2',
+ CDS_PINID='\M124\';
+NODE_NAME     C4 2
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I35\':
+ '2': PN='2',
+ CDS_PINID='\M128\';
+NODE_NAME     R25 2
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I40\':
+ '2': PN='2',
+ CDS_PINID='\M137\';
+NODE_NAME     U7 3
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I41\':
+ 'e': PN='3',
+ CDS_PINID='\M140\';
+NODE_NAME     U7 2
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I41\':
+ 'c': PN='2',
+ CDS_PINID='\M141\';
+NODE_NAME     U10 2
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I42\':
+ 'e': PN='2',
+ CDS_PINID='\M143\';
+NODE_NAME     C5 2
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I43\':
+ '2': PN='2',
+ CDS_PINID='\M147\';
+NODE_NAME     R26 2
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I48\':
+ '2': PN='2',
+ CDS_PINID='\M156\';
+NODE_NAME     U8 3
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I49\':
+ 'e': PN='3',
+ CDS_PINID='\M159\';
+NODE_NAME     U8 2
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I49\':
+ 'c': PN='2',
+ CDS_PINID='\M160\';
+NODE_NAME     U11 2
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I50\':
+ 'e': PN='2',
+ CDS_PINID='\M162\';
+NODE_NAME     C6 2
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I51\':
+ '2': PN='2',
+ CDS_PINID='\M166\';
+NODE_NAME     R27 2
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I56\':
+ '2': PN='2',
+ CDS_PINID='\M175\';
+NODE_NAME     U9 3
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I57\':
+ 'e': PN='3',
+ CDS_PINID='\M178\';
+NODE_NAME     U9 2
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I57\':
+ 'c': PN='2',
+ CDS_PINID='\M179\';
+NODE_NAME     U12 2
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I58\':
+ 'e': PN='2',
+ CDS_PINID='\M181\';
+NET_NAME
+'_N2'
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\N3\':
+ C_SIGNAL='@worklib.\safety_circuit_2025-26\(tbl_1):\N3\',
+ PHYS_NET_NAME='_N2';
+NODE_NAME     U1 1
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I5\':
+ 'a': PN='1',
+ CDS_PINID='\M46\';
+NODE_NAME     R1 2
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I72\':
+ '2': PN='2',
+ CDS_PINID='\M210\';
+NET_NAME
+'_N3'
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\N4\':
+ C_SIGNAL='@worklib.\safety_circuit_2025-26\(tbl_1):\N4\',
+ PHYS_NET_NAME='_N3';
+NODE_NAME     U4 1
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I7\':
+ 'b': PN='1',
+ CDS_PINID='\M50\';
+NODE_NAME     R16 2
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I16\':
+ '2': PN='2',
+ CDS_PINID='\M84\';
+NET_NAME
+'LVMS'
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\N5\':
+ C_SIGNAL='@worklib.\safety_circuit_2025-26\(tbl_1):\N5\',
+ PHYS_NET_NAME='LVMS',
+ VOLTAGE='12V';
+NODE_NAME     R4 1
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I6\':
+ '1': PN='1',
+ CDS_PINID='\M47\';
+NODE_NAME     J1 1
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I8\':
+ '1': PN='1',
+ CDS_PINID='\M59\';
+NODE_NAME     LED1 2
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I59\':
+ 'anode': PN='2',
+ CDS_PINID='\M185\';
+NET_NAME
+'BSPD'
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\N6\':
+ C_SIGNAL='@worklib.\safety_circuit_2025-26\(tbl_1):\N6\',
+ PHYS_NET_NAME='BSPD',
+ VOLTAGE='12V';
+NODE_NAME     J1 2
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I8\':
+ '2': PN='2',
+ CDS_PINID='\M58\';
+NODE_NAME     R5 1
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I21\':
+ '1': PN='1',
+ CDS_PINID='\M93\';
+NODE_NAME     LED2 2
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I63\':
+ 'anode': PN='2',
+ CDS_PINID='\M193\';
+NODE_NAME     R1 1
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I72\':
+ '1': PN='1',
+ CDS_PINID='\M211\';
+NET_NAME
+'COCKPIT'
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\N7\':
+ C_SIGNAL='@worklib.\safety_circuit_2025-26\(tbl_1):\N7\',
+ PHYS_NET_NAME='COCKPIT',
+ VOLTAGE='12V';
+NODE_NAME     J1 3
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I8\':
+ '3': PN='3',
+ CDS_PINID='\M57\';
+NODE_NAME     R2 1
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I20\':
+ '1': PN='1',
+ CDS_PINID='\M92\';
+NODE_NAME     R6 1
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I29\':
+ '1': PN='1',
+ CDS_PINID='\M112\';
+NODE_NAME     LED3 2
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I64\':
+ 'anode': PN='2',
+ CDS_PINID='\M195\';
+NET_NAME
+'LEFT'
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\N8\':
+ C_SIGNAL='@worklib.\safety_circuit_2025-26\(tbl_1):\N8\',
+ PHYS_NET_NAME='LEFT',
+ VOLTAGE='12V';
+NODE_NAME     J1 4
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I8\':
+ '4': PN='4',
+ CDS_PINID='\M56\';
+NODE_NAME     R3 1
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I28\':
+ '1': PN='1',
+ CDS_PINID='\M111\';
+NODE_NAME     R22 1
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I37\':
+ '1': PN='1',
+ CDS_PINID='\M131\';
+NODE_NAME     LED4 2
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I60\':
+ 'anode': PN='2',
+ CDS_PINID='\M187\';
+NET_NAME
+'RIGHT'
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\N9\':
+ C_SIGNAL='@worklib.\safety_circuit_2025-26\(tbl_1):\N9\',
+ PHYS_NET_NAME='RIGHT',
+ VOLTAGE='12V';
+NODE_NAME     J1 5
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I8\':
+ '5': PN='5',
+ CDS_PINID='\M55\';
+NODE_NAME     R19 1
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I36\':
+ '1': PN='1',
+ CDS_PINID='\M130\';
+NODE_NAME     R23 1
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I45\':
+ '1': PN='1',
+ CDS_PINID='\M150\';
+NODE_NAME     LED5 2
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I61\':
+ 'anode': PN='2',
+ CDS_PINID='\M189\';
+NET_NAME
+'BOTS'
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\N10\':
+ C_SIGNAL='@worklib.\safety_circuit_2025-26\(tbl_1):\N10\',
+ PHYS_NET_NAME='BOTS',
+ VOLTAGE='12V';
+NODE_NAME     J1 6
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I8\':
+ '6': PN='6',
+ CDS_PINID='\M54\';
+NODE_NAME     R20 1
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I44\':
+ '1': PN='1',
+ CDS_PINID='\M149\';
+NODE_NAME     R24 1
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I53\':
+ '1': PN='1',
+ CDS_PINID='\M169\';
+NODE_NAME     LED6 2
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I62\':
+ 'anode': PN='2',
+ CDS_PINID='\M191\';
+NET_NAME
+'INERTIA'
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\N11\':
+ C_SIGNAL='@worklib.\safety_circuit_2025-26\(tbl_1):\N11\',
+ PHYS_NET_NAME='INERTIA',
+ VOLTAGE='12V';
+NODE_NAME     J1 7
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I8\':
+ '7': PN='7',
+ CDS_PINID='\M53\';
+NODE_NAME     R21 1
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I52\':
+ '1': PN='1',
+ CDS_PINID='\M168\';
+NET_NAME
+'_N18'
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\N16\':
+ C_SIGNAL='@worklib.\safety_circuit_2025-26\(tbl_1):\N16\',
+ PHYS_NET_NAME='_N18';
+NODE_NAME     U4 3
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I7\':
+ 'c': PN='3',
+ CDS_PINID='\M51\';
+NODE_NAME     R11 2
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I10\':
+ '2': PN='2',
+ CDS_PINID='\M68\';
+NODE_NAME     R10 2
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I65\':
+ '2': PN='2',
+ CDS_PINID='\M196\';
+NET_NAME
+'BSPD_LED'
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\N18\':
+ C_SIGNAL='@worklib.\safety_circuit_2025-26\(tbl_1):\N18\',
+ PHYS_NET_NAME='BSPD_LED',
+ VOLTAGE='12V';
+NODE_NAME     J2 1
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I9\':
+ '1': PN='1',
+ CDS_PINID='\M67\';
+NODE_NAME     R11 1
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I10\':
+ '1': PN='1',
+ CDS_PINID='\M69\';
+NET_NAME
+'COCKPIT_LED'
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\N22\':
+ C_SIGNAL='@worklib.\safety_circuit_2025-26\(tbl_1):\N22\',
+ PHYS_NET_NAME='COCKPIT_LED',
+ VOLTAGE='12V';
+NODE_NAME     J2 2
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I9\':
+ '2': PN='2',
+ CDS_PINID='\M66\';
+NODE_NAME     R13 1
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I22\':
+ '1': PN='1',
+ CDS_PINID='\M96\';
+NET_NAME
+'_N34'
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\N23\':
+ C_SIGNAL='@worklib.\safety_circuit_2025-26\(tbl_1):\N23\',
+ PHYS_NET_NAME='_N34';
+NODE_NAME     U1 4
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I5\':
+ 'c_2': PN='4',
+ CDS_PINID='\M43\';
+NODE_NAME     R4 2
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I6\':
+ '2': PN='2',
+ CDS_PINID='\M48\';
+NODE_NAME     R16 1
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I16\':
+ '1': PN='1',
+ CDS_PINID='\M83\';
+NODE_NAME     C1 1
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I17\':
+ '1': PN='1',
+ CDS_PINID='\M85\';
+NODE_NAME     R7 1
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I18\':
+ '1': PN='1',
+ CDS_PINID='\M88\';
+NET_NAME
+'LEFT_LED'
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\N25\':
+ C_SIGNAL='@worklib.\safety_circuit_2025-26\(tbl_1):\N25\',
+ PHYS_NET_NAME='LEFT_LED',
+ VOLTAGE='12V';
+NODE_NAME     J2 3
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I9\':
+ '3': PN='3',
+ CDS_PINID='\M65\';
+NODE_NAME     R15 1
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I30\':
+ '1': PN='1',
+ CDS_PINID='\M115\';
+NET_NAME
+'RIGHT_LED'
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\N26\':
+ C_SIGNAL='@worklib.\safety_circuit_2025-26\(tbl_1):\N26\',
+ PHYS_NET_NAME='RIGHT_LED',
+ VOLTAGE='12V';
+NODE_NAME     J2 4
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I9\':
+ '4': PN='4',
+ CDS_PINID='\M64\';
+NODE_NAME     R29 1
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I38\':
+ '1': PN='1',
+ CDS_PINID='\M134\';
+NET_NAME
+'BOTS_LED'
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\N27\':
+ C_SIGNAL='@worklib.\safety_circuit_2025-26\(tbl_1):\N27\',
+ PHYS_NET_NAME='BOTS_LED',
+ VOLTAGE='12V';
+NODE_NAME     J2 5
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I9\':
+ '5': PN='5',
+ CDS_PINID='\M63\';
+NODE_NAME     R31 1
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I46\':
+ '1': PN='1',
+ CDS_PINID='\M153\';
+NET_NAME
+'INERTIA_LED'
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\N28\':
+ C_SIGNAL='@worklib.\safety_circuit_2025-26\(tbl_1):\N28\',
+ PHYS_NET_NAME='INERTIA_LED',
+ VOLTAGE='12V';
+NODE_NAME     J2 6
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I9\':
+ '6': PN='6',
+ CDS_PINID='\M62\';
+NODE_NAME     R33 1
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I54\':
+ '1': PN='1',
+ CDS_PINID='\M172\';
+NET_NAME
+'_N47'
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\N29\':
+ C_SIGNAL='@worklib.\safety_circuit_2025-26\(tbl_1):\N29\',
+ PHYS_NET_NAME='_N47';
+NODE_NAME     R2 2
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I20\':
+ '2': PN='2',
+ CDS_PINID='\M91\';
+NODE_NAME     U2 1
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I25\':
+ 'a': PN='1',
+ CDS_PINID='\M104\';
+NET_NAME
+'_N48'
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\N30\':
+ C_SIGNAL='@worklib.\safety_circuit_2025-26\(tbl_1):\N30\',
+ PHYS_NET_NAME='_N48';
+NODE_NAME     R17 2
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I23\':
+ '2': PN='2',
+ CDS_PINID='\M98\';
+NODE_NAME     U5 1
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I26\':
+ 'b': PN='1',
+ CDS_PINID='\M106\';
+NET_NAME
+'_N49'
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\N31\':
+ C_SIGNAL='@worklib.\safety_circuit_2025-26\(tbl_1):\N31\',
+ PHYS_NET_NAME='_N49';
+NODE_NAME     R13 2
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I22\':
+ '2': PN='2',
+ CDS_PINID='\M95\';
+NODE_NAME     U5 3
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I26\':
+ 'c': PN='3',
+ CDS_PINID='\M107\';
+NODE_NAME     R12 2
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I68\':
+ '2': PN='2',
+ CDS_PINID='\M202\';
+NET_NAME
+'_N50'
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\N32\':
+ C_SIGNAL='@worklib.\safety_circuit_2025-26\(tbl_1):\N32\',
+ PHYS_NET_NAME='_N50';
+NODE_NAME     C2 1
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I19\':
+ '1': PN='1',
+ CDS_PINID='\M89\';
+NODE_NAME     R5 2
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I21\':
+ '2': PN='2',
+ CDS_PINID='\M94\';
+NODE_NAME     R17 1
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I23\':
+ '1': PN='1',
+ CDS_PINID='\M97\';
+NODE_NAME     R8 1
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I24\':
+ '1': PN='1',
+ CDS_PINID='\M100\';
+NODE_NAME     U2 4
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I25\':
+ 'c_2': PN='4',
+ CDS_PINID='\M101\';
+NET_NAME
+'_N59'
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\N33\':
+ C_SIGNAL='@worklib.\safety_circuit_2025-26\(tbl_1):\N33\',
+ PHYS_NET_NAME='_N59';
+NODE_NAME     R3 2
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I28\':
+ '2': PN='2',
+ CDS_PINID='\M110\';
+NODE_NAME     U3 1
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I33\':
+ 'a': PN='1',
+ CDS_PINID='\M123\';
+NET_NAME
+'_N60'
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\N34\':
+ C_SIGNAL='@worklib.\safety_circuit_2025-26\(tbl_1):\N34\',
+ PHYS_NET_NAME='_N60';
+NODE_NAME     R18 2
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I31\':
+ '2': PN='2',
+ CDS_PINID='\M117\';
+NODE_NAME     U6 1
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I34\':
+ 'b': PN='1',
+ CDS_PINID='\M125\';
+NET_NAME
+'_N61'
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\N35\':
+ C_SIGNAL='@worklib.\safety_circuit_2025-26\(tbl_1):\N35\',
+ PHYS_NET_NAME='_N61';
+NODE_NAME     R15 2
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I30\':
+ '2': PN='2',
+ CDS_PINID='\M114\';
+NODE_NAME     U6 3
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I34\':
+ 'c': PN='3',
+ CDS_PINID='\M126\';
+NODE_NAME     R14 2
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I69\':
+ '2': PN='2',
+ CDS_PINID='\M204\';
+NET_NAME
+'_N62'
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\N36\':
+ C_SIGNAL='@worklib.\safety_circuit_2025-26\(tbl_1):\N36\',
+ PHYS_NET_NAME='_N62';
+NODE_NAME     C3 1
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I27\':
+ '1': PN='1',
+ CDS_PINID='\M108\';
+NODE_NAME     R6 2
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I29\':
+ '2': PN='2',
+ CDS_PINID='\M113\';
+NODE_NAME     R18 1
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I31\':
+ '1': PN='1',
+ CDS_PINID='\M116\';
+NODE_NAME     R9 1
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I32\':
+ '1': PN='1',
+ CDS_PINID='\M119\';
+NODE_NAME     U3 4
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I33\':
+ 'c_2': PN='4',
+ CDS_PINID='\M120\';
+NET_NAME
+'_N71'
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\N37\':
+ C_SIGNAL='@worklib.\safety_circuit_2025-26\(tbl_1):\N37\',
+ PHYS_NET_NAME='_N71';
+NODE_NAME     R19 2
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I36\':
+ '2': PN='2',
+ CDS_PINID='\M129\';
+NODE_NAME     U7 1
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I41\':
+ 'a': PN='1',
+ CDS_PINID='\M142\';
+NET_NAME
+'_N72'
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\N38\':
+ C_SIGNAL='@worklib.\safety_circuit_2025-26\(tbl_1):\N38\',
+ PHYS_NET_NAME='_N72';
+NODE_NAME     R34 2
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I39\':
+ '2': PN='2',
+ CDS_PINID='\M136\';
+NODE_NAME     U10 1
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I42\':
+ 'b': PN='1',
+ CDS_PINID='\M144\';
+NET_NAME
+'_N73'
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\N39\':
+ C_SIGNAL='@worklib.\safety_circuit_2025-26\(tbl_1):\N39\',
+ PHYS_NET_NAME='_N73';
+NODE_NAME     R29 2
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I38\':
+ '2': PN='2',
+ CDS_PINID='\M133\';
+NODE_NAME     U10 3
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I42\':
+ 'c': PN='3',
+ CDS_PINID='\M145\';
+NODE_NAME     R28 2
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I66\':
+ '2': PN='2',
+ CDS_PINID='\M198\';
+NET_NAME
+'_N74'
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\N40\':
+ C_SIGNAL='@worklib.\safety_circuit_2025-26\(tbl_1):\N40\',
+ PHYS_NET_NAME='_N74';
+NODE_NAME     C4 1
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I35\':
+ '1': PN='1',
+ CDS_PINID='\M127\';
+NODE_NAME     R22 2
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I37\':
+ '2': PN='2',
+ CDS_PINID='\M132\';
+NODE_NAME     R34 1
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I39\':
+ '1': PN='1',
+ CDS_PINID='\M135\';
+NODE_NAME     R25 1
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I40\':
+ '1': PN='1',
+ CDS_PINID='\M138\';
+NODE_NAME     U7 4
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I41\':
+ 'c_2': PN='4',
+ CDS_PINID='\M139\';
+NET_NAME
+'_N83'
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\N41\':
+ C_SIGNAL='@worklib.\safety_circuit_2025-26\(tbl_1):\N41\',
+ PHYS_NET_NAME='_N83';
+NODE_NAME     R20 2
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I44\':
+ '2': PN='2',
+ CDS_PINID='\M148\';
+NODE_NAME     U8 1
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I49\':
+ 'a': PN='1',
+ CDS_PINID='\M161\';
+NET_NAME
+'_N84'
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\N42\':
+ C_SIGNAL='@worklib.\safety_circuit_2025-26\(tbl_1):\N42\',
+ PHYS_NET_NAME='_N84';
+NODE_NAME     R35 2
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I47\':
+ '2': PN='2',
+ CDS_PINID='\M155\';
+NODE_NAME     U11 1
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I50\':
+ 'b': PN='1',
+ CDS_PINID='\M163\';
+NET_NAME
+'_N85'
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\N43\':
+ C_SIGNAL='@worklib.\safety_circuit_2025-26\(tbl_1):\N43\',
+ PHYS_NET_NAME='_N85';
+NODE_NAME     R31 2
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I46\':
+ '2': PN='2',
+ CDS_PINID='\M152\';
+NODE_NAME     U11 3
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I50\':
+ 'c': PN='3',
+ CDS_PINID='\M164\';
+NODE_NAME     R30 2
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I67\':
+ '2': PN='2',
+ CDS_PINID='\M200\';
+NET_NAME
+'_N86'
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\N44\':
+ C_SIGNAL='@worklib.\safety_circuit_2025-26\(tbl_1):\N44\',
+ PHYS_NET_NAME='_N86';
+NODE_NAME     C5 1
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I43\':
+ '1': PN='1',
+ CDS_PINID='\M146\';
+NODE_NAME     R23 2
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I45\':
+ '2': PN='2',
+ CDS_PINID='\M151\';
+NODE_NAME     R35 1
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I47\':
+ '1': PN='1',
+ CDS_PINID='\M154\';
+NODE_NAME     R26 1
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I48\':
+ '1': PN='1',
+ CDS_PINID='\M157\';
+NODE_NAME     U8 4
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I49\':
+ 'c_2': PN='4',
+ CDS_PINID='\M158\';
+NET_NAME
+'_N95'
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\N45\':
+ C_SIGNAL='@worklib.\safety_circuit_2025-26\(tbl_1):\N45\',
+ PHYS_NET_NAME='_N95';
+NODE_NAME     R21 2
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I52\':
+ '2': PN='2',
+ CDS_PINID='\M167\';
+NODE_NAME     U9 1
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I57\':
+ 'a': PN='1',
+ CDS_PINID='\M180\';
+NET_NAME
+'_N96'
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\N46\':
+ C_SIGNAL='@worklib.\safety_circuit_2025-26\(tbl_1):\N46\',
+ PHYS_NET_NAME='_N96';
+NODE_NAME     R36 2
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I55\':
+ '2': PN='2',
+ CDS_PINID='\M174\';
+NODE_NAME     U12 1
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I58\':
+ 'b': PN='1',
+ CDS_PINID='\M182\';
+NET_NAME
+'_N97'
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\N47\':
+ C_SIGNAL='@worklib.\safety_circuit_2025-26\(tbl_1):\N47\',
+ PHYS_NET_NAME='_N97';
+NODE_NAME     R33 2
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I54\':
+ '2': PN='2',
+ CDS_PINID='\M171\';
+NODE_NAME     U12 3
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I58\':
+ 'c': PN='3',
+ CDS_PINID='\M183\';
+NODE_NAME     R32 2
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I70\':
+ '2': PN='2',
+ CDS_PINID='\M206\';
+NET_NAME
+'_N98'
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\N48\':
+ C_SIGNAL='@worklib.\safety_circuit_2025-26\(tbl_1):\N48\',
+ PHYS_NET_NAME='_N98';
+NODE_NAME     C6 1
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I51\':
+ '1': PN='1',
+ CDS_PINID='\M165\';
+NODE_NAME     R24 2
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I53\':
+ '2': PN='2',
+ CDS_PINID='\M170\';
+NODE_NAME     R36 1
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I55\':
+ '1': PN='1',
+ CDS_PINID='\M173\';
+NODE_NAME     R27 1
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I56\':
+ '1': PN='1',
+ CDS_PINID='\M176\';
+NODE_NAME     U9 4
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I57\':
+ 'c_2': PN='4',
+ CDS_PINID='\M177\';
+NET_NAME
+'_N105'
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\N51\':
+ C_SIGNAL='@worklib.\safety_circuit_2025-26\(tbl_1):\N51\',
+ PHYS_NET_NAME='_N105';
+NODE_NAME     LED6 1
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I62\':
+ 'cathode': PN='1',
+ CDS_PINID='\M190\';
+NODE_NAME     R32 1
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I70\':
+ '1': PN='1',
+ CDS_PINID='\M207\';
+NET_NAME
+'_N106'
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\N52\':
+ C_SIGNAL='@worklib.\safety_circuit_2025-26\(tbl_1):\N52\',
+ PHYS_NET_NAME='_N106';
+NODE_NAME     LED5 1
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I61\':
+ 'cathode': PN='1',
+ CDS_PINID='\M188\';
+NODE_NAME     R30 1
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I67\':
+ '1': PN='1',
+ CDS_PINID='\M201\';
+NET_NAME
+'_N107'
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\N53\':
+ C_SIGNAL='@worklib.\safety_circuit_2025-26\(tbl_1):\N53\',
+ PHYS_NET_NAME='_N107';
+NODE_NAME     LED3 1
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I64\':
+ 'cathode': PN='1',
+ CDS_PINID='\M194\';
+NODE_NAME     R14 1
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I69\':
+ '1': PN='1',
+ CDS_PINID='\M205\';
+NET_NAME
+'_N108'
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\N54\':
+ C_SIGNAL='@worklib.\safety_circuit_2025-26\(tbl_1):\N54\',
+ PHYS_NET_NAME='_N108';
+NODE_NAME     LED2 1
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I63\':
+ 'cathode': PN='1',
+ CDS_PINID='\M192\';
+NODE_NAME     R12 1
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I68\':
+ '1': PN='1',
+ CDS_PINID='\M203\';
+NET_NAME
+'_N109'
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\N55\':
+ C_SIGNAL='@worklib.\safety_circuit_2025-26\(tbl_1):\N55\',
+ PHYS_NET_NAME='_N109';
+NODE_NAME     LED1 1
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I59\':
+ 'cathode': PN='1',
+ CDS_PINID='\M184\';
+NODE_NAME     R10 1
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I65\':
+ '1': PN='1',
+ CDS_PINID='\M197\';
+NET_NAME
+'_N110'
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\N56\':
+ C_SIGNAL='@worklib.\safety_circuit_2025-26\(tbl_1):\N56\',
+ PHYS_NET_NAME='_N110';
+NODE_NAME     LED4 1
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I60\':
+ 'cathode': PN='1',
+ CDS_PINID='\M186\';
+NODE_NAME     R28 1
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I66\':
+ '1': PN='1',
+ CDS_PINID='\M199\';
+NET_NAME
+'NC'
+ 'NC':
+ C_SIGNAL='NC';
+NODE_NAME     J1 8
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I8\':
+ '8': PN='8',
+ CDS_PINID='\M52\';
+NODE_NAME     J2 8
+ '@worklib.\safety_circuit_2025-26\(tbl_1):\I9\':
+ '8': PN='8',
+ CDS_PINID='\M60\';
+END.
