@@ -1,0 +1,22 @@
+(Pinlist
+	(Pin
+		(Name A)
+		(MSB 64)
+		(LSB 1)
+		(Type BIDIR)
+		(Location Right)
+		(InputLoadLow -0.01)
+		(InputLoadHigh 0.01)
+		(OutputLoadLow 1.0)
+		(OutputLoadHigh -1.0)
+		(CheckLoad Both)
+		(CheckIO Both)
+		(CheckDir 1)
+		(CheckAssert 1)
+		(CheckOutput 1)
+		(UnknownLoading 0)
+		(PinShape )
+	)
+
+
+)

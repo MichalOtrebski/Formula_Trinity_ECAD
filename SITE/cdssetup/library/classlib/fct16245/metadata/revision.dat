@@ -1,0 +1,172 @@
+(Cell	fct16245
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.4)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	07/25/07,09:07:35)
+
+			(User	bimai)
+
+			(Path	classlib.fct16245)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	07/25/07,09:09:33)
+
+			(User	bimai)
+
+			(Path	classlib.fct16245)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000df10a5e2)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/25/07,09:07:35)
+
+							(User	bimai)
+
+							(Path	classlib.fct16245)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001def03d9)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000007590f87e)
+
+			(Primitives	1
+
+				(Primitive	FCT16245
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.4)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/25/07,09:08:35)
+
+							(User	bimai)
+
+							(Path	classlib.fct16245)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	FCT16245
+
+							(PackType	FCT16245)
+
+							(PackType	FCT16245_SOIC)
+
+						)
+
+					)
+
+					(Packages	2
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[2]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001ca703bf)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.0-p002 (v16-0-87B))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001ce903d8)
+
+)
+

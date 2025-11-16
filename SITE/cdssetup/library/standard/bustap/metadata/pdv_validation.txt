@@ -1,0 +1,1 @@
+SPLBPD-323,Symbol 'sym_1':The cell cannot be saved because pin(s) B is (are) placed on the symbol origin. Move the symbol pin(s) away from the origin and then save the cell.,Error

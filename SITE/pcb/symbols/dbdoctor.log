@@ -1,0 +1,1288 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : 100c75d.pad                                   )
+(    Software Version : 17.2S025                                      )
+(    Date/Time        : Sun Sep 24 08:31:20 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+0 warnings, 0 errors detected, 0 errors  fixed.
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : 52c31d.pad                                    )
+(    Software Version : 17.2S025                                      )
+(    Date/Time        : Sun Sep 24 08:31:20 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+0 warnings, 0 errors detected, 0 errors  fixed.
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : 62c38d.pad                                    )
+(    Software Version : 17.2S025                                      )
+(    Date/Time        : Sun Sep 24 08:31:20 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+0 warnings, 0 errors detected, 0 errors  fixed.
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : 62s38d.pad                                    )
+(    Software Version : 17.2S025                                      )
+(    Date/Time        : Sun Sep 24 08:31:21 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+0 warnings, 0 errors detected, 0 errors  fixed.
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : ab28.dra                                      )
+(    Software Version : 17.2S025                                      )
+(    Date/Time        : Sun Sep 24 08:31:21 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+Regenerating DRC
+  Original DRC errors:   0
+  Updated DRC errors:    0
+  DRC elapsed time:      00:00:00
+
+0 warnings, 0 errors detected, 0 errors  fixed.
+
+
+<<< Design Uprev Warnings >>>
+
+Sun Sep 24 08:31:21 2017				Page     1
+
+
+Performing DRC...
+No DRC errors detected.
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : ab28.fsm                                      )
+(    Software Version : 17.2S025                                      )
+(    Date/Time        : Sun Sep 24 08:31:21 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+0 warnings, 0 errors detected, 0 errors  fixed.
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : ab46.dra                                      )
+(    Software Version : 17.2S025                                      )
+(    Date/Time        : Sun Sep 24 08:31:21 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+Regenerating DRC
+  Original DRC errors:   0
+  Updated DRC errors:    0
+  DRC elapsed time:      00:00:00
+
+0 warnings, 0 errors detected, 0 errors  fixed.
+
+
+<<< Design Uprev Warnings >>>
+
+Sun Sep 24 08:31:21 2017				Page     1
+
+
+Performing DRC...
+No DRC errors detected.
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : ab46.fsm                                      )
+(    Software Version : 17.2S025                                      )
+(    Date/Time        : Sun Sep 24 08:31:21 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+0 warnings, 0 errors detected, 0 errors  fixed.
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : ab53.dra                                      )
+(    Software Version : 17.2S025                                      )
+(    Date/Time        : Sun Sep 24 08:31:21 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+Regenerating DRC
+  Original DRC errors:   0
+  Updated DRC errors:    0
+  DRC elapsed time:      00:00:00
+
+0 warnings, 0 errors detected, 0 errors  fixed.
+
+
+<<< Design Uprev Warnings >>>
+
+Sun Sep 24 08:31:21 2017				Page     1
+
+
+Performing DRC...
+No DRC errors detected.
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : ab53.fsm                                      )
+(    Software Version : 17.2S025                                      )
+(    Date/Time        : Sun Sep 24 08:31:21 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+0 warnings, 0 errors detected, 0 errors  fixed.
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : ab90.dra                                      )
+(    Software Version : 17.2S025                                      )
+(    Date/Time        : Sun Sep 24 08:31:22 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+Regenerating DRC
+  Original DRC errors:   0
+  Updated DRC errors:    0
+  DRC elapsed time:      00:00:00
+
+0 warnings, 0 errors detected, 0 errors  fixed.
+
+
+<<< Design Uprev Warnings >>>
+
+Sun Sep 24 08:31:22 2017				Page     1
+
+
+Performing DRC...
+No DRC errors detected.
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : ab90.fsm                                      )
+(    Software Version : 17.2S025                                      )
+(    Date/Time        : Sun Sep 24 08:31:22 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+0 warnings, 0 errors detected, 0 errors  fixed.
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : assynotes.dra                                 )
+(    Software Version : 17.2S025                                      )
+(    Date/Time        : Sun Sep 24 08:31:22 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+Regenerating DRC
+  Original DRC errors:   0
+  Updated DRC errors:    0
+  DRC elapsed time:      00:00:00
+
+0 warnings, 0 errors detected, 0 errors  fixed.
+
+
+<<< Design Uprev Warnings >>>
+
+Sun Sep 24 08:31:22 2017				Page     1
+
+
+Performing DRC...
+No DRC errors detected.
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : assynotes.osm                                 )
+(    Software Version : 17.2S025                                      )
+(    Date/Time        : Sun Sep 24 08:31:22 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+0 warnings, 0 errors detected, 0 errors  fixed.
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : bnc.dra                                       )
+(    Software Version : 17.2S025                                      )
+(    Date/Time        : Sun Sep 24 08:31:22 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+Regenerating DRC
+  Original DRC errors:   0
+  Updated DRC errors:    0
+  DRC elapsed time:      00:00:00
+
+0 warnings, 0 errors detected, 0 errors  fixed.
+
+
+<<< Design Uprev Warnings >>>
+
+Sun Sep 24 08:31:22 2017				Page     1
+
+
+Performing DRC...
+No DRC errors detected.
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : bnc.psm                                       )
+(    Software Version : 17.2S025                                      )
+(    Date/Time        : Sun Sep 24 08:31:22 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+0 warnings, 0 errors detected, 0 errors  fixed.
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : bsize.dra                                     )
+(    Software Version : 17.2S025                                      )
+(    Date/Time        : Sun Sep 24 08:31:22 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+Regenerating DRC
+  Original DRC errors:   0
+  Updated DRC errors:    0
+  DRC elapsed time:      00:00:00
+
+0 warnings, 0 errors detected, 0 errors  fixed.
+
+
+<<< Design Uprev Warnings >>>
+
+Sun Sep 24 08:31:22 2017				Page     1
+
+
+Performing DRC...
+No DRC errors detected.
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : bsize.osm                                     )
+(    Software Version : 17.2S025                                      )
+(    Date/Time        : Sun Sep 24 08:31:23 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+0 warnings, 0 errors detected, 0 errors  fixed.
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : din64.dra                                     )
+(    Software Version : 17.2S025                                      )
+(    Date/Time        : Sun Sep 24 08:31:23 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+Regenerating DRC
+  Original DRC errors:   0
+  Updated DRC errors:    0
+  DRC elapsed time:      00:00:00
+
+0 warnings, 0 errors detected, 0 errors  fixed.
+
+
+<<< Design Uprev Warnings >>>
+
+Sun Sep 24 08:31:23 2017				Page     1
+
+
+Performing DRC...
+No DRC errors detected.
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : din64.psm                                     )
+(    Software Version : 17.2S025                                      )
+(    Date/Time        : Sun Sep 24 08:31:23 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+0 warnings, 0 errors detected, 0 errors  fixed.
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : dip24.dra                                     )
+(    Software Version : 17.2S025                                      )
+(    Date/Time        : Sun Sep 24 08:31:23 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+Regenerating DRC
+  Original DRC errors:   0
+  Updated DRC errors:    0
+  DRC elapsed time:      00:00:00
+
+0 warnings, 0 errors detected, 0 errors  fixed.
+
+
+<<< Design Uprev Warnings >>>
+
+Sun Sep 24 08:31:23 2017				Page     1
+
+
+Performing DRC...
+No DRC errors detected.
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : dip24.psm                                     )
+(    Software Version : 17.2S025                                      )
+(    Date/Time        : Sun Sep 24 08:31:23 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+0 warnings, 0 errors detected, 0 errors  fixed.
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : dip8.dra                                      )
+(    Software Version : 17.2S025                                      )
+(    Date/Time        : Sun Sep 24 08:31:23 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+Regenerating DRC
+  Original DRC errors:   0
+  Updated DRC errors:    0
+  DRC elapsed time:      00:00:00
+
+0 warnings, 0 errors detected, 0 errors  fixed.
+
+
+<<< Design Uprev Warnings >>>
+
+Sun Sep 24 08:31:23 2017				Page     1
+
+
+Performing DRC...
+No DRC errors detected.
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : dip8.psm                                      )
+(    Software Version : 17.2S025                                      )
+(    Date/Time        : Sun Sep 24 08:31:24 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+0 warnings, 0 errors detected, 0 errors  fixed.
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : hole110.pad                                   )
+(    Software Version : 17.2S025                                      )
+(    Date/Time        : Sun Sep 24 08:31:24 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+0 warnings, 0 errors detected, 0 errors  fixed.
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : ind300.dra                                    )
+(    Software Version : 17.2S025                                      )
+(    Date/Time        : Sun Sep 24 08:31:24 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+Regenerating DRC
+  Original DRC errors:   0
+  Updated DRC errors:    0
+  DRC elapsed time:      00:00:00
+
+0 warnings, 0 errors detected, 0 errors  fixed.
+
+
+<<< Design Uprev Warnings >>>
+
+Sun Sep 24 08:31:24 2017				Page     1
+
+
+Performing DRC...
+No DRC errors detected.
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : ind300.psm                                    )
+(    Software Version : 17.2S025                                      )
+(    Date/Time        : Sun Sep 24 08:31:24 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+0 warnings, 0 errors detected, 0 errors  fixed.
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : lcc24.dra                                     )
+(    Software Version : 17.2S025                                      )
+(    Date/Time        : Sun Sep 24 08:31:24 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+Regenerating DRC
+  Original DRC errors:   0
+  Updated DRC errors:    1
+  DRC elapsed time:      00:00:00
+
+0 warnings, 0 errors detected, 0 errors  fixed.
+
+
+<<< Design Uprev Warnings >>>
+
+Sun Sep 24 08:31:24 2017				Page     1
+
+
+Performing DRC...
+DRC done; 1 errors detected.
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : lcc24.psm                                     )
+(    Software Version : 17.2S025                                      )
+(    Date/Time        : Sun Sep 24 08:31:25 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+0 warnings, 0 errors detected, 0 errors  fixed.
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : led.dra                                       )
+(    Software Version : 17.2S025                                      )
+(    Date/Time        : Sun Sep 24 08:31:25 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+Regenerating DRC
+  Original DRC errors:   0
+  Updated DRC errors:    0
+  DRC elapsed time:      00:00:00
+
+0 warnings, 0 errors detected, 0 errors  fixed.
+
+
+<<< Design Uprev Warnings >>>
+
+Sun Sep 24 08:31:25 2017				Page     1
+
+
+Performing DRC...
+No DRC errors detected.
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : led.psm                                       )
+(    Software Version : 17.2S025                                      )
+(    Date/Time        : Sun Sep 24 08:31:25 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+0 warnings, 0 errors detected, 0 errors  fixed.
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : outline.bsm                                   )
+(    Software Version : 17.2S025                                      )
+(    Date/Time        : Sun Sep 24 08:31:25 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+0 warnings, 0 errors detected, 0 errors  fixed.
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : outline.dra                                   )
+(    Software Version : 17.2S025                                      )
+(    Date/Time        : Sun Sep 24 08:31:25 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+Regenerating DRC
+  Original DRC errors:   0
+  Updated DRC errors:    0
+  DRC elapsed time:      00:00:00
+
+0 warnings, 0 errors detected, 0 errors  fixed.
+
+
+<<< Design Uprev Warnings >>>
+
+Sun Sep 24 08:31:25 2017				Page     1
+
+
+Performing DRC...
+No DRC errors detected.
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : plcc84.dra                                    )
+(    Software Version : 17.2S025                                      )
+(    Date/Time        : Sun Sep 24 08:31:26 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+Regenerating DRC
+  Original DRC errors:   0
+  Updated DRC errors:    0
+  DRC elapsed time:      00:00:00
+
+0 warnings, 0 errors detected, 0 errors  fixed.
+
+
+<<< Design Uprev Warnings >>>
+
+Sun Sep 24 08:31:26 2017				Page     1
+
+
+Performing DRC...
+No DRC errors detected.
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : plcc84.psm                                    )
+(    Software Version : 17.2S025                                      )
+(    Date/Time        : Sun Sep 24 08:31:26 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+0 warnings, 0 errors detected, 0 errors  fixed.
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : smc_6032.dra                                  )
+(    Software Version : 17.2S025                                      )
+(    Date/Time        : Sun Sep 24 08:31:26 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+Regenerating DRC
+  Original DRC errors:   0
+  Updated DRC errors:    0
+  DRC elapsed time:      00:00:00
+
+0 warnings, 0 errors detected, 0 errors  fixed.
+
+
+<<< Design Uprev Warnings >>>
+
+Sun Sep 24 08:31:26 2017				Page     1
+
+
+Performing DRC...
+No DRC errors detected.
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : smc_6032.psm                                  )
+(    Software Version : 17.2S025                                      )
+(    Date/Time        : Sun Sep 24 08:31:26 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+0 warnings, 0 errors detected, 0 errors  fixed.
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : smd16_96.pad                                  )
+(    Software Version : 17.2S025                                      )
+(    Date/Time        : Sun Sep 24 08:31:26 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+0 warnings, 0 errors detected, 0 errors  fixed.
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : smd25_50.pad                                  )
+(    Software Version : 17.2S025                                      )
+(    Date/Time        : Sun Sep 24 08:31:26 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+0 warnings, 0 errors detected, 0 errors  fixed.
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : smd30_115.pad                                 )
+(    Software Version : 17.2S025                                      )
+(    Date/Time        : Sun Sep 24 08:31:26 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+0 warnings, 0 errors detected, 0 errors  fixed.
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : smd30_55.pad                                  )
+(    Software Version : 17.2S025                                      )
+(    Date/Time        : Sun Sep 24 08:31:27 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+0 warnings, 0 errors detected, 0 errors  fixed.
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : smd30_96.pad                                  )
+(    Software Version : 17.2S025                                      )
+(    Date/Time        : Sun Sep 24 08:31:27 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+0 warnings, 0 errors detected, 0 errors  fixed.
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : smd50_25.pad                                  )
+(    Software Version : 17.2S025                                      )
+(    Date/Time        : Sun Sep 24 08:31:28 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+0 warnings, 0 errors detected, 0 errors  fixed.
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : smd60_55.pad                                  )
+(    Software Version : 17.2S025                                      )
+(    Date/Time        : Sun Sep 24 08:31:28 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+0 warnings, 0 errors detected, 0 errors  fixed.
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : smd63_47.pad                                  )
+(    Software Version : 17.2S025                                      )
+(    Date/Time        : Sun Sep 24 08:31:28 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+0 warnings, 0 errors detected, 0 errors  fixed.
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : smd80_24.pad                                  )
+(    Software Version : 17.2S025                                      )
+(    Date/Time        : Sun Sep 24 08:31:28 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+0 warnings, 0 errors detected, 0 errors  fixed.
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : smd90_82.pad                                  )
+(    Software Version : 17.2S025                                      )
+(    Date/Time        : Sun Sep 24 08:31:28 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+0 warnings, 0 errors detected, 0 errors  fixed.
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : smdio64.dra                                   )
+(    Software Version : 17.2S025                                      )
+(    Date/Time        : Sun Sep 24 08:31:28 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+Regenerating DRC
+  Original DRC errors:   0
+  Updated DRC errors:    0
+  DRC elapsed time:      00:00:00
+
+0 warnings, 0 errors detected, 0 errors  fixed.
+
+
+<<< Design Uprev Warnings >>>
+
+Sun Sep 24 08:31:28 2017				Page     1
+
+
+Performing DRC...
+No DRC errors detected.
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : smdio64.psm                                   )
+(    Software Version : 17.2S025                                      )
+(    Date/Time        : Sun Sep 24 08:31:28 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+0 warnings, 0 errors detected, 0 errors  fixed.
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : sm_0805.dra                                   )
+(    Software Version : 17.2S025                                      )
+(    Date/Time        : Sun Sep 24 08:31:28 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+Regenerating DRC
+  Original DRC errors:   0
+  Updated DRC errors:    0
+  DRC elapsed time:      00:00:00
+
+0 warnings, 0 errors detected, 0 errors  fixed.
+
+
+<<< Design Uprev Warnings >>>
+
+Sun Sep 24 08:31:28 2017				Page     1
+
+
+Performing DRC...
+No DRC errors detected.
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : sm_0805.psm                                   )
+(    Software Version : 17.2S025                                      )
+(    Date/Time        : Sun Sep 24 08:31:29 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+0 warnings, 0 errors detected, 0 errors  fixed.
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : sm_1206.dra                                   )
+(    Software Version : 17.2S025                                      )
+(    Date/Time        : Sun Sep 24 08:31:29 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+Regenerating DRC
+  Original DRC errors:   0
+  Updated DRC errors:    0
+  DRC elapsed time:      00:00:00
+
+0 warnings, 0 errors detected, 0 errors  fixed.
+
+
+<<< Design Uprev Warnings >>>
+
+Sun Sep 24 08:31:29 2017				Page     1
+
+
+Performing DRC...
+No DRC errors detected.
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : sm_1206.psm                                   )
+(    Software Version : 17.2S025                                      )
+(    Date/Time        : Sun Sep 24 08:31:29 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+0 warnings, 0 errors detected, 0 errors  fixed.
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : soic20.dra                                    )
+(    Software Version : 17.2S025                                      )
+(    Date/Time        : Sun Sep 24 08:31:29 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+Regenerating DRC
+  Original DRC errors:   0
+  Updated DRC errors:    0
+  DRC elapsed time:      00:00:00
+
+0 warnings, 0 errors detected, 0 errors  fixed.
+
+
+<<< Design Uprev Warnings >>>
+
+Sun Sep 24 08:31:29 2017				Page     1
+
+
+Performing DRC...
+No DRC errors detected.
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : soic20.psm                                    )
+(    Software Version : 17.2S025                                      )
+(    Date/Time        : Sun Sep 24 08:31:29 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+0 warnings, 0 errors detected, 0 errors  fixed.
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : soic20_pe.dra                                 )
+(    Software Version : 17.2S025                                      )
+(    Date/Time        : Sun Sep 24 08:31:30 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+Regenerating DRC
+  Original DRC errors:   0
+  Updated DRC errors:    0
+  DRC elapsed time:      00:00:00
+
+0 warnings, 0 errors detected, 0 errors  fixed.
+
+
+<<< Design Uprev Warnings >>>
+
+Sun Sep 24 08:31:30 2017				Page     1
+
+
+Performing DRC...
+No DRC errors detected.
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : soic20_pe.psm                                 )
+(    Software Version : 17.2S025                                      )
+(    Date/Time        : Sun Sep 24 08:31:30 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+0 warnings, 0 errors detected, 0 errors  fixed.
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : soic24.dra                                    )
+(    Software Version : 17.2S025                                      )
+(    Date/Time        : Sun Sep 24 08:31:30 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+Regenerating DRC
+  Original DRC errors:   0
+  Updated DRC errors:    0
+  DRC elapsed time:      00:00:00
+
+0 warnings, 0 errors detected, 0 errors  fixed.
+
+
+<<< Design Uprev Warnings >>>
+
+Sun Sep 24 08:31:30 2017				Page     1
+
+
+Performing DRC...
+No DRC errors detected.
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : soic24.psm                                    )
+(    Software Version : 17.2S025                                      )
+(    Date/Time        : Sun Sep 24 08:31:30 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+0 warnings, 0 errors detected, 0 errors  fixed.
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : soic24w.dra                                   )
+(    Software Version : 17.2S025                                      )
+(    Date/Time        : Sun Sep 24 08:31:30 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+Regenerating DRC
+  Original DRC errors:   0
+  Updated DRC errors:    0
+  DRC elapsed time:      00:00:00
+
+0 warnings, 0 errors detected, 0 errors  fixed.
+
+
+<<< Design Uprev Warnings >>>
+
+Sun Sep 24 08:31:30 2017				Page     1
+
+
+Performing DRC...
+No DRC errors detected.
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : soic24w.psm                                   )
+(    Software Version : 17.2S025                                      )
+(    Date/Time        : Sun Sep 24 08:31:30 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+0 warnings, 0 errors detected, 0 errors  fixed.
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : soic32.dra                                    )
+(    Software Version : 17.2S025                                      )
+(    Date/Time        : Sun Sep 24 08:31:31 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+Regenerating DRC
+  Original DRC errors:   0
+  Updated DRC errors:    0
+  DRC elapsed time:      00:00:00
+
+0 warnings, 0 errors detected, 0 errors  fixed.
+
+
+<<< Design Uprev Warnings >>>
+
+Sun Sep 24 08:31:31 2017				Page     1
+
+
+Performing DRC...
+No DRC errors detected.
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : soic32.psm                                    )
+(    Software Version : 17.2S025                                      )
+(    Date/Time        : Sun Sep 24 08:31:31 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+0 warnings, 0 errors detected, 0 errors  fixed.
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : soic48.dra                                    )
+(    Software Version : 17.2S025                                      )
+(    Date/Time        : Sun Sep 24 08:31:31 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+Regenerating DRC
+  Original DRC errors:   0
+  Updated DRC errors:    0
+  DRC elapsed time:      00:00:00
+
+0 warnings, 0 errors detected, 0 errors  fixed.
+
+
+<<< Design Uprev Warnings >>>
+
+Sun Sep 24 08:31:31 2017				Page     1
+
+
+Performing DRC...
+No DRC errors detected.
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : soic48.psm                                    )
+(    Software Version : 17.2S025                                      )
+(    Date/Time        : Sun Sep 24 08:31:31 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+0 warnings, 0 errors detected, 0 errors  fixed.
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : soic8.dra                                     )
+(    Software Version : 17.2S025                                      )
+(    Date/Time        : Sun Sep 24 08:31:31 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+Regenerating DRC
+  Original DRC errors:   0
+  Updated DRC errors:    0
+  DRC elapsed time:      00:00:00
+
+0 warnings, 0 errors detected, 0 errors  fixed.
+
+
+<<< Design Uprev Warnings >>>
+
+Sun Sep 24 08:31:31 2017				Page     1
+
+
+Performing DRC...
+No DRC errors detected.
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : soic8.psm                                     )
+(    Software Version : 17.2S025                                      )
+(    Date/Time        : Sun Sep 24 08:31:32 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+0 warnings, 0 errors detected, 0 errors  fixed.
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : to-99.dra                                     )
+(    Software Version : 17.2S025                                      )
+(    Date/Time        : Sun Sep 24 08:31:32 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+Regenerating DRC
+  Original DRC errors:   0
+  Updated DRC errors:    0
+  DRC elapsed time:      00:00:00
+
+0 warnings, 0 errors detected, 0 errors  fixed.
+
+
+<<< Design Uprev Warnings >>>
+
+Sun Sep 24 08:31:32 2017				Page     1
+
+
+Performing DRC...
+No DRC errors detected.
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : to-99.psm                                     )
+(    Software Version : 17.2S025                                      )
+(    Date/Time        : Sun Sep 24 08:31:32 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+0 warnings, 0 errors detected, 0 errors  fixed.
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : via.pad                                       )
+(    Software Version : 17.2S025                                      )
+(    Date/Time        : Sun Sep 24 08:31:32 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+0 warnings, 0 errors detected, 0 errors  fixed.

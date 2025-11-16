@@ -1,0 +1,13 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'BNC_CONN'
+
+{========================================================================================}
+:PACK_TYPE(OPT)   = PART_NUMBER | DESCRIPTION     | JEDEC_TYPE ;
+{========================================================================================}
+ 'pc_mount'(!)     = 'conn234'   | 'bnc connector' | 'bnc'     
+
+END_PART
+
+END.
+

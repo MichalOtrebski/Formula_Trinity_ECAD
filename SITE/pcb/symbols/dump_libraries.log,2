@@ -1,0 +1,28 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Dump Library Log                                                 )
+(                                                                     )
+(    Software Version : 23.1S001                                      )
+(    Date/Time        : Tue Feb 20 22:43:56 2024                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+*** file: C:/User1/syscap_training/SITE/pcb/symbols/RC0805.dra ***
+
+
+
+  *** Creating padstacks. ***
+
+  SMD60_55 being dumped.
+
+
+
+*********************** Summary *********************
+ERRORs reported:                           0
+
+Number of padstacks dumped:                1
+
+Total number of symbols dumped:            0
+*****************************************************
+

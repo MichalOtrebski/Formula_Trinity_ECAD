@@ -1,0 +1,3 @@
+pdv_216,Symbol 'sym_3':Size of the symbol is greater than the Sheet Size,Error
+pdv_216,Symbol 'sym_2':Size of the symbol is greater than the Sheet Size,Error
+pdv_216,Symbol 'sym_1':Size of the symbol is greater than the Sheet Size,Error

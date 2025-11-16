@@ -1,0 +1,90 @@
+(Cell	ctap
+
+	(RevisionInfoBlock	
+
+		(Baselined	1)
+
+		(Revision	1.0.0)
+
+		(ModificationStatus	NULL)
+
+		(Status	Baselined)
+
+		(ErrorStatus	1)
+
+		(CreateInfo	
+
+			(Time	03/06/05,16:44:08)
+
+			(User	sureshg)
+
+			(Path	standard.ctap)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000009fad3c72)
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	1)
+
+						(CreateInfo	
+
+							(Time	03/06/05,16:44:08)
+
+							(User	sureshg)
+
+							(Path	standard.ctap)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001e3103e4)
+
+		)
+
+		(Checksum	000000001b990377)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.50-d029)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001b770357)
+
+)
+

@@ -1,0 +1,159 @@
+(Cell	cadence b size page
+
+	(RevisionInfoBlock	
+
+		(Baselined	1)
+
+		(Revision	1.0.0)
+
+		(ModificationStatus	NULL)
+
+		(Status	Baselined)
+
+		(ErrorStatus	1)
+
+		(CreateInfo	
+
+			(Time	03/06/05,16:36:03)
+
+			(User	sureshg)
+
+			(Path	standard.cadence b size page)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	3
+
+				(Symbol	sym_3
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000ab71e165)
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	1)
+
+						(CreateInfo	
+
+							(Time	03/06/05,16:36:03)
+
+							(User	sureshg)
+
+							(Path	standard.cadence b size page)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_2
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000a648e344)
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	1)
+
+						(CreateInfo	
+
+							(Time	03/06/05,16:36:03)
+
+							(User	sureshg)
+
+							(Path	standard.cadence b size page)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000009541e374)
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	1)
+
+						(CreateInfo	
+
+							(Time	03/06/05,16:36:03)
+
+							(User	sureshg)
+
+							(Path	standard.cadence b size page)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001ec00414)
+
+		)
+
+		(Checksum	000000001c4f0373)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.50-d029)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001c3d037c)
+
+)
+
+

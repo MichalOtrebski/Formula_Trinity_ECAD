@@ -1,0 +1,47 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME=' Created/Modified on Fri Mar 16 13:06:41 2001' ;
+primitive 'BNC_CONN','BNC_CONN_PC_MOUNT';
+  pin
+    'CENTER':
+      PIN_NUMBER='(1)';
+      PIN_TYPE='ANALOG';
+      NO_LOAD_CHECK='BOTH';
+      NO_IO_CHECK='BOTH';
+      ALLOW_CONNECT='TRUE';
+      BIDIRECTIONAL='TRUE';
+    'AGND4':
+      PIN_NUMBER='(5)';
+      PIN_TYPE='ANALOG';
+      NO_LOAD_CHECK='BOTH';
+      NO_IO_CHECK='BOTH';
+      ALLOW_CONNECT='TRUE';
+      BIDIRECTIONAL='TRUE';
+    'AGND1':
+      PIN_NUMBER='(2)';
+      PIN_TYPE='ANALOG';
+      NO_LOAD_CHECK='BOTH';
+      NO_IO_CHECK='BOTH';
+      ALLOW_CONNECT='TRUE';
+      BIDIRECTIONAL='TRUE';
+    'AGND2':
+      PIN_NUMBER='(3)';
+      PIN_TYPE='ANALOG';
+      NO_LOAD_CHECK='BOTH';
+      NO_IO_CHECK='BOTH';
+      ALLOW_CONNECT='TRUE';
+      BIDIRECTIONAL='TRUE';
+    'AGND3':
+      PIN_NUMBER='(4)';
+      PIN_TYPE='ANALOG';
+      NO_LOAD_CHECK='BOTH';
+      NO_IO_CHECK='BOTH';
+      ALLOW_CONNECT='TRUE';
+      BIDIRECTIONAL='TRUE';
+  end_pin;
+  body
+    CLASS='IO';
+    PART_NAME='BNC_CONN';
+    PHYS_DES_PREFIX='J';
+  end_body;
+end_primitive;
+END.

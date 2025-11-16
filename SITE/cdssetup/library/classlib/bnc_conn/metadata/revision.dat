@@ -1,0 +1,162 @@
+(Cell	bnc_conn
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.1)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	07/25/07,08:32:15)
+
+			(User	bimai)
+
+			(Path	classlib.bnc_conn)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000b81268a0)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/25/07,08:32:15)
+
+							(User	bimai)
+
+							(Path	classlib.bnc_conn)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001bfa037d)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000004790b39)
+
+			(Primitives	1
+
+				(Primitive	BNC_CONN
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/25/07,08:32:15)
+
+							(User	bimai)
+
+							(Path	classlib.bnc_conn)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	BNC_CONN
+
+							(PackType	BNC_CONN)
+
+							(PackType	BNC_CONN_PC_MOUNT)
+
+						)
+
+					)
+
+					(Packages	2
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001ae2037a)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.0-p002 (v16-0-87B))
+
+		(License	PCB_design_expert)
+
+	)
+
+	(Checksum	000000001c7f03a5)
+
+)
+

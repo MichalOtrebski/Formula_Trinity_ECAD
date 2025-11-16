@@ -1,0 +1,202 @@
+(Cell	b_size_page
+
+	(RevisionInfoBlock	
+
+		(Baselined	1)
+
+		(Revision	1.0.0)
+
+		(ModificationStatus	NULL)
+
+		(Status	Baselined)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	08/15/06,19:43:08)
+
+			(User	mboucher)
+
+			(Path	standard.b_size_page)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000c32ada37)
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/15/06,19:43:08)
+
+							(User	mboucher)
+
+							(Path	standard.b_size_page)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001dae03d9)
+
+		)
+
+		(Checksum	000000001dad03dc)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	Unreleased)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001dd20405)
+
+)
+
+
+(Cell	b_size_page
+
+	(RevisionInfoBlock	
+
+		(Baselined	1)
+
+		(Revision	1.1.0)
+
+		(ModificationStatus	NULL)
+
+		(Status	Baselined)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	08/15/06,19:43:08)
+
+			(User	mboucher)
+
+			(Path	standard.b_size_page)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	09/13/12,05:46:22)
+
+			(User	chimike)
+
+			(Path	cdsstd.b_size_page)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000c32ada37)
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.1.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/15/06,19:43:08)
+
+							(User	mboucher)
+
+							(Path	standard.b_size_page)
+
+						)
+
+						(LastModifyInfo	
+
+							(Time	09/13/12,05:46:22)
+
+							(User	chimike)
+
+							(Path	cdsstd.b_size_page)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001dae03d9)
+
+		)
+
+		(Checksum	000000001dad03dc)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	Unreleased)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001dd20405)
+
+)
+
+

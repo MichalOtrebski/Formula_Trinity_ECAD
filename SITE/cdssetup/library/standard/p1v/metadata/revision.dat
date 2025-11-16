@@ -1,0 +1,114 @@
+(Cell	p1v
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.31)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	11/14/13,12:14:54)
+
+			(User	dah)
+
+			(Path	cdsstd.p1v)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(RevisionInfoBlock	
+
+				(Baselined	0)
+
+				(Revision	0.0.14)
+
+				(ModificationStatus	NULL)
+
+				(Status	Created)
+
+				(ErrorStatus	0)
+
+				(CreateInfo	
+
+					(Time	11/14/13,12:14:54)
+
+					(User	dah)
+
+					(Path	cdsstd.p1v)
+
+				)
+
+			)
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Sizable)
+
+					(Max_Size	0)
+
+					(Checksum	00000000f23c4024)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.14)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/14/13,12:14:54)
+
+							(User	dah)
+
+							(Path	cdsstd.p1v)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001c770379)
+
+		)
+
+		(Checksum	000000001b6a0356)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	17.2-2016 S002 (v17-2-0A))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001c280379)
+
+)
+

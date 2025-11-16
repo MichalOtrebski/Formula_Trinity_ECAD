@@ -1,0 +1,36 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Dump Library Log                                                 )
+(                                                                     )
+(    Software Version : 22.1S003                                      )
+(    Date/Time        : Wed Apr 12 10:55:27 2023                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+*** file: C:/User1/syscap_training/SITE/pcb/symbols/dip14.dra ***
+
+
+
+  *** Creating padstacks. ***
+
+  62C38D being dumped.
+
+  62S38D being dumped.
+
+
+  *** Creating flash symbols (.dra and .fsm) ***
+
+  ab53 being dumped.
+
+
+
+*********************** Summary *********************
+ERRORs reported:                           0
+
+Number of padstacks dumped:                2
+Number of flash symbols dumped:            1
+
+Total number of symbols dumped:            1
+*****************************************************
+

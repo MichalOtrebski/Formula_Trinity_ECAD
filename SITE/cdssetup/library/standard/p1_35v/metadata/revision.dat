@@ -1,0 +1,90 @@
+(Cell	p1_35v
+
+	(RevisionInfoBlock	
+
+		(Baselined	1)
+
+		(Revision	1.0.0)
+
+		(ModificationStatus	NULL)
+
+		(Status	Baselined)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	01/27/06,13:35:56)
+
+			(User	chimike)
+
+			(Path	dwg_sym.p1_35v)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Sizable)
+
+					(Max_Size	0)
+
+					(Checksum	00000000bfb237ba)
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	01/27/06,13:35:56)
+
+							(User	chimike)
+
+							(Path	dwg_sym.p1_35v)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001e86040a)
+
+		)
+
+		(Checksum	000000001b96037a)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	Unreleased)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001b92037e)
+
+)
+

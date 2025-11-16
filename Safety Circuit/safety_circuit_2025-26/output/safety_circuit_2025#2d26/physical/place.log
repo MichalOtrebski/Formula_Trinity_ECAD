@@ -1,0 +1,64 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    PLACEMENT LOG                                                    )
+(                                                                     )
+(    Drawing          : V1.brd                                        )
+(    Software Version : 25.1P001                                      )
+(    Date/Time        : Wed Nov 12 14:23:20 2025                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ Autoplace C:/SPB_Data/safety_circuit_2025-26/output/safety_circuit_2025#2d26/physical/V1.brd 
+ Save as C:/SPB_Data/safety_circuit_2025-26/output/safety_circuit_2025#2d26/physical/V1.brd 
+
+ Will search while getting acceptable improvement
+ Will not scale complete graph edges
+ Start time Wed Nov 12 14:23:20 2025
+
+
+ 
+ 	 	 Placement Task Version 1.00 
+ 
+ 
+ Algorithm  : IC
+ Place within: board
+ Map grid points to: library origin
+ Place leftovers on bottom: YES
+ Allow component overlap: NO
+ Soft boundary: NO
+ Cluster: NO
+ No Rat: NO
+ Remove TAG: NO
+ Components at rotation of 0 degrees are weighted 50
+
+ Components at rotation of 90 degrees are weighted 0
+
+ Components at rotation of 180 degrees are weighted 0
+
+ Components at rotation of 270 degrees are weighted 0
+
+ Board direction of north is weighted 50
+
+ Board direction of east is weighted 50
+
+ Board direction of south is weighted 50
+
+ Board direction of west is weighted 50
+
+ Component mirroring weight is 50
+
+ Component straightness weight is 50
+
+ Warning: unplaced components are not PLACE TAGGED.
+
+ Placement Keepin
+
+  line seg 	(1.2700,1.2700) (98.7300,1.2700)
+  line seg 	(98.7300,1.2700) (98.7300,48.7300)
+  line seg 	(98.7300,48.7300) (1.2700,48.7300)
+  line seg 	(1.2700,48.7300) (1.2700,1.2700)
+
+ Error: No Placement Grid was found
+ERROR(SPMHGE-458): Error see the message(s) above.

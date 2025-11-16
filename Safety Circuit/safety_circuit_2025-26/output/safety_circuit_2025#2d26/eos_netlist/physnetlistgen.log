@@ -1,0 +1,126 @@
+{Physical Netlist Generation for design : 'SAFETY_CIRCUIT_2025-26'}
+
+12-Nov-2025 AT 22:40:23: Reading Library data
+
+12-Nov-2025 AT 22:40:23: Reading state file: pxl_safety_circuit_2025#2d26.state
+
+12-Nov-2025 AT 22:40:23: Generating file: pstxprt.dat
+
+INFO(PKG-1508):Property 'OPERATING_TEMPERATURE' with value '-55°C ~ 125°C' contains unsupported characters in the exported netlist and has been skipped.
+
+INFO(PKG-1508):Property 'OPERATING_TEMPERATURE' with value '-55°C ~ 125°C' contains unsupported characters in the exported netlist and has been skipped.
+
+INFO(PKG-1508):Property 'OPERATING_TEMPERATURE' with value '-55°C ~ 125°C' contains unsupported characters in the exported netlist and has been skipped.
+
+INFO(PKG-1508):Property 'OPERATING_TEMPERATURE' with value '-55°C ~ 125°C' contains unsupported characters in the exported netlist and has been skipped.
+
+INFO(PKG-1508):Property 'OPERATING_TEMPERATURE' with value '-55°C ~ 125°C' contains unsupported characters in the exported netlist and has been skipped.
+
+INFO(PKG-1508):Property 'OPERATING_TEMPERATURE' with value '-55°C ~ 125°C' contains unsupported characters in the exported netlist and has been skipped.
+
+INFO(PKG-1508):Property 'OPERATING_TEMPERATURE' with value '-55°C ~ 155°C' contains unsupported characters in the exported netlist and has been skipped.
+
+INFO(PKG-1508):Property 'OPERATING_TEMPERATURE' with value '-55°C ~ 155°C' contains unsupported characters in the exported netlist and has been skipped.
+
+INFO(PKG-1508):Property 'OPERATING_TEMPERATURE' with value '-55°C ~ 155°C' contains unsupported characters in the exported netlist and has been skipped.
+
+INFO(PKG-1508):Property 'OPERATING_TEMPERATURE' with value '-55°C ~ 155°C' contains unsupported characters in the exported netlist and has been skipped.
+
+INFO(PKG-1508):Property 'OPERATING_TEMPERATURE' with value '-55°C ~ 155°C' contains unsupported characters in the exported netlist and has been skipped.
+
+INFO(PKG-1508):Property 'OPERATING_TEMPERATURE' with value '-55°C ~ 155°C' contains unsupported characters in the exported netlist and has been skipped.
+
+INFO(PKG-1508):Property 'OPERATING_TEMPERATURE' with value '-55°C ~ 155°C' contains unsupported characters in the exported netlist and has been skipped.
+
+INFO(PKG-1508):Property 'OPERATING_TEMPERATURE' with value '-55°C ~ 155°C' contains unsupported characters in the exported netlist and has been skipped.
+
+INFO(PKG-1508):Property 'OPERATING_TEMPERATURE' with value '-55°C ~ 155°C' contains unsupported characters in the exported netlist and has been skipped.
+
+INFO(PKG-1508):Property 'OPERATING_TEMPERATURE' with value '-55°C ~ 155°C' contains unsupported characters in the exported netlist and has been skipped.
+
+INFO(PKG-1508):Property 'OPERATING_TEMPERATURE' with value '-55°C ~ 155°C' contains unsupported characters in the exported netlist and has been skipped.
+
+INFO(PKG-1508):Property 'OPERATING_TEMPERATURE' with value '-55°C ~ 155°C' contains unsupported characters in the exported netlist and has been skipped.
+
+INFO(PKG-1508):Property 'OPERATING_TEMPERATURE' with value '-55°C ~ 155°C' contains unsupported characters in the exported netlist and has been skipped.
+
+INFO(PKG-1508):Property 'OPERATING_TEMPERATURE' with value '-55°C ~ 155°C' contains unsupported characters in the exported netlist and has been skipped.
+
+INFO(PKG-1508):Property 'OPERATING_TEMPERATURE' with value '-55°C ~ 155°C' contains unsupported characters in the exported netlist and has been skipped.
+
+INFO(PKG-1508):Property 'OPERATING_TEMPERATURE' with value '-55°C ~ 155°C' contains unsupported characters in the exported netlist and has been skipped.
+
+INFO(PKG-1508):Property 'OPERATING_TEMPERATURE' with value '-55°C ~ 155°C' contains unsupported characters in the exported netlist and has been skipped.
+
+INFO(PKG-1508):Property 'OPERATING_TEMPERATURE' with value '-55°C ~ 155°C' contains unsupported characters in the exported netlist and has been skipped.
+
+INFO(PKG-1508):Property 'OPERATING_TEMPERATURE' with value '-55°C ~ 155°C' contains unsupported characters in the exported netlist and has been skipped.
+
+INFO(PKG-1508):Property 'OPERATING_TEMPERATURE' with value '-55°C ~ 155°C' contains unsupported characters in the exported netlist and has been skipped.
+
+INFO(PKG-1508):Property 'OPERATING_TEMPERATURE' with value '-55°C ~ 155°C' contains unsupported characters in the exported netlist and has been skipped.
+
+INFO(PKG-1508):Property 'OPERATING_TEMPERATURE' with value '-55°C ~ 155°C' contains unsupported characters in the exported netlist and has been skipped.
+
+INFO(PKG-1508):Property 'OPERATING_TEMPERATURE' with value '-55°C ~ 155°C' contains unsupported characters in the exported netlist and has been skipped.
+
+INFO(PKG-1508):Property 'OPERATING_TEMPERATURE' with value '-55°C ~ 155°C' contains unsupported characters in the exported netlist and has been skipped.
+
+INFO(PKG-1508):Property 'OPERATING_TEMPERATURE' with value '-55°C ~ 155°C' contains unsupported characters in the exported netlist and has been skipped.
+
+INFO(PKG-1508):Property 'OPERATING_TEMPERATURE' with value '-55°C ~ 155°C' contains unsupported characters in the exported netlist and has been skipped.
+
+INFO(PKG-1508):Property 'OPERATING_TEMPERATURE' with value '-55°C ~ 155°C' contains unsupported characters in the exported netlist and has been skipped.
+
+INFO(PKG-1508):Property 'OPERATING_TEMPERATURE' with value '-55°C ~ 155°C' contains unsupported characters in the exported netlist and has been skipped.
+
+INFO(PKG-1508):Property 'OPERATING_TEMPERATURE' with value '-55°C ~ 155°C' contains unsupported characters in the exported netlist and has been skipped.
+
+INFO(PKG-1508):Property 'OPERATING_TEMPERATURE' with value '-55°C ~ 155°C' contains unsupported characters in the exported netlist and has been skipped.
+
+INFO(PKG-1508):Property 'OPERATING_TEMPERATURE' with value '-55°C ~ 155°C' contains unsupported characters in the exported netlist and has been skipped.
+
+INFO(PKG-1508):Property 'OPERATING_TEMPERATURE' with value '-55°C ~ 155°C' contains unsupported characters in the exported netlist and has been skipped.
+
+INFO(PKG-1508):Property 'OPERATING_TEMPERATURE' with value '-55°C ~ 155°C' contains unsupported characters in the exported netlist and has been skipped.
+
+INFO(PKG-1508):Property 'OPERATING_TEMPERATURE' with value '-55°C ~ 155°C' contains unsupported characters in the exported netlist and has been skipped.
+
+INFO(PKG-1508):Property 'OPERATING_TEMPERATURE' with value '-55°C ~ 155°C' contains unsupported characters in the exported netlist and has been skipped.
+
+INFO(PKG-1508):Property 'OPERATING_TEMPERATURE' with value '-55°C ~ 155°C' contains unsupported characters in the exported netlist and has been skipped.
+
+INFO(PKG-1508):Property 'OPERATING_TEMPERATURE' with value '-55°C ~ 110°C' contains unsupported characters in the exported netlist and has been skipped.
+
+INFO(PKG-1508):Property 'OPERATING_TEMPERATURE' with value '150°C (TJ)' contains unsupported characters in the exported netlist and has been skipped.
+
+INFO(PKG-1508):Property 'OPERATING_TEMPERATURE' with value '150°C (TJ)' contains unsupported characters in the exported netlist and has been skipped.
+
+INFO(PKG-1508):Property 'OPERATING_TEMPERATURE' with value '150°C (TJ)' contains unsupported characters in the exported netlist and has been skipped.
+
+INFO(PKG-1508):Property 'OPERATING_TEMPERATURE' with value '-55°C ~ 110°C' contains unsupported characters in the exported netlist and has been skipped.
+
+INFO(PKG-1508):Property 'OPERATING_TEMPERATURE' with value '-55°C ~ 110°C' contains unsupported characters in the exported netlist and has been skipped.
+
+INFO(PKG-1508):Property 'OPERATING_TEMPERATURE' with value '150°C (TJ)' contains unsupported characters in the exported netlist and has been skipped.
+
+INFO(PKG-1508):Property 'OPERATING_TEMPERATURE' with value '150°C (TJ)' contains unsupported characters in the exported netlist and has been skipped.
+
+INFO(PKG-1508):Property 'OPERATING_TEMPERATURE' with value '150°C (TJ)' contains unsupported characters in the exported netlist and has been skipped.
+
+INFO(PKG-1508):Property 'OPERATING_TEMPERATURE' with value '-55°C ~ 110°C' contains unsupported characters in the exported netlist and has been skipped.
+
+INFO(PKG-1508):Property 'OPERATING_TEMPERATURE' with value '-55°C ~ 110°C' contains unsupported characters in the exported netlist and has been skipped.
+
+INFO(PKG-1508):Property 'OPERATING_TEMPERATURE' with value '-55°C ~ 110°C' contains unsupported characters in the exported netlist and has been skipped.
+
+12-Nov-2025 AT 22:40:23: Generating file: pstchip.dat
+
+12-Nov-2025 AT 22:40:23: Generating file: pstxnet.dat
+
+
+
+Summary: 	0 errors, 0 warnings found
+    Start time   22:40:23
+    End time     22:40:23
+    Elapsed time  0:00:00

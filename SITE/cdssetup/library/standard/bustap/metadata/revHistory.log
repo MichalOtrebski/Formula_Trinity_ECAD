@@ -1,0 +1,182 @@
+(Cell	bustap
+
+	(RevisionInfoBlock	
+
+		(Baselined	1)
+
+		(Revision	1.0.0)
+
+		(ModificationStatus	NULL)
+
+		(Status	Baselined)
+
+		(ErrorStatus	1)
+
+		(CreateInfo	
+
+			(Time	05/06/05,12:09:16)
+
+			(User	sdurrill)
+
+			(Path	dwg_sym.bustap)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	0000000040e3383a)
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	1)
+
+						(CreateInfo	
+
+							(Time	05/06/05,12:09:16)
+
+							(User	sdurrill)
+
+							(Path	dwg_sym.bustap)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001b58037c)
+
+		)
+
+		(Checksum	000000001b86037e)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.50-a005)
+
+		(License	)
+
+	)
+
+	(Checksum	000000001b900381)
+
+)
+
+
+(Cell	bustap
+
+	(RevisionInfoBlock	
+
+		(Baselined	1)
+
+		(Revision	1.0.0)
+
+		(ModificationStatus	NULL)
+
+		(Status	Baselined)
+
+		(ErrorStatus	1)
+
+		(CreateInfo	
+
+			(Time	05/06/05,12:09:16)
+
+			(User	sdurrill)
+
+			(Path	dwg_sym.bustap)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	0000000040e3383a)
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	1)
+
+						(CreateInfo	
+
+							(Time	05/06/05,12:09:16)
+
+							(User	sdurrill)
+
+							(Path	dwg_sym.bustap)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001b58037c)
+
+		)
+
+		(Checksum	000000001b86037e)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.50-a005)
+
+		(License	)
+
+	)
+
+	(Checksum	000000001b900381)
+
+)
+
+

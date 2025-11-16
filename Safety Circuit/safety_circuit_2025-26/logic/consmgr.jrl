@@ -1,0 +1,8 @@
+\t (00:00:30) unison 25.1 P001 (4349869) [9/14/2025] Windows SPB 64-bit Edition
+\t (00:00:30)     Journal start - Sun Nov 16 20:57:04 2025
+\t (00:00:30)         Host=COMPUTER User=motre Pid=9028 CPUs=12
+\t (00:00:30) CmdLine= C:\Cadence\SPB_25.1\tools\bin\unison.exe -sch
+\t (00:00:30) 
+\t (00:00:30) skill setRedsGlobalTypes()
+\t (00:00:30) skill acns_setGlobalTypes()
+\t (00:09:14)     Journal end - Sun Nov 16 21:05:48 2025

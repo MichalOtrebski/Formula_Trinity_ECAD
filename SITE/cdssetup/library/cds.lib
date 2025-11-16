@@ -1,0 +1,2 @@
+DEFINE classlib ./classlib
+DEFINE standard	./standard

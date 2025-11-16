@@ -1,0 +1,12 @@
+(
+; DiffPair automation
+;         DP prefix     +Net Match & Suffix       -Net Match & Suffix   
+(ACM_DP  (  "DP_"      (".*[0-9]+P" "P")         (".*[0-9]+N" "N")) 
+	     (  "DP_"      (".*_P.*" "_P")           (".*_N.*" "_N"))
+;        (  "DP_"      (".*PX" "PX")             (".*NX" "NX"))		 
+ )
+; Net Class automation
+(ACM_NC 
+	("ABC")
+)
+)

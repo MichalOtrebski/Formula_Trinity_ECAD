@@ -1,0 +1,25 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME=' Created/Modified on Fri Mar 16 12:44:39 2001' ;
+primitive 'PHOTO_DIODE','PHOTO_DIODE_TH';
+  pin
+    'ANODE':
+      PIN_NUMBER='(1)';
+      PIN_TYPE='ANALOG';
+      NO_LOAD_CHECK='BOTH';
+      NO_IO_CHECK='BOTH';
+      ALLOW_CONNECT='TRUE';
+    'CATHODE':
+      PIN_NUMBER='(2)';
+      PIN_TYPE='ANALOG';
+      NO_LOAD_CHECK='BOTH';
+      NO_IO_CHECK='BOTH';
+      ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+    CLASS='DISCRETE';
+    PART_NAME='PHOTO_DIODE';
+    PHYS_DES_PREFIX='CR';
+    NO_DIR_CHECK='TRUE';
+  end_body;
+end_primitive;
+END.

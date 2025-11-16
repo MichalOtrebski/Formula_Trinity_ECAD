@@ -1,0 +1,60 @@
+START_CANVAS
+AUTO_XNETS_USING_GATES 'ON'
+
+CTAP 'standard.tap:sym_6'
+{CTAP 'standard.ctap:sym_1'}
+{ BUS_TAP_SYMBOL_ROT90 'standard.tap:sym_7' }
+{ BUS_TAP_SYMBOL_ROT180 'standard.tap:sym_1' }
+{ BUS_TAP_SYMBOL_ROT270 'standard.tap:sym_3' }
+
+POWER_SYMBOLS '+1_5V!1.5V:classlib:vcc:sym_1' 'GND!0V:classlib:gnd:sym_1'
+{REDIRECTED POWER SYMBOLS TO CLASSLIB}
+
+INPORT 'standard.inport:sym_1'
+OUTPORT 'standard.outport:sym_1'
+IOPORT 'standard.ioport:sym_1'
+
+OFFPAGE_INPUT 'standard.offpage:sym_1'
+OFFPAGE_OUTPUT 'standard.offpage:sym_2'
+OFFPAGE_IO 'standard.offpage:sym_3'
+
+ALIASBODY 'standard.alias:sym_1'
+
+PAGE_DEFAULT_SIZE 'symbol standard:b_size_page:sym_1'
+
+SIMPLE_NOTE_TEXT_FONT_SIZE '5'
+
+HARD_REFDES_CONFLICT_RESOLVE 'OFF'
+
+UPPERCASE_SIGNAL_NAMES 'TRUE'
+
+SAVE_TCL_IN_PROJECT 'TRUE'
+DO_NOT_HONOR_ANNOTATIONS 'ON'
+ANNOTATE_ALL_PROPS 'TRUE'
+
+TABLE_TEXT_FONT_SIZE '12'
+
+NETSPLIT_SUFFIX	'X'
+
+{GRID SETUP HERE}
+GRID_DISPLAY_ENABLED 'electrical'
+GRID_DISPLAY_MULTIPLE '1'
+
+STUB_LENGTH '4'
+END_CANVAS
+
+START_ALLEGRO
+PSMPATH '$CDS_SITE/pcb/symbols'
+PADPATH '$CDS_SITE/pcb/symbols'
+END_ALLEGRO
+
+START_COMPBROWSER
+Minimize_On_Add 'TRUE'
+END_COMPBROWSER
+
+START_CONSTRAINT_MGR
+AUTO_XNETS_USING_GATES 'ON'
+AUTO_XNETS_USING_DML 'OFF'
+END_CONSTRAINT_MGR
+
+

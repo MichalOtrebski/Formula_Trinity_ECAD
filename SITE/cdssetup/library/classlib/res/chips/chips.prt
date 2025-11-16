@@ -1,0 +1,25 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME=' Created/Modified on Fri Mar 16 11:02:40 2001' ;
+primitive 'RES','RES_SMDRES';
+  pin
+    'A':
+      PIN_NUMBER='(1)';
+      PIN_TYPE='UNSPEC';
+      NO_LOAD_CHECK='BOTH';
+      NO_IO_CHECK='BOTH';
+      ALLOW_CONNECT='TRUE';
+    'B':
+      PIN_NUMBER='(2)';
+      PIN_TYPE='UNSPEC';
+      NO_LOAD_CHECK='BOTH';
+      NO_IO_CHECK='BOTH';
+      ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+    CLASS='DISCRETE';
+    PART_NAME='RES';
+    PHYS_DES_PREFIX='R';
+    NO_DIR_CHECK='TRUE';
+  end_body;
+end_primitive;
+END.

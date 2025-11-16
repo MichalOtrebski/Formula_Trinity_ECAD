@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : RC1205.dra                                    )
+(    Software Version : 23.1S001                                      )
+(    Date/Time        : Tue Feb 20 22:46:43 2024                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/User1/syscap_training/SITE/pcb/symbols
+    Name      = rc1205.psm
+    User      = asadm
+    Machine   = PC-ASADM
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

@@ -1,0 +1,162 @@
+(Cell	act574
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.1)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	07/25/07,08:31:17)
+
+			(User	bimai)
+
+			(Path	classlib.act574)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000009a09ba3e)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/25/07,08:31:17)
+
+							(User	bimai)
+
+							(Path	classlib.act574)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001cf203df)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000fe0be3cb)
+
+			(Primitives	1
+
+				(Primitive	ACT574
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/25/07,08:31:17)
+
+							(User	bimai)
+
+							(Path	classlib.act574)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	ACT574
+
+							(PackType	ACT574)
+
+							(PackType	ACT574_SOIC)
+
+						)
+
+					)
+
+					(Packages	2
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001ebc043c)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.0-p002 (v16-0-87B))
+
+		(License	PCB_design_expert)
+
+	)
+
+	(Checksum	000000001d7b03d6)
+
+)
+

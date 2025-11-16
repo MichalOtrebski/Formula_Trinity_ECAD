@@ -1,0 +1,20 @@
+\t (00:00:13) allegro 24.1 P001 (4234998) [9/4/2024] Windows SPB 64-bit Edition
+\t (00:00:13)     Journal start - Wed Oct 23 12:01:04 2024
+\t (00:00:13)         Host=PC-PC1ZGWVX User=asadm Pid=14516 CPUs=8
+\t (00:00:13) CmdLine= C:\Cadence\SPB_24.1\tools\bin\allegro.exe
+\t (00:00:13) 
+\t (00:00:13) Loading axlcore.cxt 
+\t (00:00:16) Starting new design...
+\i (00:00:16) trapsize 116667
+\i (00:00:16) generaledit 
+\i (00:00:18) open 
+\i (00:00:24) fillin "C:/User1/SysCapFTB/24.1/database/20200630-bimai-02/syscap_training/SITE/pcb/modules/daamp.mdd"
+\i (00:00:24) cd "C:/User1/SysCapFTB/24.1/database/20200630-bimai-02/syscap_training/SITE/pcb/modules"
+\i (00:00:24) trapsize 1288
+\i (00:00:24) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged unnamed
+\t (00:00:24) Opening existing design...
+\i (00:00:25) fillin yes 
+\i (00:00:27) trapsize 17
+\i (00:00:27) trapsize 18
+\i (00:00:27) trapsize 18
+\t (00:00:27)     Journal end - Wed Oct 23 12:01:19 2024

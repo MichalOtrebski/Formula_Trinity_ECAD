@@ -1,0 +1,26 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME=' Created/Modified on Fri Mar 16 14:24:31 2001' ;
+primitive 'EPC1064','EPC1064_SOIC';
+  pin
+    'DCLK':
+      PIN_NUMBER='(2)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'OE':
+      PIN_NUMBER='(3)';
+      INPUT_LOAD='(-0.01,0.01)';
+    '-CS':
+      PIN_NUMBER='(4)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'DATA':
+      PIN_NUMBER='(1)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+  end_pin;
+  body
+    NC_PINS='(6)';
+    POWER_PINS='(VCC:7,8;GND:5)';
+    CLASS='IC';
+    PART_NAME='EPC1064';
+    PHYS_DES_PREFIX='U';
+  end_body;
+end_primitive;
+END.

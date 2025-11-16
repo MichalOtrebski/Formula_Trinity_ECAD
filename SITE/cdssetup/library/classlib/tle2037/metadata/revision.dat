@@ -1,0 +1,164 @@
+(Cell	tle2037
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.1)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	07/25/07,08:45:50)
+
+			(User	bimai)
+
+			(Path	classlib.tle2037)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000fd93bcc6)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/25/07,08:45:50)
+
+							(User	bimai)
+
+							(Path	classlib.tle2037)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001ebe0415)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000d4555960)
+
+			(Primitives	1
+
+				(Primitive	TLE2037
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/25/07,08:45:50)
+
+							(User	bimai)
+
+							(Path	classlib.tle2037)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	TLE2037
+
+							(PackType	TLE2037)
+
+							(PackType	TLE2037_SOIC)
+
+							(PackType	TLE2037_CAN)
+
+						)
+
+					)
+
+					(Packages	3
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001c2d0383)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.0-p002 (v16-0-87B))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001c290379)
+
+)
+

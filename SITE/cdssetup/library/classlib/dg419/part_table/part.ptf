@@ -1,0 +1,13 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'DG419'
+
+{========================================================================================}
+:PACK_TYPE    = PART_NUMBER | DESCRIPTION                          | JEDEC_TYPE ;
+{========================================================================================}
+ 'soic'(!)    = 'ic303132'  | 'ic,spdt analog swich,dg419ak,soic8' | 'soic8'   
+
+END_PART
+
+END.
+

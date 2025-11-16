@@ -1,0 +1,17 @@
+
+	(Comment
+		(Time 01/27/06,13:35:56)
+		(User chimike)
+		(MsgId ECO_332)
+		(Text "Revision for symbol sym_1 has been updated to 1.0.0")
+		(Param1 sym_1)
+		(Param2 1.0.0)
+	)
+	(Comment
+		(Time 01/27/06,13:35:56)
+		(User chimike)
+		(MsgId ECO_331)
+		(Text "Revision for cell p1_5v has been updated to 1.0.0")
+		(Param1 p1_5v)
+		(Param2 1.0.0)
+	)

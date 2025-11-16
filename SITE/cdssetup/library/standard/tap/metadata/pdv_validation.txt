@@ -1,0 +1,8 @@
+pdv_140,Symbol 'sym_8':Pin B is not on Standard Grid,Error
+pdv_140,Symbol 'sym_7':Pin B is not on Standard Grid,Error
+pdv_140,Symbol 'sym_6':Pin B is not on Standard Grid,Error
+pdv_140,Symbol 'sym_5':Pin B is not on Standard Grid,Error
+pdv_140,Symbol 'sym_4':Pin B is not on Standard Grid,Error
+pdv_140,Symbol 'sym_3':Pin B is not on Standard Grid,Error
+pdv_140,Symbol 'sym_2':Pin B is not on Standard Grid,Error
+pdv_140,Symbol 'sym_1':Pin B is not on Standard Grid,Error
