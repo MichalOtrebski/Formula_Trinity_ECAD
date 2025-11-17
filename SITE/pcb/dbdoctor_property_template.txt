@@ -1,0 +1,66 @@
+# VERSION=1.0
+#
+# Allows customer to update of properties during dbdoctor or allegro_uprev operations.
+#
+# File name:
+#    Provided to the "-property" command line option of dbdoctor and 
+#	allegro_uprev.
+#
+# File syntax:
+#  DB <database_type>
+#       <operation>
+#
+#  Where:
+#       DB <database_type> - operation lines after this apply to this design type
+#               dra     - applies to dra files, properties are on design root.
+#               def_sm  - applies to psm, bsm, osm, ssm and fsm. Property updates are
+#			performed on the symbol definition. They get imported
+#			into the board.
+#               def_pad - applies to padstacks, property updates are on the padstack 
+#			definition. They get imported into the board.
+#
+#	 '#' is a comment line
+#       <operation> can be:
+#          DEF <name> <data_type>
+#               Creates a property definition with provided name. Creates
+#               a definition good on all objects with provided data type.
+#               If proprty exists, does not change the existing definition.
+#          ADD <name> <value>
+#               Add or replace on the design root the property name with
+#               the provided value. If property is a boolean type value is ignored.
+#               If property definition does not exist, it will not be added.
+#          DELETE <name>
+#               Deletes property on design with property name. If property
+#               does not exist this is not an error.
+#          INC <name>
+#               Increments property in design. Supports both string
+#               and integer property types. If property does not exist nothing
+#               is none.
+#          INC_ADD <name> <value>
+#               If property exists in design, increment other property.
+#		If property does not exist add it with the provided value
+#               If property definition does not exist it is not be added.
+#
+#	<name> - name of the property. Must meet Allegro naming rules. Case
+#		is ignored
+#	<data_type> - type of property definition. Supported types are
+#		string, integer, bool.
+#	<value> property value.
+#
+#   Notes:
+#	- warnings and result of operations are placed in dbdoctor.log
+#	- design processing order is:
+#	    DEF
+#	    DELETE
+#	    rest of operations
+# 	
+
+DB dra
+	DEF MY_VERSION integer
+	INC_ADD MY_VERSION
+DB def_sm
+	DELETE MY_VERSION
+DB def_pad
+	DEF COMPANY string
+	DELETE COMPANY
+	#ADD COMPANY Cadence Design Systems

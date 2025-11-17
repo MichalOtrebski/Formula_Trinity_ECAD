@@ -1,8 +1,0 @@
-\t (00:00:28) unison 25.1 P001 (4349869) [9/14/2025] Windows SPB 64-bit Edition
-\t (00:00:28)     Journal start - Sun Nov 16 22:34:03 2025
-\t (00:00:28)         Host=COMPUTER User=motre Pid=9084 CPUs=12
-\t (00:00:28) CmdLine= unison.exe -sch -proj C:/Users/motre/Desktop/safety_circuit_2025-26/safety_circuit_2025-26.cpm
-\t (00:00:28) 
-\t (00:00:28) skill setRedsGlobalTypes()
-\t (00:00:28) skill acns_setGlobalTypes()
-\t (00:01:14)     Journal end - Sun Nov 16 22:34:50 2025

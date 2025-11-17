@@ -1,2 +1,2 @@
-DEFINE classlib ./classlib
-DEFINE standard	./standard
+DEFINE ft_classlib ./ft_classlib
+DEFINE ft_standard ./ft_standard

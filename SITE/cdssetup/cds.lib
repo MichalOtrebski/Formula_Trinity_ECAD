@@ -1,1 +1,6 @@
 INCLUDE ./library/cds.lib
+
+INCLUDE "$CONCEPT_INST_DIR/share/cdssetup/cds.lib"
+
+DEFINE ultralibrarian $HOME/downloaded_parts/ultralibrarian/dehdl
+DEFINE snapeda $HOME/downloaded_parts/snapeda/dehdl
