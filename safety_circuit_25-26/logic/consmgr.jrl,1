@@ -1,8 +1,11 @@
-\t (00:00:34) unison 25.1 P001 (4349869) [9/14/2025] Windows SPB 64-bit Edition
-\t (00:00:34)     Journal start - Mon Nov 17 23:16:00 2025
-\t (00:00:34)         Host=COMPUTER User=motre Pid=22584 CPUs=12
-\t (00:00:34) CmdLine= C:\Cadence\SPB_25.1\tools\bin\unison.exe -sch
-\t (00:00:34) 
-\t (00:00:34) skill setRedsGlobalTypes()
-\t (00:00:34) skill acns_setGlobalTypes()
-\t (00:03:48)     Journal end - Mon Nov 17 23:19:15 2025
+\t (00:00:55) unison 25.1 P001 (4349869) [9/14/2025] Windows SPB 64-bit Edition
+\t (00:00:55)     Journal start - Mon Nov 24 22:09:35 2025
+\t (00:00:55)         Host=COMPUTER User=motre Pid=17920 CPUs=12
+\t (00:00:55) CmdLine= C:\Cadence\SPB_25.1\tools\bin\unison.exe -sch
+\t (00:00:55) 
+\t (00:00:55) skill setRedsGlobalTypes()
+\t (00:00:55) skill acns_setGlobalTypes()
+\t (01:20:45) [23:29:25.286137] Configured Lic search path (25.01-s002): 5280@talent.formulatrinity.ie
+
+\i (01:20:45) setwindow pcb
+\t (01:20:45)     Journal end - Mon Nov 24 23:29:25 2025

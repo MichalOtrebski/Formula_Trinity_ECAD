@@ -1,0 +1,284 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Auto Silkscreen Log File                                         )
+(                                                                     )
+(    Drawing          : V1.brd                                        )
+(    Software Version : 25.1P001                                      )
+(    Date/Time        : Wed Nov 26 14:58:28 2025                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Generating Auto Silkscreen for both sides of the board.
+
+Copying all elements.
+
+Element to Pad clearance is 0.0000
+Max Text displacement is 2.5400
+Min Line Length is 0.0000
+Allowing 0, 90, 180 and 270 degree text rotations.
+Text Allowed Under Components.
+Subclass Selections:
+ Board Geometry       : Any
+ Component Value      : Any
+ Device Type          : Any
+ Package Geometry     : Any
+ Reference Designator : Any
+ Tolerance            : Any
+ User Part Number     : Any
+
+
+     ----- Top Silkscreen -----
+
+Text string 'TOL' is not at a suitable location
+(location: 51.0000, 17.6869)
+Text string 'TOL' is not at a suitable location
+(location: 51.0000, 22.6955)
+Text string 'PN' is not at a suitable location
+(location: 51.0000, 27.7041)
+Text string 'TOL' is not at a suitable location
+(location: 51.0000, 27.7041)
+Text string 'PN' is not at a suitable location
+(location: 51.0000, 32.7127)
+Text string 'TOL' is not at a suitable location
+(location: 51.0000, 32.7127)
+Text string 'PN' is not at a suitable location
+(location: 51.0000, 37.7213)
+Text string 'TOL' is not at a suitable location
+(location: 51.0000, 37.7213)
+Text string 'PN' is not at a suitable location
+(location: 51.0000, 42.7299)
+Text string 'TOL' is not at a suitable location
+(location: 51.0000, 42.7299)
+Text string 'TOL' is not at a suitable location
+(location: 72.8650, 47.0000)
+Text string 'PN' is not at a suitable location
+(location: 69.8650, 47.0000)
+Text string 'VAL' is not at a suitable location
+(location: 69.8650, 47.0000)
+Text string 'TOL' is not at a suitable location
+(location: 69.8650, 47.0000)
+Text string 'PN' is not at a suitable location
+(location: 66.8650, 47.0000)
+Text string 'VAL' is not at a suitable location
+(location: 66.8650, 47.0000)
+Text string 'TOL' is not at a suitable location
+(location: 66.8650, 47.0000)
+Text string 'PN' is not at a suitable location
+(location: 63.8650, 47.0000)
+Text string 'VAL' is not at a suitable location
+(location: 63.8650, 47.0000)
+Text string 'TOL' is not at a suitable location
+(location: 63.8650, 47.0000)
+Text string 'VAL' is not at a suitable location
+(location: 60.8650, 47.0000)
+Text string 'TOL' is not at a suitable location
+(location: 60.8650, 47.0000)
+Text string 'TOL' is not at a suitable location
+(location: 57.8650, 47.0000)
+Text string 'R30' is not at a suitable location
+(location: 51.0000, 18.9212)
+Text string 'PN' is not at a suitable location
+(location: 51.0000, 18.9212)
+Text string 'VAL' is not at a suitable location
+(location: 51.0000, 18.9212)
+Text string 'TOL' is not at a suitable location
+(location: 51.0000, 18.9212)
+Text string 'R29' is not at a suitable location
+(location: 51.0000, 23.9298)
+Text string 'PN' is not at a suitable location
+(location: 51.0000, 23.9298)
+Text string 'VAL' is not at a suitable location
+(location: 51.0000, 23.9298)
+Text string 'TOL' is not at a suitable location
+(location: 51.0000, 23.9298)
+Text string 'R28' is not at a suitable location
+(location: 51.0000, 28.9384)
+Text string 'PN' is not at a suitable location
+(location: 51.0000, 28.9384)
+Text string 'VAL' is not at a suitable location
+(location: 51.0000, 28.9384)
+Text string 'TOL' is not at a suitable location
+(location: 51.0000, 28.9384)
+Text string 'R12' is not at a suitable location
+(location: 51.0000, 33.9470)
+Text string 'PN' is not at a suitable location
+(location: 51.0000, 33.9470)
+Text string 'VAL' is not at a suitable location
+(location: 51.0000, 33.9470)
+Text string 'TOL' is not at a suitable location
+(location: 51.0000, 33.9470)
+Text string 'R11' is not at a suitable location
+(location: 51.0000, 38.9556)
+Text string 'PN' is not at a suitable location
+(location: 51.0000, 38.9556)
+Text string 'VAL' is not at a suitable location
+(location: 51.0000, 38.9556)
+Text string 'TOL' is not at a suitable location
+(location: 51.0000, 38.9556)
+Text string 'PN' is not at a suitable location
+(location: 51.0000, 43.9642)
+Text string 'VAL' is not at a suitable location
+(location: 51.0000, 43.9642)
+Text string 'TOL' is not at a suitable location
+(location: 51.0000, 43.9642)
+Text string 'R23' is not at a suitable location
+(location: 19.5000, 24.8650)
+Text string 'PN' is not at a suitable location
+(location: 19.5000, 24.8650)
+Text string 'VAL' is not at a suitable location
+(location: 19.5000, 24.8650)
+Text string 'TOL' is not at a suitable location
+(location: 19.5000, 24.8650)
+Text string 'TOL' is not at a suitable location
+(location: 19.5000, 29.2650)
+Text string 'TOL' is not at a suitable location
+(location: 19.5000, 33.6650)
+Text string 'PN' is not at a suitable location
+(location: 19.5000, 42.4650)
+Text string 'VAL' is not at a suitable location
+(location: 19.5000, 42.4650)
+Text string 'TOL' is not at a suitable location
+(location: 19.5000, 42.4650)
+Text string 'TOL' is not at a suitable location
+(location: 46.8650, 18.5000)
+Text string 'TOL' is not at a suitable location
+(location: 46.8650, 23.5000)
+Text string 'TOL' is not at a suitable location
+(location: 46.8650, 28.5000)
+Text string 'TOL' is not at a suitable location
+(location: 46.8650, 33.5000)
+Text string 'TOL' is not at a suitable location
+(location: 46.8650, 38.5000)
+Text string 'TOL' is not at a suitable location
+(location: 46.8650, 43.5000)
+Text string 'R20' is not at a suitable location
+(location: 19.5000, 20.4650)
+Text string 'VAL' is not at a suitable location
+(location: 19.5000, 20.4650)
+Text string 'TOL' is not at a suitable location
+(location: 19.5000, 20.4650)
+Text string 'VAL' is not at a suitable location
+(location: 19.5000, 18.2650)
+Text string 'TOL' is not at a suitable location
+(location: 19.5000, 18.2650)
+Text string 'R19' is not at a suitable location
+(location: 19.5000, 27.0650)
+Text string 'PN' is not at a suitable location
+(location: 19.5000, 27.0650)
+Text string 'VAL' is not at a suitable location
+(location: 19.5000, 27.0650)
+Text string 'TOL' is not at a suitable location
+(location: 19.5000, 27.0650)
+Text string 'R3' is not at a suitable location
+(location: 19.5000, 31.4650)
+Text string 'PN' is not at a suitable location
+(location: 19.5000, 31.4650)
+Text string 'VAL' is not at a suitable location
+(location: 19.5000, 31.4650)
+Text string 'TOL' is not at a suitable location
+(location: 19.5000, 31.4650)
+Text string 'R2' is not at a suitable location
+(location: 19.5000, 35.8650)
+Text string 'PN' is not at a suitable location
+(location: 19.5000, 35.8650)
+Text string 'VAL' is not at a suitable location
+(location: 19.5000, 35.8650)
+Text string 'TOL' is not at a suitable location
+(location: 19.5000, 35.8650)
+Text string 'R1' is not at a suitable location
+(location: 19.5000, 38.0650)
+Text string 'PN' is not at a suitable location
+(location: 19.5000, 38.0650)
+Text string 'VAL' is not at a suitable location
+(location: 19.5000, 38.0650)
+Text string 'TOL' is not at a suitable location
+(location: 19.5000, 38.0650)
+Text string 'U12' is not at a suitable location
+(location: 55.5000, 18.3650)
+Text string 'TOL' is not at a suitable location
+(location: 55.5000, 18.3650)
+Text string 'U11' is not at a suitable location
+(location: 55.5000, 23.0650)
+Text string 'VAL' is not at a suitable location
+(location: 55.5000, 23.0650)
+Text string 'TOL' is not at a suitable location
+(location: 55.5000, 23.0650)
+Text string 'U10' is not at a suitable location
+(location: 55.5000, 27.7650)
+Text string 'TOL' is not at a suitable location
+(location: 55.5000, 27.7650)
+Text string 'PN' is not at a suitable location
+(location: 55.5000, 32.4650)
+Text string 'VAL' is not at a suitable location
+(location: 55.5000, 32.4650)
+Text string 'TOL' is not at a suitable location
+(location: 55.5000, 32.4650)
+Text string 'VAL' is not at a suitable location
+(location: 55.5000, 37.1650)
+Text string 'TOL' is not at a suitable location
+(location: 55.5000, 37.1650)
+Text string 'PN' is not at a suitable location
+(location: 55.5000, 41.8650)
+Text string 'VAL' is not at a suitable location
+(location: 55.5000, 41.8650)
+Text string 'TOL' is not at a suitable location
+(location: 55.5000, 41.8650)
+Text string 'TOL' is not at a suitable location
+(location: 66.0230, 20.1350)
+Text string 'TOL' is not at a suitable location
+(location: 66.0230, 24.6350)
+Text string 'TOL' is not at a suitable location
+(location: 66.0230, 29.1350)
+Text string 'TOL' is not at a suitable location
+(location: 66.0230, 33.6350)
+Text string 'TOL' is not at a suitable location
+(location: 66.0230, 38.1350)
+Text string 'PN' is not at a suitable location
+(location: 66.0230, 42.6350)
+Text string 'VAL' is not at a suitable location
+(location: 66.0230, 42.6350)
+Text string 'TOL' is not at a suitable location
+(location: 66.0230, 42.6350)
+Text string 'VAL' is not at a suitable location
+(location: 74.1350, 50.5000)
+Text string 'TOL' is not at a suitable location
+(location: 74.1350, 50.5000)
+Text string 'PN' is not at a suitable location
+(location: 71.1350, 50.5000)
+Text string 'VAL' is not at a suitable location
+(location: 71.1350, 50.5000)
+Text string 'TOL' is not at a suitable location
+(location: 71.1350, 50.5000)
+Text string 'PN' is not at a suitable location
+(location: 68.1350, 50.5000)
+Text string 'VAL' is not at a suitable location
+(location: 68.1350, 50.5000)
+Text string 'TOL' is not at a suitable location
+(location: 68.1350, 50.5000)
+Text string 'PN' is not at a suitable location
+(location: 65.1350, 50.5000)
+Text string 'VAL' is not at a suitable location
+(location: 65.1350, 50.5000)
+Text string 'TOL' is not at a suitable location
+(location: 65.1350, 50.5000)
+Text string 'PN' is not at a suitable location
+(location: 62.1350, 50.5000)
+Text string 'VAL' is not at a suitable location
+(location: 62.1350, 50.5000)
+Text string 'TOL' is not at a suitable location
+(location: 62.1350, 50.5000)
+Text string 'PN' is not at a suitable location
+(location: 59.1350, 50.5000)
+Text string 'VAL' is not at a suitable location
+(location: 59.1350, 50.5000)
+Text string 'TOL' is not at a suitable location
+(location: 59.1350, 50.5000)
+
+     ----- Bottom Silkscreen -----
+
+
+Total Failures: 122
+
+Log End
+

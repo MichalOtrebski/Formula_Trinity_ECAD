@@ -1,0 +1,110 @@
+***** Pspice Netlist      (Cadence Design Systems Inc.)
+***** Design : safety_circuit_25-26
+***** Date   : NOV 17' 2025		Time : 23:32:35
+****************************************************************
+
+
+X_R16	_N61 _N107    erj_p06j621v
+X_LED1	LVMS _N109    150060ss75000
+X_R11	_N18 BSPD_LED    erj_p06j621v
+X_R21	_N95 INERTIA    erj_hp6f1001v
+X_R4	_N34 LVMS    erj_hp6f1002v
+X_C1	0 _N34    cl21c221jbannnc
+X_R29	_N73 RIGHT_LED    erj_p06j621v
+X_R6	_N62 COCKPIT    erj_hp6f1002v
+X_R3	_N59 LEFT    erj_hp6f1001v
+X_LED3	COCKPIT _N107    150060ss75000
+X_C2	0 _N50    cl21c221jbannnc
+X_U12	_N96 _N97 0    mmbt2222a
+X_R5	_N50 BSPD    erj_hp6f1002v
+X_C4	0 _N74    cl21c221jbannnc
+X_U1	_N34 _N2 0 0    vo618a_3x017t
+X_R34	_N97 _N105    erj_p06j621v
+X_R31	_N85 _N106    erj_p06j621v
+X_LED6	BOTS _N105    150060ss75000
+X_C5	0 _N86    cl21c221jbannnc
+X_U11	_N60 _N61 0    mmbt2222a
+X_J2	INERTIA_LED BOTS_LED RIGHT_LED LEFT_LED COCKPIT_LED  UNCN_001 BSPD_LED 0    397730008
+X_U7	_N74 _N71 0 0    vo618a_3x017t
+X_U2	_N50 _N47 0 0    vo618a_3x017t
+X_R17	_N61 LEFT_LED    erj_p06j621v
+X_R33	_N84 _N86    erj_hp6f1002v
+X_R1	_N2 BSPD    erj_hp6f1001v
+X_R26	0 _N86    erj_hp6d1003v
+X_R22	_N74 LEFT    erj_hp6f1002v
+X_U4	_N3 _N18 0    mmbt2222a
+X_R36	_N96 _N98    erj_hp6f1002v
+X_R35	_N97 INERTIA_LED    erj_p06j621v
+X_R8	0 _N50    erj_hp6d1003v
+X_R25	0 _N74    erj_hp6d1003v
+X_R2	_N47 COCKPIT    erj_hp6f1001v
+X_R32	_N85 BOTS_LED    erj_p06j621v
+X_R27	0 _N98    erj_hp6d1003v
+X_R23	_N86 RIGHT    erj_hp6f1002v
+X_R18	_N60 _N62    erj_hp6f1002v
+X_R30	_N72 _N74    erj_hp6f1002v
+X_LED2	BSPD _N108    150060ss75000
+X_R9	0 _N62    erj_hp6d1003v
+X_R12	_N3 _N34    erj_hp6f1002v
+X_LED4	LEFT _N110    150060ss75000
+X_C3	0 _N62    cl21c221jbannnc
+X_U6	_N48 _N49 0    mmbt2222a
+X_R24	_N98 BOTS    erj_hp6f1002v
+X_R13	_N49 _N108    erj_p06j621v
+X_R10	_N18 _N109    erj_p06j621v
+X_LED5	RIGHT _N106    150060ss75000
+X_R28	_N73 _N110    erj_p06j621v
+X_C6	0 _N98    cl21c221jbannnc
+X_U5	_N72 _N73 0    mmbt2222a
+X_R19	_N71 RIGHT    erj_hp6f1001v
+X_U8	_N86 _N83 0 0    vo618a_3x017t
+X_U3	_N62 _N59 0 0    vo618a_3x017t
+X_J1	BOTS RIGHT LEFT COCKPIT BSPD  UNCN_002 LVMS INERTIA    397730008
+X_R20	_N83 BOTS    erj_hp6f1001v
+X_R7	0 _N34    erj_hp6d1003v
+X_U10	_N84 _N85 0    mmbt2222a
+X_R15	_N48 _N50    erj_hp6f1002v
+X_U9	_N98 _N95 0 0    vo618a_3x017t
+X_R14	_N49 COCKPIT_LED    erj_p06j621v
+
+
+
+*** Subcircuit definition for empty blocks.
+
+.subckt  150060ss75000	anode cathode 
+.ends
+
+
+.subckt  erj_hp6d1003v	2 1 
+.ends
+
+
+.subckt  erj_hp6f1001v	2 1 
+.ends
+
+
+.subckt  vo618a_3x017t	c_2 a c e 
+.ends
+
+
+.subckt  mmbt2222a	b c e 
+.ends
+
+
+.subckt  cl21c221jbannnc	2 1 
+.ends
+
+
+.subckt  erj_p06j621v	2 1 
+.ends
+
+
+.subckt  397730008	6 5 4 3 2 8 1 7 
+.ends
+
+
+.subckt  erj_hp6f1002v	2 1 
+.ends
+
+
+

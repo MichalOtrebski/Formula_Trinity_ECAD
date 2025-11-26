@@ -1,0 +1,38 @@
+\t (01:20:45) unison 25.1 P001 (4349869) [9/14/2025] Windows SPB 64-bit Edition
+\t (01:20:45)     Journal start - Mon Nov 24 23:29:25 2025
+\t (01:20:45)         Host=COMPUTER User=motre Pid=17920 CPUs=12
+\t (01:20:45) CmdLine= C:\Cadence\SPB_25.1\tools\bin\unison.exe -sch
+\t (01:20:45) 
+\t (01:20:45) Loading consmgr.cxt 
+\t (01:20:45) Loading acns_formula.cxt 
+\t (01:20:45) Loading axlcore.cxt 
+\t (01:20:45) Starting new design...
+\i (01:20:45) trapsize 10500
+\i (01:20:46) open C:/ECAD/Formula_Trinity_ECAD/safety_circuit_25-26/output/safety_circuit_25#2d26/physical/V1.brd 
+\t (01:20:46) Opening existing design...
+\i (01:20:46) trapsize 60000
+\d (01:20:47) Design opened: C:/ECAD/Formula_Trinity_ECAD/safety_circuit_25-26/output/safety_circuit_25#2d26/physical/V1.brd
+\i (01:20:47) trapsize 4298
+\i (01:20:48) QtSignal PropertyPadstackWidget PropertyPadstackEditMode CurrentIndexChanged 0
+\i (01:20:48) QtSignal PropertyPadstackWidget copperPadLayer CurrentIndexChanged 0
+\i (01:20:48) QtSignal PropertyPadstackWidget copperPadType CurrentIndexChanged 0
+\i (01:20:51) trapsize 4441
+\i (01:20:55) QtSignal Property_Docked_PadstackWidget PropertyPadstackEditMode CurrentIndexChanged +
+\i (01:20:55) QtSignal 0
+\i (01:20:55) QtSignal Property_Docked_PadstackWidget copperPadLayer CurrentIndexChanged 0
+\i (01:20:55) QtSignal Property_Docked_PadstackWidget copperPadType CurrentIndexChanged 0
+\i (01:20:57) trapsize 4910
+\i (01:21:04) QtSignal UCP3DSystemDockWidget 3DXSystemDesignPanel refresh
+\i (01:21:06) updateport VisibilityPane
+\i (01:21:06) updateport PropPane
+\i (01:21:06) updateport CVPane
+\i (01:21:06) ucpedit 
+\i (01:21:06) updateport VisibilityPane
+\i (01:21:07) QtSignal Allegro_Property_Dock_Pane_Accordion_Container PropertySelectionFilterWidget DockedTabWidgetSwitch +
+\i (01:21:07) QtSignal "CP_ALLEGRO_CONSTRAINTS_DOCK"
+\i (03:49:52) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\t (03:49:59) Lic Summary:
+[01:58:39.130866] Cdslmd servers:
+[01:58:39.130921] Feature usage summary:
+
+\t (03:50:13)     Journal end - Tue Nov 25 01:58:54 2025

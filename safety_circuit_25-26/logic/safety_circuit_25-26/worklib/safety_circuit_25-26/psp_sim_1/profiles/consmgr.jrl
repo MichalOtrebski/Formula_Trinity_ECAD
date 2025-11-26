@@ -1,0 +1,7 @@
+\t (00:00:00) consmgr  unreleased (4349869) [9/14/2025] Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Wed Nov 19 14:36:39 2025
+\t (00:00:00)         Host=COMPUTER User=motre Pid=24752 CPUs=12
+\t (00:00:00) CmdLine= consmgr.exe -mpssession motre_Project5132
+\t (00:00:00) 
+\t (00:00:00) skill setRedsGlobalTypes()
+\t (00:00:00) skill acns_setGlobalTypes()

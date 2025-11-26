@@ -1,0 +1,439 @@
+# Cadence Design Systems, Inc.
+# Allegro PCB Router Automatic Router
+# Allegro PCB Router v25-1-0 made 2025/08/25 at 12:48:59
+# Running on host 
+# 
+#            Command Line Parameters
+#            -----------------------
+# Design File Name : C:/ECAD/Formula_Trinity_ECAD/safety_circuit_25-26/output/safety_circuit_25#2d26/physical\V1.dsn
+# Initialization options:
+#   -do pasde.do
+# Status File Name : C:/ECAD/Formula_Trinity_ECAD/safety_circuit_25-26/output/safety_circuit_25#2d26/physical\monitor.sts
+# -nog specified. Graphics not utilized.
+# Use Colormap In Design File.
+#
+#
+#
+#
+# do $/V1_rules.do
+rule PCB (width 0.1600)
+rule PCB (clearance 0.1270 (type buried_via_gap))
+rule PCB (clearance 0.2000 (type wire_wire))
+rule PCB (clearance 0.2000 (type wire_smd))
+rule PCB (clearance 0.2000 (type wire_pin))
+rule PCB (clearance 0.2000 (type wire_via))
+rule PCB (clearance 0.2000 (type smd_smd))
+rule PCB (clearance 0.2000 (type smd_pin))
+rule PCB (clearance 0.2000 (type smd_via))
+rule PCB (clearance 0.2000 (type pin_pin))
+rule PCB (clearance 0.2000 (type pin_via))
+rule PCB (clearance 0.2000 (type via_via))
+rule PCB (clearance 0.1270 (type test_test))
+rule PCB (clearance 0.2000 (type test_wire))
+rule PCB (clearance 0.2000 (type test_smd))
+rule PCB (clearance 0.2000 (type test_pin))
+rule PCB (clearance 0.2000 (type test_via))
+rule PCB (clearance 0 (type area_wire))
+rule PCB (clearance 0 (type area_smd))
+rule PCB (clearance 0 (type area_area))
+rule PCB (clearance 0 (type area_pin))
+rule PCB (clearance 0 (type area_via))
+rule PCB (clearance 0 (type area_test))
+rule PCB (clearance 0.1270 (type microvia_microvia))
+set microvia_microvia on
+rule PCB (clearance 0.2000 (type microvia_thrupin))
+set microvia_thrupin on
+rule PCB (clearance 0.2000 (type microvia_smdpin))
+set microvia_smdpin on
+rule PCB (clearance 0.2000 (type microvia_thruvia))
+set microvia_thruvia on
+rule PCB (clearance 0.1270 (type microvia_bbvia))
+set microvia_bbvia on
+rule PCB (clearance 0.2000 (type microvia_wire))
+set microvia_wire on
+rule PCB (clearance 0.1270 (type bbvia_bbvia))
+set bbvia_bbvia on
+rule PCB (clearance 0.1270 (type microvia_testpin))
+set microvia_testpin on
+rule PCB (clearance 0.2000 (type bbvia_thrupin))
+set bbvia_thrupin on
+rule PCB (clearance 0.1270 (type microvia_testvia))
+set microvia_testvia on
+rule PCB (clearance 0.2000 (type bbvia_smdpin))
+set bbvia_smdpin on
+rule PCB (clearance 0.1270 (type microvia_bondpad))
+set microvia_bondpad on
+rule PCB (clearance 0.2000 (type bbvia_thruvia))
+set bbvia_thruvia on
+rule PCB (clearance 0.2000 (type microvia_area))
+set microvia_area on
+rule PCB (clearance 0.2000 (type bbvia_wire))
+set bbvia_wire on
+rule PCB (clearance 0.2032 (type nhole_pin))
+set nhole_pin off
+rule PCB (clearance 0.2032 (type nhole_via))
+set nhole_via off
+rule PCB (clearance 0.2000 (type bbvia_area))
+set bbvia_area on
+rule PCB (clearance 0.2000 (type nhole_wire))
+set nhole_wire off
+rule PCB (clearance 0.2032 (type nhole_area))
+set nhole_area off
+rule PCB (clearance 0.2032 (type nhole_nhole))
+set nhole_nhole off
+rule PCB (clearance 0.2032 (type mhole_pin))
+set mhole_pin on
+rule PCB (clearance 0.1270 (type bbvia_testpin))
+set bbvia_testpin on
+rule PCB (clearance 0.2032 (type mhole_via))
+set mhole_via on
+rule PCB (clearance 0.1270 (type bbvia_testvia))
+set bbvia_testvia on
+rule PCB (clearance 0.2032 (type mhole_wire))
+set mhole_wire on
+rule PCB (clearance 0.2032 (type mhole_area))
+set mhole_area on
+rule PCB (clearance 0.2032 (type mhole_nhole))
+set mhole_nhole on
+rule PCB (clearance 0.2032 (type mhole_mhole))
+set mhole_mhole on
+rule PCB (clearance 0.1270 (type bbvia_bondpad))
+set bbvia_bondpad on
+rule PCB (clearance -1 same_net (type wire_wire))
+rule PCB (clearance -1 same_net (type wire_smd))
+rule PCB (clearance -1 same_net (type wire_pin))
+rule PCB (clearance -1 same_net (type wire_via))
+rule PCB (clearance -1 same_net (type smd_smd))
+rule PCB (clearance -1 same_net (type smd_pin))
+rule PCB (clearance -1 same_net (type smd_via))
+rule PCB (clearance -1 same_net (type pin_pin))
+rule PCB (clearance -1 same_net (type pin_via))
+rule PCB (clearance -1 same_net (type via_via))
+rule PCB (clearance -1 same_net (type test_test))
+rule PCB (clearance -1 same_net (type test_wire))
+rule PCB (clearance -1 same_net (type test_smd))
+rule PCB (clearance -1 same_net (type test_pin))
+rule PCB (clearance -1 same_net (type test_via))
+rule PCB (clearance 0 same_net (type area_wire))
+rule PCB (clearance 0 same_net (type area_smd))
+rule PCB (clearance 0 same_net (type area_area))
+rule PCB (clearance 0 same_net (type area_pin))
+rule PCB (clearance 0 same_net (type area_via))
+rule PCB (clearance 0 same_net (type area_test))
+rule PCB (clearance 0.1270 same_net (type microvia_microvia))
+set microvia_microvia same_net off
+rule PCB (clearance 0.1270 same_net (type microvia_thrupin))
+set microvia_thrupin same_net off
+rule PCB (clearance 0.1270 same_net (type microvia_smdpin))
+set microvia_smdpin same_net off
+rule PCB (clearance 0.1270 same_net (type microvia_thruvia))
+set microvia_thruvia same_net off
+rule PCB (clearance 0.1270 same_net (type microvia_bbvia))
+set microvia_bbvia same_net off
+rule PCB (clearance 0.1270 same_net (type microvia_wire))
+set microvia_wire same_net off
+rule PCB (clearance 0.1270 same_net (type microvia_testpin))
+set microvia_testpin same_net off
+rule PCB (clearance 0.1270 same_net (type microvia_testvia))
+set microvia_testvia same_net off
+rule PCB (clearance 0.1270 same_net (type microvia_bondpad))
+set microvia_bondpad same_net off
+rule PCB (clearance 0.1270 same_net (type microvia_area))
+set microvia_area same_net off
+rule PCB (clearance 0.2032 same_net (type nhole_pin))
+set nhole_pin same_net off
+rule PCB (clearance 0.2032 same_net (type nhole_via))
+set nhole_via same_net off
+rule PCB (clearance 0.2032 same_net (type nhole_wire))
+set nhole_wire same_net off
+rule PCB (clearance 0.2032 same_net (type nhole_area))
+set nhole_area same_net off
+rule PCB (clearance 0.2032 same_net (type nhole_nhole))
+set nhole_nhole same_net off
+rule PCB (clearance 0.1270 same_net (type bbvia_bbvia))
+set bbvia_bbvia same_net off
+rule PCB (clearance 0.1270 same_net (type bbvia_thrupin))
+set bbvia_thrupin same_net off
+rule PCB (clearance 0.1270 same_net (type bbvia_smdpin))
+set bbvia_smdpin same_net off
+rule PCB (clearance 0.1270 same_net (type bbvia_thruvia))
+set bbvia_thruvia same_net off
+rule PCB (clearance 0.1270 same_net (type bbvia_wire))
+set bbvia_wire same_net off
+rule PCB (clearance 0.1270 same_net (type bbvia_area))
+set bbvia_area same_net off
+rule PCB (clearance 0.1270 same_net (type bbvia_testpin))
+set bbvia_testpin same_net off
+rule PCB (clearance 0.1270 same_net (type bbvia_testvia))
+set bbvia_testvia same_net off
+rule PCB (clearance 0.1270 same_net (type bbvia_bondpad))
+set bbvia_bondpad same_net off
+rule pcb (tjunction on)(junction_type all)
+rule pcb (staggered_via on (min_gap 0.1270))
+rule pcb (via_at_smd off)
+rule PCB (turn_under_pad off)
+rule layer TOP (restricted_layer_length_factor 1)
+rule layer BOTTOM (restricted_layer_length_factor 1)
+write colormap _notify.std
+# do C:/Users/motre/AppData/Local/Temp/#Taaaaap16676.tmp
+unselect all routing
+set route_diagonal 0
+grid wire 0.000100 (direction x) (offset 0.000000)
+grid wire 0.000100 (direction y) (offset 0.000000)
+grid via 0.000100 (direction x) (offset 0.000000)
+grid via 0.000100 (direction y) (offset 0.000000)
+protect all wires
+direction TOP horizontal
+select layer TOP
+unprotect layer_wires TOP
+direction BOTTOM vertical
+select layer BOTTOM
+unprotect layer_wires BOTTOM
+cost via 100
+set turbo_stagger off
+limit outside -1
+rule pcb (patterns_allowed  trombone accordion)
+set pattern_stacking on
+rule pcb (sawtooth_amplitude -1 -1)
+rule pcb (sawtooth_gap -1)
+rule pcb (accordion_amplitude -1 -1)
+rule pcb (accordion_gap -1)
+rule pcb (trombone_run_length -1)
+rule pcb (trombone_gap -1)
+unprotect selected
+smart_route (auto_fanout off) (auto_testpoint off) (auto_miter off)
+write routes (changed_only) (reset_changed) C:/Users/motre/AppData/Local/Temp/#Taaaaaq16676.tmp
+# do C:/Users/motre/AppData/Local/Temp/#Taaaaas16676.tmp
+unselect all objects
+select net LVMS
+unprotect selected
+delete selected
+unprotect selected polygon
+delete selected polygon
+unselect all objects
+read route C:/Users/motre/AppData/Local/Temp/#Taaaaar16676.tmp
+# do C:/Users/motre/AppData/Local/Temp/#Taaaaat16676.tmp
+unselect all routing
+set route_diagonal 4
+grid wire 0.000100 (direction x) (offset 0.000000)
+grid wire 0.000100 (direction y) (offset 0.000000)
+grid via 0.000100 (direction x) (offset 0.000000)
+grid via 0.000100 (direction y) (offset 0.000000)
+protect all wires
+direction TOP horizontal
+select layer TOP
+unprotect layer_wires TOP
+direction BOTTOM vertical
+select layer BOTTOM
+unprotect layer_wires BOTTOM
+cost via 100
+set turbo_stagger off
+limit outside -1
+rule pcb (patterns_allowed  trombone accordion)
+set pattern_stacking on
+rule pcb (sawtooth_amplitude -1 -1)
+rule pcb (sawtooth_gap -1)
+rule pcb (accordion_amplitude -1 -1)
+rule pcb (accordion_gap -1)
+rule pcb (trombone_run_length -1)
+rule pcb (trombone_gap -1)
+unprotect selected
+smart_route (auto_fanout off) (auto_testpoint off) (auto_miter off)
+write routes (changed_only) (reset_changed) C:/Users/motre/AppData/Local/Temp/#Taaaaau16676.tmp
+# do C:/Users/motre/AppData/Local/Temp/#Taaaaaw16676.tmp
+unselect all objects
+select net _N215
+select net _N221
+select net _N247
+select net _N249
+select net _N251
+select net _N252
+select net _N250
+select net _N248
+select net _N243
+select net _N245
+select net _N246
+select net _N244
+select net _N222
+select net _N217
+select net _N219
+select net _N220
+select net _N218
+select net _N216
+select net RIGHT_LED
+select net GND
+select net _N178
+select net _N213
+select net _N214
+select net _N179
+select net _N176
+select net _N177
+select net _N175
+select net _N73
+select net _N74
+select net _N110
+select net INERTIA_LED
+select net _N72
+select net _N71
+select net BOTS_LED
+select net RIGHT
+select net COCKPIT_LED
+select net LEFT_LED
+select net INERTIA
+select net BOTS
+select net COCKPIT
+select net LEFT
+select net BSPD
+select net BSPD_LED
+select net LVMS
+unprotect selected
+delete selected
+unprotect selected polygon
+delete selected polygon
+unselect all objects
+read route C:/Users/motre/AppData/Local/Temp/#Taaaaav16676.tmp
+# do C:/Users/motre/AppData/Local/Temp/#Taaaaay16676.tmp
+unselect all objects
+select net _N252
+select net _N251
+select net _N250
+select net _N249
+select net _N248
+select net _N247
+select net _N246
+select net _N245
+select net _N244
+select net _N243
+select net _N222
+select net _N221
+select net _N220
+select net _N219
+select net _N218
+select net _N217
+select net _N216
+select net _N215
+select net _N214
+select net _N213
+select net _N179
+select net _N178
+select net _N177
+select net _N176
+select net _N175
+select net GND
+select net _N110
+select net _N74
+select net _N73
+select net _N72
+select net _N71
+select net INERTIA_LED
+select net BOTS_LED
+select net RIGHT_LED
+select net LEFT_LED
+select net COCKPIT_LED
+select net INERTIA
+select net BOTS
+select net RIGHT
+select net LEFT
+select net COCKPIT
+select net BSPD_LED
+select net BSPD
+select net LVMS
+unprotect selected
+delete selected
+unprotect selected polygon
+delete selected polygon
+unselect all objects
+read route C:/Users/motre/AppData/Local/Temp/#Taaaaax16676.tmp
+# do C:/Users/motre/AppData/Local/Temp/#Taaaaaz16676.tmp
+unselect all routing
+set route_diagonal 4
+grid wire 0.000100 (direction x) (offset 0.000000)
+grid wire 0.000100 (direction y) (offset 0.000000)
+grid via 0.000100 (direction x) (offset 0.000000)
+grid via 0.000100 (direction y) (offset 0.000000)
+protect all wires
+direction TOP horizontal
+select layer TOP
+unprotect layer_wires TOP
+direction BOTTOM vertical
+select layer BOTTOM
+unprotect layer_wires BOTTOM
+cost via -1
+set turbo_stagger off
+limit outside -1
+rule pcb (patterns_allowed  trombone accordion)
+set pattern_stacking on
+rule pcb (sawtooth_amplitude -1 -1)
+rule pcb (sawtooth_gap -1)
+rule pcb (accordion_amplitude -1 -1)
+rule pcb (accordion_gap -1)
+rule pcb (trombone_run_length -1)
+rule pcb (trombone_gap -1)
+unprotect selected
+smart_route (auto_fanout off) (auto_testpoint off) (auto_miter off)
+write routes (changed_only) (reset_changed) C:/Users/motre/AppData/Local/Temp/#Taaaaba16676.tmp
+# do C:/Users/motre/AppData/Local/Temp/#Taaaabc16676.tmp
+unselect all objects
+select net _N252
+select net _N251
+select net _N250
+select net _N249
+select net _N248
+select net _N247
+select net _N246
+select net _N245
+select net _N244
+select net _N243
+select net _N222
+select net _N221
+select net _N220
+select net _N219
+select net _N218
+select net _N217
+select net _N216
+select net _N215
+select net _N214
+select net _N213
+select net _N179
+select net _N178
+select net _N177
+select net _N176
+select net _N175
+select net GND
+select net _N110
+select net _N74
+select net _N73
+select net _N72
+select net INERTIA_LED
+select net BOTS_LED
+select net RIGHT_LED
+select net LEFT_LED
+select net COCKPIT_LED
+select net INERTIA
+select net BOTS
+select net RIGHT
+select net LEFT
+select net COCKPIT
+select net BSPD_LED
+select net BSPD
+select net LVMS
+select net +UNUSED_PINS+
+select net orphan_net
+unfix net orphan_net
+unprotect selected
+delete selected
+unprotect selected polygon
+delete selected polygon
+unselect all objects
+read route C:/Users/motre/AppData/Local/Temp/#Taaaabb16676.tmp
+fix net orphan_net
+# do C:/Users/motre/AppData/Local/Temp/#Taaaabe16676.tmp
+unselect all objects
+select net GND
+unprotect selected
+delete selected
+unprotect selected polygon
+delete selected polygon
+unselect all objects
+read route C:/Users/motre/AppData/Local/Temp/#Taaaabd16676.tmp
+quit -c

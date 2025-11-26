@@ -1,0 +1,43 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  C:.../safety_circuit_25-26/output/safety_circuit_25#2d26/physical/V1.brd    |
+|                                                    Tue Nov 25 16:18:23 2025  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  SPARE        pins DELETED FROM this net (all pins deleted)
+                                 J1.8            10.0000 41.7200
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SPARE_LED    pins DELETED FROM this net (all pins deleted)
+                                 J2.7            124.500 41.7600
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  C:.../safety_circuit_25-26/output/safety_circuit_25#2d26/physical/V1.brd    |
+|                                                    Tue Nov 25 16:18:23 2025  |
+|------------------------------------------------------------------------------|
+| COMPONENTS DELETED from design                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type      |   x   |   y                        |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C7                  ULTRALIBRARIAN#CL21C221JBANNNC#CL21C221JBANNNC 90.0000 31.6519
+ LED7                ULTRALIBRARIAN#150060SS75000#150060SS75000 41.5000  9.0000
+ R37                 ULTRALIBRARIAN#CHP0805AFX_1001ELF#CHP0805AFX_1001ELF 22.0000 33.0000
+ R38                 ULTRALIBRARIAN#CMP0805AFX_1002ELF#CMP0805AFX_1002ELF 22.0000 35.7000
+ R39                 ULTRALIBRARIAN#CHP0805AFX_1003ELF#CHP0805AFX_1003ELF 86.5000 33.5000
+ R40                 ULTRALIBRARIAN#CMP0805AFX_1002ELF#CMP0805AFX_1002ELF 90.0000 34.3000
+ R41                 ULTRALIBRARIAN#ERJ_P06J621V#ERJ_P06J621V 46.5000  9.0000
+ R42                 ULTRALIBRARIAN#CMF55620R00FKEK#CMF55620R00FKEK 114.000 35.0000
+ U13                 ULTRALIBRARIAN#VO618A_3X017T#VO618A_3X017T 33.3000 39.0000
+ U14                 ULTRALIBRARIAN#MMBT2222A#MMBT2222A 95.5000 32.0000
+|------------------------------------------------------------------------------|
+|       Nets changed          :       2                                        |
+|       Components deleted    :      10                                        |
+|                                                                              |
+|   Total ECO changes reported:      12                                        |
+|------------------------------------------------------------------------------|
