@@ -1,0 +1,80 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Refresh Padstack                                                 )
+(                                                                     )
+(    Drawing          : V1.brd                                        )
+(    Software Version : 25.1P001                                      )
+(    Date/Time        : Thu Nov 27 09:01:48 2025                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Thu Nov 27 09:01:48 2025				Page     1
+
+
+------ Pad Stack Refresh Options ------
+
+Input design  = 'C:/ECAD/Formula_Trinity_ECAD/safety_circuit_25-26/output/safety_circuit_25#2d26/physical/V1.brd'
+Output design = ''
+Reset symbol text and size locations   = 'NO'
+
+
+------ Library Paths ------
+PSMPATH =  C:\ECAD\Formula_Trinity_ECAD\SITE/pcb/symbols 
+
+PADPATH =  C:/ECAD/Formula_Trinity_ECAD/safety_circuit_25-26 
+
+
+------ Pad Stack Refresh Messages ------
+
+'FIDUCIAL-1MM'  pad stack refresh starting.
+
+     'FIDUCIAL-1MM'  pad stack refreshed successfully.
+     
+WARNING(SPMHNI-253): Unable to find pad stack, 'VIA', in directory search path.
+
+WARNING(SPMHNI-253): Unable to find pad stack, 'EX57Y57D37P', in directory search path.
+
+WARNING(SPMHNI-253): Unable to find pad stack, 'SX57Y57D37P', in directory search path.
+
+WARNING(SPMHNI-253): Unable to find pad stack, 'RX28Y51D0T', in directory search path.
+
+WARNING(SPMHNI-253): Unable to find pad stack, 'RX36Y55D0T', in directory search path.
+
+WARNING(SPMHNI-253): Unable to find pad stack, 'RX32Y53D0T', in directory search path.
+
+WARNING(SPMHNI-253): Unable to find pad stack, 'EX52Y52D32P', in directory search path.
+
+WARNING(SPMHNI-253): Unable to find pad stack, 'RX20Y47P71D0T', in directory search path.
+
+WARNING(SPMHNI-253): Unable to find pad stack, 'RX24Y71P71D0T', in directory search path.
+
+WARNING(SPMHNI-253): Unable to find pad stack, 'RX22Y59P71D0T', in directory search path.
+
+WARNING(SPMHNI-253): Unable to find pad stack, 'RX64Y52D0T', in directory search path.
+
+WARNING(SPMHNI-253): Unable to find pad stack, 'RX88Y54D0T', in directory search path.
+
+WARNING(SPMHNI-253): Unable to find pad stack, 'RX76Y54D0T', in directory search path.
+
+WARNING(SPMHNI-253): Unable to find pad stack, 'RX32Y51D0T', in directory search path.
+
+WARNING(SPMHNI-253): Unable to find pad stack, 'RX48Y55D0T', in directory search path.
+
+WARNING(SPMHNI-253): Unable to find pad stack, 'RX40Y53D0T', in directory search path.
+
+WARNING(SPMHNI-253): Unable to find pad stack, 'RX28Y33D0T', in directory search path.
+
+WARNING(SPMHNI-253): Unable to find pad stack, 'RX44Y37D0T', in directory search path.
+
+WARNING(SPMHNI-253): Unable to find pad stack, 'RX36Y35D0T', in directory search path.
+
+WARNING(SPMHNI-253): Unable to find pad stack, 'RX25P69Y47P21D0T', in directory search path.
+
+WARNING(SPMHNI-253): Unable to find pad stack, 'RX41P69Y51P21D0T', in directory search path.
+
+WARNING(SPMHNI-253): Unable to find pad stack, 'RX33P69Y49P21D0T', in directory search path.
+
+WARNING(SPMHNI-253): Unable to find pad stack, 'OX63Y63D43P', in directory search path.
+
+WARNING(SPMHNI-286): Completed refreshing all pad stacks successfully. Warnings detected.

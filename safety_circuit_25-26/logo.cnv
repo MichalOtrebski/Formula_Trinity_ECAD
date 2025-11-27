@@ -1,0 +1,7 @@
+#This is the Layer Conversion File used for
+#importing DXF data into Allegro/APD.
+#CLASS!            SUBCLASS!            DXF_LAYER!
+
+MANUFACTURING!
+                  SILKSCREEN_TOP!      0!
+#END

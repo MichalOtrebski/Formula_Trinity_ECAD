@@ -1,0 +1,20 @@
+\t (00:01:14) allegro 25.1 P001 (4349869) [9/14/2025] Windows SPB 64-bit Edition
+\t (00:01:14)     Journal start - Thu Nov 27 08:41:41 2025
+\t (00:01:14)         Host=DESKTOP-K84CAEP User=motre Pid=21436 CPUs=20
+\t (00:01:14) CmdLine= C:\Cadence\SPB_25.1\tools\bin\allegro.exe
+\t (00:01:14) 
+\t (00:01:15) Starting new design...
+\i (00:01:15) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged
+\i (00:01:15) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Electrical
+\i (00:01:19) trapsize 748
+\i (00:01:19) trapsize 748
+\i (00:01:19) updateport SearchPane
+\i (00:01:19) generaledit 
+\i (00:01:26) open 
+\i (00:01:35) fillin "C:/ECAD/Formula_Trinity_ECAD/safety_circuit_25-26/output/safety_circuit_25#2d26/physical/V1.brd"
+\i (00:01:35) cd "C:/ECAD/Formula_Trinity_ECAD/safety_circuit_25-26/output/safety_circuit_25#2d26/physical"
+\t (00:01:35) Opening existing design...
+\i (00:01:36) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged
+\i (00:01:36) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Electrical
+\i (00:01:39) trapsize 6177
+\t (00:01:39)     Journal end - Thu Nov 27 08:42:05 2025
