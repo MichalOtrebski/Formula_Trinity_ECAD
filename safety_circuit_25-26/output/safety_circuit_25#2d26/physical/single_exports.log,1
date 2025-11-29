@@ -1,0 +1,52 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    SINGLE EXPORTS                                                   )
+(                                                                     )
+(    Drawing          : V1.brd                                        )
+(    Software Version : 25.1P001                                      )
+(    Date/Time        : Sat Nov 29 19:58:40 2025                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+Processing group :Fabrication_IPC2581
+
+	Executing command :IPC2581 Database (Fabrication)
+		Successfully generated outputs
+
+	Executing command :Fabrication Drill View PDFs
+		Successfully generated outputs
+
+2 out of 2 exports successfully created. outputs are added to V1_Fabrication_IPC2581.zip
+
+Processing group :Assembly
+
+	Executing command :IPC2581 Database (Assembly)
+		Successfully generated outputs
+
+	Executing command :Artwork
+		Successfully generated outputs
+
+	Executing command :Assembly Drawing View PDFs
+		Successfully generated outputs
+
+	Executing command :Fabmaster Extract File
+		Successfully generated outputs
+
+	Executing command :BOM Report
+		Successfully generated outputs
+
+	Executing command :Component Placement Report
+		Successfully generated outputs
+
+	Executing command :Testpoint Report
+		Successfully generated outputs
+
+	Executing command :Testpoint NC Data File
+		Successfully generated outputs
+
+8 out of 8 exports successfully created. outputs are added to V1_Assembly.zip
+
+
+Configuration data is saved as an attachment to the design

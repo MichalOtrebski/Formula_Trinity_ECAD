@@ -1,0 +1,209 @@
+\t (00:00:15) allegro 25.1 P001 (4349869) [9/14/2025] Windows SPB 64-bit Edition
+\t (00:00:15)     Journal start - Sat Nov 29 19:01:29 2025
+\t (00:00:15)         Host=COMPUTER User=motre Pid=3540 CPUs=12
+\t (00:00:15) CmdLine= C:\Cadence\SPB_25.1\tools\bin\allegro.exe
+\t (00:00:15) 
+\t (00:00:15) Loading axlcore.cxt 
+\t (00:00:15) Opening existing design...
+\i (00:00:16) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged Logo
+\d (00:00:16) Design opened: C:/ECAD/Formula_Trinity_ECAD/safety_circuit_25-26/output/safety_circuit_25#2d26/physical/Logo.dra
+\i (00:00:16) trapsize 484714
+\i (00:00:16) trapsize 505228
+\i (00:00:16) trapsize 484714
+\i (00:00:16) trapsize 517749
+\i (00:00:16) trapsize 664623
+\t (00:00:16) Loading NV GPU Plugin
+\i (00:00:16) trapsize 416745
+\i (00:00:20) updateport SearchPane
+\i (00:00:20) generaledit 
+\i (00:00:34) roam start
+\i (00:00:34) roam x 2
+\i (00:00:34) roam x 1
+\i (00:00:34) roam x 1
+\i (00:00:34) roam x 1
+\i (00:00:34) roam x 1
+\i (00:00:34) roam x 1
+\i (00:00:34) roam x 1
+\i (00:00:34) roam x 1
+\i (00:00:34) roam x 1
+\i (00:00:34) roam x 1
+\i (00:00:34) roam x 1
+\i (00:00:34) roam x 1
+\i (00:00:34) roam x 2
+\i (00:00:34) roam x 1
+\i (00:00:34) roam x 1
+\i (00:00:34) roam x 1
+\i (00:00:34) roam x 1
+\i (00:00:34) roam x 1
+\i (00:00:34) roam x 1
+\i (00:00:34) roam x 1
+\i (00:00:34) roam x 1
+\i (00:00:34) roam x 2
+\i (00:00:34) roam x 2
+\i (00:00:34) roam x 1
+\i (00:00:34) roam x 2
+\i (00:00:34) roam x 2
+\i (00:00:34) roam x 2
+\i (00:00:34) roam x 1
+\i (00:00:34) roam x 3
+\i (00:00:34) roam x 2
+\i (00:00:34) roam y 1
+\i (00:00:34) roam x 1
+\i (00:00:34) roam x 1
+\i (00:00:34) roam x 2
+\i (00:00:34) roam x 1
+\i (00:00:34) roam y 1
+\i (00:00:34) roam x 1
+\i (00:00:34) roam x 1
+\i (00:00:34) roam x 1
+\i (00:00:34) roam x 1
+\i (00:00:34) roam x 1
+\i (00:00:34) roam x 1
+\i (00:00:34) roam y 1
+\i (00:00:34) roam x 1
+\i (00:00:34) roam x 1
+\i (00:00:34) roam x 1
+\i (00:00:34) roam x 1
+\i (00:00:34) roam x 1
+\i (00:00:34) roam y 1
+\i (00:00:34) roam x 1
+\i (00:00:34) roam x 1
+\i (00:00:34) roam x 1
+\i (00:00:34) roam x 1
+\i (00:00:34) roam y 1
+\i (00:00:34) roam x 1
+\i (00:00:34) roam x 1
+\i (00:00:34) roam x 1
+\i (00:00:34) roam x 1
+\i (00:00:34) roam x 1
+\i (00:00:34) roam y 1
+\i (00:00:34) roam x 1
+\i (00:00:34) roam x 1
+\i (00:00:34) roam x 1
+\i (00:00:34) roam x 1
+\i (00:00:34) roam y 1
+\i (00:00:34) roam x 1
+\i (00:00:34) roam x 1
+\i (00:00:34) roam x 1
+\i (00:00:34) roam y 1
+\i (00:00:34) roam x 1
+\i (00:00:34) roam x 1
+\i (00:00:34) roam x 1
+\i (00:00:34) roam x 1
+\i (00:00:34) roam y 1
+\i (00:00:34) roam x 1
+\i (00:00:35) roam x 1
+\i (00:00:35) roam x 1
+\i (00:00:35) roam y 1
+\i (00:00:35) roam x 1
+\i (00:00:35) roam x 1
+\i (00:00:35) roam x 1
+\i (00:00:35) roam y 1
+\i (00:00:35) roam x 1
+\i (00:00:35) roam x 1
+\i (00:00:35) roam x 1
+\i (00:00:35) roam x 1
+\i (00:00:35) roam y 1
+\i (00:00:35) roam x 1
+\i (00:00:35) roam x 1
+\i (00:00:35) roam x 1
+\i (00:00:35) roam y 1
+\i (00:00:35) roam x 1
+\i (00:00:35) roam x 1
+\i (00:00:35) roam x 1
+\i (00:00:35) roam x 1
+\i (00:00:35) roam y 1
+\i (00:00:35) roam x 1
+\i (00:00:35) roam x 1
+\i (00:00:35) roam x 1
+\i (00:00:35) roam y 1
+\i (00:00:35) roam x 1
+\i (00:00:35) roam x 1
+\i (00:00:35) roam x 1
+\i (00:00:35) roam y 1
+\i (00:00:35) roam x 1
+\i (00:00:35) roam x 1
+\i (00:00:35) roam x 1
+\i (00:00:35) roam x 1
+\i (00:00:35) roam y 1
+\i (00:00:35) roam x 1
+\i (00:00:35) roam x 1
+\i (00:00:35) roam x 1
+\i (00:00:35) roam y 1
+\i (00:00:35) roam x 1
+\i (00:00:35) roam x 1
+\i (00:00:35) roam y 1
+\i (00:00:35) roam x 1
+\i (00:00:35) roam x 1
+\i (00:00:35) roam x 1
+\i (00:00:35) roam y 1
+\i (00:00:35) roam x 1
+\i (00:00:35) roam x 1
+\i (00:00:35) roam y 1
+\i (00:00:35) roam x 1
+\i (00:00:35) roam x 1
+\i (00:00:35) roam y 1
+\i (00:00:35) roam x 1
+\i (00:00:35) roam x 1
+\i (00:00:35) roam y 1
+\i (00:00:35) roam x 1
+\i (00:00:35) roam x 1
+\i (00:00:35) roam y 1
+\i (00:00:35) roam x 1
+\i (00:00:35) roam x 1
+\i (00:00:35) roam y 1
+\i (00:00:35) roam x 1
+\i (00:00:35) roam x 1
+\i (00:00:35) roam y 1
+\i (00:00:35) roam x 1
+\i (00:00:35) roam x 1
+\i (00:00:35) roam x 1
+\i (00:00:35) roam y 1
+\i (00:00:35) roam x 1
+\i (00:00:35) roam x 1
+\i (00:00:35) roam y 1
+\i (00:00:35) roam x 1
+\i (00:00:35) roam x 1
+\i (00:00:35) roam x 1
+\i (00:00:35) roam x 1
+\i (00:00:35) roam y 1
+\i (00:00:35) roam x 1
+\i (00:00:35) roam x 1
+\i (00:00:35) roam y 1
+\i (00:00:35) roam x 1
+\i (00:00:35) roam x 1
+\i (00:00:35) roam x 1
+\i (00:00:35) roam x 1
+\i (00:00:35) roam y 1
+\i (00:00:35) roam x 1
+\i (00:00:35) roam x 1
+\i (00:00:35) roam y 1
+\i (00:00:35) roam x 1
+\i (00:00:35) roam end
+\i (00:00:35) zoom out 1 
+\i (00:00:35) setwindow pcb
+\i (00:00:35) zoom out 2876.4716 3184.8631
+\t (00:00:35) Loading consmgr.cxt 
+\t (00:00:35) Loading acns_formula.cxt 
+\i (00:00:35) trapsize 833490
+\i (00:00:36) drag_start grid -5210.4127 4851.8439
+\i (00:00:36) drag_stop 8642.1985 -182.4384
+\i (00:00:36) pick grid 8642.1985 -182.4384
+\t (00:00:36) last pick:  8641.0800 -182.8800
+\i (00:00:39) logomaker 
+\i (00:00:39) setwindow text
+\i (00:00:39) stick
+\i (00:00:39) setwindow pcb
+\i (00:00:39) generaledit 
+\i (00:05:12) setwindow text
+\i (00:05:12) close
+\i (00:05:32) setwindow pcb
+\i (00:05:32) exit 
+\t (00:05:32) [19:06:46.363507] Periodic Lic check successful
+[19:06:46.363513] Feature usage summary:
+
+\t (00:05:32) Lic Summary:
+[19:06:46.119017] Cdslmd servers:
+[19:06:46.643417] Feature usage summary:
+
+\t (00:05:32)     Journal end - Sat Nov 29 19:06:46 2025
